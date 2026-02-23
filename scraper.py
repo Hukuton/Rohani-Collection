@@ -5,75 +5,49 @@ from bs4 import BeautifulSoup
 import os
 import re
 
-# --- 1. THE CHORD MERGER (Converts separate lines to [G] format) ---
+print("Starting JRChord A-Z Scraper...")
+
+# --- 1. THE CHORD MERGER ---
 def merge_chords_and_lyrics(raw_text):
     lines = raw_text.split('\n')
     formatted_lines = []
     i = 0
     while i < len(lines):
         line = lines[i].rstrip()
-        # Regex to detect a "Chord Line" (A-G, sharps, minors, etc.)
-        is_chord_line = re.match(r'^[\sA-Gmb#maj7sus24dim+0-9/]+$', line)
         
-        # If this is a chord line and the next line has lyrics
+        # Regex: Detect if the line is mostly chords (A-G, #, m, dim, sus, etc)
+        is_chord_line = re.match(r'^[\sA-Gmb#maj7sus24dim+0-9/()]+$', line) and len(line.strip()) > 0
+        
         if is_chord_line and i + 1 < len(lines) and lines[i+1].strip():
             chord_line = line
-            lyric_line = lines[i+1]
+            lyric_line = lines[i+1].rstrip()
+            
+            # Pad lyric line with spaces if chords extend further
+            if len(chord_line) > len(lyric_line):
+                lyric_line += " " * (len(chord_line) - len(lyric_line))
+                
             new_line = ""
             last_pos = 0
             
-            # Find every chord and its character index
             for match in re.finditer(r'\S+', chord_line):
                 chord = match.group()
                 pos = match.start()
                 
-                # Merge: lyrics up to the chord + the chord in brackets
                 new_line += lyric_line[last_pos:pos]
                 new_line += f"[{chord}]"
                 last_pos = pos
             
             new_line += lyric_line[last_pos:]
-            formatted_lines.append(new_line)
-            i += 2 # Skip the lyric line since we merged it
+            formatted_lines.append(new_line.strip())
+            i += 2 
         else:
             formatted_lines.append(line)
             i += 1
-    return "\n".join(formatted_lines)
+            
+    return "\n".join(formatted_lines).strip()
 
-# --- 2. THE SITEMAP CRAWLER (Uses the "Gold Mine" URLs) ---
-def get_all_links():
-    headers = {
-        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
-    }
-    sitemaps = [
-        "https://www.jrchord.com/post-sitemap.xml",
-        "https://www.jrchord.com/post-sitemap2.xml"
-    ]
-    all_links = []
-    
-    for s_url in sitemaps:
-        try:
-            print(f"Checking sitemap: {s_url}")
-            r = requests.get(s_url, headers=headers, timeout=15)
-            
-            # --- THE FIX: REGEX SEARCH ---
-            # Instead of relying on a fragile XML parser, we use a regex 
-            # to find everything between <loc> and </loc> tags.
-            import re
-            links = re.findall(r'<loc>(.*?)</loc>', r.text)
-            
-            # Filter to ensure we only get actual song pages
-            filtered_links = [l.strip() for l in links if l.endswith('.html')]
-            
-            print(f"  Found {len(filtered_links)} valid song links.")
-            all_links.extend(filtered_links)
-            
-        except Exception as e:
-            print(f"  Error reading {s_url}: {e}")
-            
-    return list(set(all_links))
 
-# --- 3. MAIN SCRAPING ENGINE ---
+# --- 2. LOAD EXISTING DATABASE ---
 hymns_file = 'hymns.json'
 existing_hymns = []
 if os.path.exists(hymns_file):
@@ -84,43 +58,82 @@ if os.path.exists(hymns_file):
             existing_hymns = []
 
 existing_ids = [h.get("remote_id") for h in existing_hymns]
-all_links = get_all_links()
-new_links = [l for l in all_links if l.strip('/').split('/')[-1] not in existing_ids]
+headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"}
 
-print(f"Found {len(new_links)} new songs to scrape. Starting batch of 50...")
 
-# Scrape 50 per run to stay within GitHub Action time limits
+# --- 3. GET ALL LINKS FROM A-Z PAGES ---
+# Using the exact letters you found on the site
+letters = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'r', 's', 't', 'u', 'w', 'y', 'z']
+all_song_links = []
+
+print("Scanning A-Z directories for links...")
+for letter in letters:
+    page_url = f"https://www.jrchord.com/judul-lagu-berawal-dari-huruf-{letter}"
+    try:
+        res = requests.get(page_url, headers=headers)
+        soup = BeautifulSoup(res.text, "html.parser")
+        
+        # Look for the exact div structure from your screenshot
+        song_divs = soup.find_all('div', class_=lambda c: c and 'song-responsive' in c)
+        for div in song_divs:
+            a_tag = div.find('a')
+            if a_tag and 'href' in a_tag.attrs:
+                href = a_tag['href']
+                if href.startswith('/'):
+                    all_song_links.append(f"https://www.jrchord.com{href}")
+    except Exception as e:
+        print(f"Error scanning letter {letter.upper()}: {e}")
+
+# Remove duplicates and filter out songs we already have
+all_song_links = list(set(all_song_links))
+new_links = [link for link in all_song_links if link.strip('/').split('/')[-1] not in existing_ids]
+
+print(f"Found {len(all_song_links)} total songs. {len(new_links)} are new.")
+
+
+# --- 4. SCRAPE THE NEW SONGS (Batch of 50) ---
+# We scrape 50 at a time so GitHub Actions doesn't time out
 for url in new_links[:50]:
     remote_id = url.strip('/').split('/')[-1]
     try:
-        r = requests.get(url, headers={"User-Agent": "Mozilla/5.0"})
+        r = requests.get(url, headers=headers)
         soup = BeautifulSoup(r.text, "html.parser")
         
-        # Using the <pre> tag discovery
-        lyrics_tag = soup.find("pre")
-        if lyrics_tag:
-            raw_text = lyrics_tag.get_text()
+        # WE FOUND THE CORRECT TAG! Extracting the <pre> tag
+        pre_tag = soup.find("pre")
+        if pre_tag:
+            raw_text = pre_tag.get_text()
+            
+            # Format the chords automatically
             final_lyrics = merge_chords_and_lyrics(raw_text)
             
+            # Find the title (usually in an h1 tag)
             title_tag = soup.find("h1") or soup.find("title")
-            title = title_tag.get_text().split('|')[0].strip()
+            title = title_tag.get_text().split('|')[0].strip() if title_tag else remote_id.replace('-', ' ').title()
 
             existing_hymns.append({
                 "remote_id": remote_id,
-                "language": "indo", # Defaulting as jrchord is mainly indo
+                "language": "indo", # Defaulting to indo for jrchord
                 "title": title,
                 "lyric": [{"type": 5, "text": final_lyrics}]
             })
-            print(f"  Successfully added: {title}")
-            time.sleep(2) # Politeness delay
+            print(f"  ✅ Added: {title}")
+            time.sleep(1.5) # Polite delay
+        else:
+            print(f"  ❌ No <pre> tag found on {remote_id}")
+            
     except Exception as e:
-        print(f"  Error on {url}: {e}")
+        print(f"  ⚠️ Error scraping {remote_id}: {e}")
 
-# --- 4. SAVE AND TIMESTAMP ---
-with open(hymns_file, 'w', encoding='utf-8') as f:
-    json.dump(existing_hymns, f, ensure_ascii=False, indent=4)
 
-with open('version.json', 'w', encoding='utf-8') as f:
-    json.dump({"last_updated": int(time.time())}, f, indent=4)
+# --- 5. SAVE DATA ---
+if len(new_links) > 0:
+    with open(hymns_file, 'w', encoding='utf-8') as f:
+        json.dump(existing_hymns, f, ensure_ascii=False, indent=4)
 
-print("Update complete.")
+    with open('version.json', 'w', encoding='utf-8') as f:
+        json.dump({"last_updated": int(time.time())}, f, indent=4)
+        
+    print(f"\nSuccessfully saved to {hymns_file}!")
+else:
+    print("\nDatabase is already up to date!")
