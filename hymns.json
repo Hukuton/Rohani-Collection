@@ -1,13 +1,2 @@
 [
-    {
-        "remote_id": "request",
-        "language": "indo",
-        "title": "Request",
-        "lyric": [
-            {
-                "type": 5,
-                "text": "Untuk request chord bisa di aplikasi JRChord, ke menu Pengaturan -> Tentang -> SMS/WhatsApp"
-            }
-        ]
-    }
 ]
