@@ -1,5 +1,11 @@
 name: Auto-Scrape Hymns
 
+#0 = Minute 0 (the top of the hour)
+#3 = The 3rd hour (3:00 AM)
+#* = Any day of the month
+#* = Any month
+
+2 = Day of the week (0 is Sunday, 1 is Monday, 2 is Tuesday)
 on:
   schedule:
     - cron: '0 3 * * 2' 
