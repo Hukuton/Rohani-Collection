@@ -42,23 +42,35 @@ def merge_chords_and_lyrics(raw_text):
 
 # --- 2. THE SITEMAP CRAWLER (Uses the "Gold Mine" URLs) ---
 def get_all_links():
-    headers = {"User-Agent": "Mozilla/5.0"}
+    headers = {
+        "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    }
     sitemaps = [
         "https://www.jrchord.com/post-sitemap.xml",
         "https://www.jrchord.com/post-sitemap2.xml"
     ]
     all_links = []
+    
     for s_url in sitemaps:
         try:
             print(f"Checking sitemap: {s_url}")
-            r = requests.get(s_url, headers=headers)
-            soup = BeautifulSoup(r.text, 'xml')
-            # Extract all URLs ending in .html
-            links = [loc.text for loc in soup.find_all('loc') if loc.text.endswith('.html')]
-            print(f"  Found {len(links)} links.")
-            all_links.extend(links)
+            r = requests.get(s_url, headers=headers, timeout=15)
+            
+            # --- THE FIX: REGEX SEARCH ---
+            # Instead of relying on a fragile XML parser, we use a regex 
+            # to find everything between <loc> and </loc> tags.
+            import re
+            links = re.findall(r'<loc>(.*?)</loc>', r.text)
+            
+            # Filter to ensure we only get actual song pages
+            filtered_links = [l.strip() for l in links if l.endswith('.html')]
+            
+            print(f"  Found {len(filtered_links)} valid song links.")
+            all_links.extend(filtered_links)
+            
         except Exception as e:
             print(f"  Error reading {s_url}: {e}")
+            
     return list(set(all_links))
 
 # --- 3. MAIN SCRAPING ENGINE ---
