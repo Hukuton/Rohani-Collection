@@ -1,0 +1,32 @@
+name: Auto-Scrape Hymns
+
+on:
+  schedule:
+    - cron: '0 3 * * 2' 
+  workflow_dispatch: 
+
+jobs:
+  scrape-and-update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install Dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run the Scraper Script
+        run: python scraper.py
+
+      - name: Commit and Push the JSON files
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Auto-update hymns.json from scraper"
