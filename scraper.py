@@ -57,15 +57,23 @@ try:
     # Usually, song lists are just <a> tags inside the main content area.
     song_links = soup.find_all('a') 
     
-    # Filter to only keep links that look like chords/songs
+   # Filter to only keep links that look like actual songs
     valid_links = []
+    
+    # Words in URLs that we want to IGNORE
+    bad_words = ['/p/', 'request', 'tentang', 'contact', 'search', 'label']
+    
     for link in song_links:
         href = link.get('href', '')
-        # Assuming jrchord song URLs look something like /chord/... or similar.
-        # If they are just regular URLs, we check that it's from jrchord.com 
-        # and has a decent length. Adjust this rule if needed!
-        if "jrchord.com" in href and len(href) > 25 and href not in valid_links:
-            valid_links.append(href)
+        
+        # 1. It must be a jrchord link
+        # 2. It must end with .html (Blogger uses .html for actual song posts)
+        if "jrchord.com" in href and href.endswith('.html'):
+            
+            # 3. It must NOT contain any of our bad words
+            if not any(bad_word in href for bad_word in bad_words):
+                if href not in valid_links:
+                    valid_links.append(href)
             
     print(f"Found {len(valid_links)} potential song links on the page.")
 
