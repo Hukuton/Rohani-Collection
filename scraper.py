@@ -15,7 +15,7 @@ def merge_chords_and_lyrics(raw_text):
     while i < len(lines):
         line = lines[i].rstrip()
         
-        # Regex: Detect if the line is mostly chords (A-G, #, m, dim, sus, etc)
+        # Regex: Detect if the line is mostly chords
         is_chord_line = re.match(r'^[\sA-Gmb#maj7sus24dim+0-9/()]+$', line) and len(line.strip()) > 0
         
         if is_chord_line and i + 1 < len(lines) and lines[i+1].strip():
@@ -46,8 +46,18 @@ def merge_chords_and_lyrics(raw_text):
             
     return "\n".join(formatted_lines).strip()
 
+# --- 2. LANGUAGE DETECTION ---
+def detect_language(text):
+    t = text.lower()
+    eng = [" the ", " you ", " and ", " lord ", " god ", " of ", " in ", " me ", " my ", " is "]
+    ind = [" yang ", " tuhan ", " kau ", " dan ", " nya ", " di ", " ini ", " ku ", " allah "]
+    
+    e_score = sum(t.count(w) for w in eng)
+    i_score = sum(t.count(w) for w in ind)
+    
+    return "en" if e_score > i_score else "indo"
 
-# --- 2. LOAD EXISTING DATABASE ---
+# --- 3. LOAD EXISTING DATABASE ---
 hymns_file = 'hymns.json'
 existing_hymns = []
 if os.path.exists(hymns_file):
@@ -60,9 +70,7 @@ if os.path.exists(hymns_file):
 existing_ids = [h.get("remote_id") for h in existing_hymns]
 headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64)"}
 
-
-# --- 3. GET ALL LINKS FROM A-Z PAGES ---
-# Using the exact letters you found on the site
+# --- 4. GET ALL LINKS FROM A-Z PAGES ---
 letters = ['a', 'b', 'c', 'd', 'e', 'f', 'g', 'h', 'i', 'j', 'k', 'l', 'm', 'n', 'o', 'p', 'r', 's', 't', 'u', 'w', 'y', 'z']
 all_song_links = []
 
@@ -73,7 +81,6 @@ for letter in letters:
         res = requests.get(page_url, headers=headers)
         soup = BeautifulSoup(res.text, "html.parser")
         
-        # Look for the exact div structure from your screenshot
         song_divs = soup.find_all('div', class_=lambda c: c and 'song-responsive' in c)
         for div in song_divs:
             a_tag = div.find('a')
@@ -84,49 +91,52 @@ for letter in letters:
     except Exception as e:
         print(f"Error scanning letter {letter.upper()}: {e}")
 
-# Remove duplicates and filter out songs we already have
 all_song_links = list(set(all_song_links))
 new_links = [link for link in all_song_links if link.strip('/').split('/')[-1] not in existing_ids]
 
 print(f"Found {len(all_song_links)} total songs. {len(new_links)} are new.")
 
-
-# --- 4. SCRAPE THE NEW SONGS (Batch of 50) ---
-# We scrape 50 at a time so GitHub Actions doesn't time out
+# --- 5. SCRAPE THE NEW SONGS (Batch of 50) ---
 for url in new_links[:50]:
     remote_id = url.strip('/').split('/')[-1]
     try:
         r = requests.get(url, headers=headers)
         soup = BeautifulSoup(r.text, "html.parser")
         
-        # WE FOUND THE CORRECT TAG! Extracting the <pre> tag
         pre_tag = soup.find("pre")
         if pre_tag:
             raw_text = pre_tag.get_text()
-            
-            # Format the chords automatically
             final_lyrics = merge_chords_and_lyrics(raw_text)
+            detected_lang = detect_language(final_lyrics)
             
-            # Find the title (usually in an h1 tag)
-            title_tag = soup.find("h1") or soup.find("title")
-            title = title_tag.get_text().split('|')[0].strip() if title_tag else remote_id.replace('-', ' ').title()
+            # --- NEW: EXTRACT CLEAN TITLE AND ARTIST ---
+            title_tag = soup.find("h1", class_="song-detail-title")
+            clean_title = title_tag.get_text().strip() if title_tag else remote_id.replace('-', ' ').title()
+            
+            artist_tag = soup.find("div", class_="song-detail-artist")
+            artist = artist_tag.get_text().strip() if artist_tag else ""
+            
+            # Combine them perfectly!
+            if artist:
+                final_title = f"{clean_title} - {artist}"
+            else:
+                final_title = clean_title
 
             existing_hymns.append({
                 "remote_id": remote_id,
-                "language": "indo", # Defaulting to indo for jrchord
-                "title": title,
+                "language": detected_lang,
+                "title": final_title,
                 "lyric": [{"type": 5, "text": final_lyrics}]
             })
-            print(f"  ✅ Added: {title}")
-            time.sleep(1.5) # Polite delay
+            print(f"  ✅ Added: {final_title} [{detected_lang.upper()}]")
+            time.sleep(1.5) 
         else:
             print(f"  ❌ No <pre> tag found on {remote_id}")
             
     except Exception as e:
         print(f"  ⚠️ Error scraping {remote_id}: {e}")
 
-
-# --- 5. SAVE DATA ---
+# --- 6. SAVE DATA ---
 if len(new_links) > 0:
     with open(hymns_file, 'w', encoding='utf-8') as f:
         json.dump(existing_hymns, f, ensure_ascii=False, indent=4)
@@ -134,6 +144,6 @@ if len(new_links) > 0:
     with open('version.json', 'w', encoding='utf-8') as f:
         json.dump({"last_updated": int(time.time())}, f, indent=4)
         
-    print(f"\nSuccessfully saved to {hymns_file}!")
+    print(f"\nSuccessfully saved {len(existing_hymns)} total songs to {hymns_file}!")
 else:
     print("\nDatabase is already up to date!")
