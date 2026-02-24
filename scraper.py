@@ -109,26 +109,23 @@ for url in new_links[:50]:
             final_lyrics = merge_chords_and_lyrics(raw_text)
             detected_lang = detect_language(final_lyrics)
             
-            # --- NEW: EXTRACT CLEAN TITLE AND ARTIST ---
+            # --- EXTRACT CLEAN TITLE AND ARTIST ---
             title_tag = soup.find("h1", class_="song-detail-title")
             clean_title = title_tag.get_text().strip() if title_tag else remote_id.replace('-', ' ').title()
             
             artist_tag = soup.find("div", class_="song-detail-artist")
             artist = artist_tag.get_text().strip() if artist_tag else ""
-            
-            # Combine them perfectly!
-            if artist:
-                final_title = f"{clean_title} - {artist}"
-            else:
-                final_title = clean_title
 
+            # Save them as separate fields
             existing_hymns.append({
                 "remote_id": remote_id,
                 "language": detected_lang,
-                "title": final_title,
+                "title": clean_title,
+                "artist": artist,
                 "lyric": [{"type": 5, "text": final_lyrics}]
             })
-            print(f"  ✅ Added: {final_title} [{detected_lang.upper()}]")
+            
+            print(f"  ✅ Added: {clean_title} by {artist} [{detected_lang.upper()}]")
             time.sleep(1.5) 
         else:
             print(f"  ❌ No <pre> tag found on {remote_id}")
