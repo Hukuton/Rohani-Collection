@@ -115,6 +115,7 @@ for url in new_links[:50]:
             
             artist_tag = soup.find("div", class_="song-detail-artist")
             artist = artist_tag.get_text().strip() if artist_tag else ""
+            original_key = pre_tag.get("data-key", "")
 
             # Save them as separate fields
             existing_hymns.append({
@@ -122,6 +123,7 @@ for url in new_links[:50]:
                 "language": detected_lang,
                 "title": clean_title,
                 "artist": artist,
+                "key": original_key,
                 "lyric": [{"type": 5, "text": final_lyrics}]
             })
             
