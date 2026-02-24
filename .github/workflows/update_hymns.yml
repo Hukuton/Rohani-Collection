@@ -30,3 +30,11 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "Auto-update hymns.json from scraper"
+          
+      - name: Run the Pre-Processor
+        run: python preprocess.py
+
+      - name: Commit and Push the JSON files
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Auto-update and pre-process hymns database"
