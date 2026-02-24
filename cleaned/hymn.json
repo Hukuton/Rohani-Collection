@@ -50,6 +50,31 @@
         ]
     },
     {
+        "remote_id": "ada-dalam-hatimu-ndc-worship",
+        "language": "indo",
+        "title": "Ada Dalam HatiMu",
+        "artist": "NDC Worship",
+        "key": "F",
+        "lyric": [
+            {
+                "type": 1,
+                "text": "Da[F]lamnya Kasih Sayang[Bb]Mu\nKau[C]tuliskan Dalam Ha[F]tiku\nSu[Dm]ka Dan Du[F/C]ka Yang [G/B]Kulewati\nIn[Gm]dah Bersa[C]maMu Tu[F]han"
+            },
+            {
+                "type": 3,
+                "text": "Ka[F]sihMu S'lal[Am]u Mengal[Dm]ir   [F/C]\nPe[Bb]nuhi Ke[F/A]hidupan[C]ku\nEngk[F]au Seti[Am]a Meng[Bb]uatkan[Dm]ku\nKu [Gm]Bersyu[F/A]kur Ku[Bb]ada Da[C]lam Hati[F]Mu"
+            },
+            {
+                "type": 3,
+                "text": "Musik :\n[Bb]Bb  [F/A]F/A  [Gm]C\n[Bb]Bb  [F/A]F/A  [Gm]C"
+            },
+            {
+                "type": 3,
+                "text": "- Bait\n- Reff"
+            }
+        ]
+    },
+    {
         "remote_id": "ada-jalannya-tuhan-angel-pieters",
         "language": "indo",
         "title": "Ada JalanNya Tuhan",
@@ -786,6 +811,27 @@
         ]
     },
     {
+        "remote_id": "allah-itu-baik-ir-welyar-kauntu",
+        "language": "indo",
+        "title": "Allah Itu Baik",
+        "artist": "Ir. Welyar Kauntu",
+        "key": "A",
+        "lyric": [
+            {
+                "type": 0,
+                "text": "[D]D  [C#m]C#m  [Bm]F#m [E] Bm[A]  E  A  E"
+            },
+            {
+                "type": 1,
+                "text": "Allah [A]Itu Baik, Sungguh Baik [Bm]Bagi[E]ku\nDitunj[A]ukkan-Nya Kasih Se[Bm]tia-[E]Nya\nDia Me[A]nyediakan Yang Kup[C#]erlu[F#m]kan\nMe[Bm]nyatakan Ke[A/C#]baikan, Me[D]nyatakan Ke[A/C#]baikan\nMe[Bm]nyatakan Ke[E]baikan-Nya Padak[A]u"
+            },
+            {
+                "type": 3,
+                "text": "Kasih [E]Setia-Nya Tak Pernah [A]Berubah\nDu[E]lu S’karang Dan S’laman[A]ya\nAj[E]aiblah Kuasa Dalam [A]Nam[C#]a-Ny[F#]a\nYe[Bm]susku [E]Luar Bia[A]sa"
+            }
+        ]
+    },
+    {
         "remote_id": "allah-roh-kudus",
         "language": "indo",
         "title": "Allah Roh Kudus",
@@ -899,6 +945,35 @@
         ]
     },
     {
+        "remote_id": "alleluia-to-christ-the-lord-true-worshippers",
+        "language": "en",
+        "title": "Alleluia To Christ The Lord",
+        "artist": "True Worshippers",
+        "key": "D",
+        "lyric": [
+            {
+                "type": 0,
+                "text": "[G]G  [A]A  [D]D\n[G]G  [A]A  [Bm]D"
+            },
+            {
+                "type": 1,
+                "text": "I Will Lift My [G]Heart [A/C#]And Si[D]ng\nI Will Worship [G]You [A/C#]My    [D]King\nEarth And Heaven [G]Now [A/C#]Pro – c[Bm]laim\nJesus Christ The [G]Migh – [A/C#]ty   N[D]ame\nThrough The Storm And [G]Rag – [A/C#]ing  S[D]ea\nI Will Never [G]Be [A/C#]A –  l[D]one\nWhen My Hope Seems [G]Out [A]Of [Bm]Sight\nI Know You Will S[G]hine [A]Your [D]Light"
+            },
+            {
+                "type": 3,
+                "text": "Al[G]le – [A]lu – [D]ia, Al[G]le – [A]lu – [D]ia, Al[G]le – [A]lu - [Bm]ia\nAllelu[G]ia To [A]Christ The [D]Lord"
+            },
+            {
+                "type": 1,
+                "text": "Dengan Sege[G]nap [A/C#]Ha – t[D]i\nKu Menyembah [G]Me – [A/C#]mu – j[D]i\nSampai Selu[G]ruh [A/C#]Bu – m[D]i\nBersujud Meng[G]a – [A/C#]ku  –  [D]i\nWalau Malam [G]Me – [A]ne – [D]pi\nTak Akan Ku [G]Sen – [A]di – [D]ri\nKasih Yang Me[G]ne – [A]rang – [Bm]i\nKau Setia [G]Me – [A]nan – [D]ti"
+            },
+            {
+                "type": 3,
+                "text": "Al[G]le – [A]lu – [D]ia, Al[G]le – [A]lu – [D]ia, Al[G]le – [A]lu -[Bm]ia\nAllelu[G]ia Kau [A]Allah[D]ku"
+            }
+        ]
+    },
+    {
         "remote_id": "aman-bersamamu-rachel-angela",
         "language": "indo",
         "title": "Aman BersamaMu",
@@ -958,6 +1033,52 @@
             {
                 "type": 1,
                 "text": "'Twas [F]Grace That [F/A]Taught\nMy [Bb]Heart To [F]Fear\nAnd [Dm]Grace, My [G]Fears Re[C]lieved\nHow [F]Precious [F/A]Did That [Bb]Grace Ap[F]pear\nThe [Dm]Hour I [G/B]First [C]Belie[F]ved"
+            }
+        ]
+    },
+    {
+        "remote_id": "anak-bijak-true-worshippers-kiddy",
+        "language": "indo",
+        "title": "Anak Bijak",
+        "artist": "True Worshippers Kiddy",
+        "key": "C",
+        "lyric": [
+            {
+                "type": 0,
+                "text": "[C/G]F  G [F/G] C   [G]"
+            },
+            {
+                "type": 1,
+                "text": "Kuma[C]u Jadi Anak [Dm]Bijak\nBijak, [C]Bijak\nKuma[C]u Jadi Anak [Dm]Bijak\nB I [G]J A [C]K, [F/C]Bi - [C]jak"
+            },
+            {
+                "type": 3,
+                "text": "Lebih [F]Su - [G]ka Me[Em]nabung  [Am]\nDari[Dm]pa - [G]da Meng[C]hambur  [C/E]\nHidup [F]Hemat [F#dim]Lebih  [C/G]Berun[Am]tung\nAnak [Dm]Bijak Di[G]sayang Tu[C]han"
+            }
+        ]
+    },
+    {
+        "remote_id": "anak-terang-franky-sihombing",
+        "language": "indo",
+        "title": "Anak Terang",
+        "artist": "Franky Sihombing",
+        "key": "D",
+        "lyric": [
+            {
+                "type": 0,
+                "text": "D  Em  D/F#  G"
+            },
+            {
+                "type": 1,
+                "text": "[D]Kami A[A/C#]nak-An[Bm]ak Ter[A]ang\n[G]Kami Bers[D/F#]atu Dal[E]am Kasih Mes[A]ra"
+            },
+            {
+                "type": 1,
+                "text": "[D]Tak Ada I[A/C#]ri Benci Dan [Bm]Deng[A]ki\nKami [G]Satukan Roh [F#m]Jiwa\nTuk Na[G]ikkan Pujian [A]Kami Pada[D]Nya"
+            },
+            {
+                "type": 3,
+                "text": "Kami [Em]Ber – [D/F#]nya – [G]nyi Bu[A]kan Hanya Tuk [F#m]Harmoni\nKa[Bm]mi Bernya[Em]nyi Tuk [A]Membri Ha[D]ti Kami\nKami [Em]Ber – [D/F#]nya – [G]nyi Bu[A]kan Sekedar [F#m]Bernyanyi\nKa[Bm]mi Bernya[Em]nyi Tuk [A]Memberi Di[D]ri"
             }
         ]
     },
@@ -1643,6 +1764,23 @@
         ]
     },
     {
+        "remote_id": "bapa-engkau-baik-sammy-mandik",
+        "language": "indo",
+        "title": "Bapa Engkau Baik",
+        "artist": "Sammy Mandik",
+        "key": "E",
+        "lyric": [
+            {
+                "type": 1,
+                "text": "[E]Bapa Eng[A/E]kau Ba[E]ik [A/E]\n[E]Bapa Eng[A/E]kau Ba[E]ik\nKau Sela[A]lu Ba[B/A]ik Ke[G#m]pada - [C#m]ku\n[F#m]Bapa Ku[B]cinta [E]Kau   [B]"
+            },
+            {
+                "type": 3,
+                "text": "[E]A - [A]ku Me[E]mujiMu\n[E/G#]A  -  [A]ku Me[B]nyembah[E]Mu\nKunyanyi [A]Ha - [B/A]le - [G#m]lu - [C#m]ya\n[F#m]Bapa Ku[B]cinta [E]Kau"
+            }
+        ]
+    },
+    {
         "remote_id": "bapa-engkau-sungguh-baik-franky-sihombing",
         "language": "indo",
         "title": "Bapa Engkau Sungguh Baik",
@@ -1931,6 +2069,31 @@
         ]
     },
     {
+        "remote_id": "beautiful-saviour-planet-shakers",
+        "language": "en",
+        "title": "Beautiful Saviour",
+        "artist": "Planet Shakers",
+        "key": "A",
+        "lyric": [
+            {
+                "type": 1,
+                "text": "[A]Jesus, Beautiful [F#m]Savior\nGod Of All [D]Majesty, Risen [Bm]King\nLamb Of [A]God, Holy And R[F#m]ighteous\nBlessed Re[D]deemer, Bright Morning [Bm]Star"
+            },
+            {
+                "type": 1,
+                "text": "All The [E]Heavens [A/C#]Shout You[D]r Praise\nAll Cre[E]ation [A/C#]Bow To [D]Wor[F#m]ship [E]You"
+            },
+            {
+                "type": 3,
+                "text": "How [A]Wonderful, How [F#m]Beautiful\nName Above [D]Every Name, E[Bm]xalted [D/F#]High  [E/G#]\nHow [A]Wonderful, How [F#m]Beautiful\nJesus Your [D]Name   [Bm]\nName Above [D]Eve[F#m]ry Na[E]me\nJe[A]sus"
+            },
+            {
+                "type": 3,
+                "text": "Brige :\n[A]I Will Sing For[F#m]ever\nJesus I [D]Love You\nJesus I [Bm]Love [E]You"
+            }
+        ]
+    },
+    {
         "remote_id": "bejanamu-bobby",
         "language": "indo",
         "title": "BejanaMu",
@@ -2006,6 +2169,80 @@
         ]
     },
     {
+        "remote_id": "berdiri-jpcc-worship",
+        "language": "indo",
+        "title": "Berdiri",
+        "artist": "JPCC Worship",
+        "key": "A",
+        "lyric": [
+            {
+                "type": 1,
+                "text": "[A]Kaulah Allah Segalanya\n[D]Kekal Tuk S'lamanya\n[A/C#]Berkuasa Atas Du[F#m]nia\nEngkau Ku[D]puja"
+            },
+            {
+                "type": 1,
+                "text": "[A]Pembela Atas Hidupku\nSa[D]libMu Menghidupkan Ku\nMeng[A/C#]hapus Segala Do[F#m]saku\nEngkau Ku [D]Puja"
+            },
+            {
+                "type": 3,
+                "text": "Tiada Yang Bi[D]sa  [Bm]\nKupersembahan[F#m]kan\nSelain Hatiku[D] Tuhan [E]\nSemua B[F#m]agiMu"
+            },
+            {
+                "type": 1,
+                "text": "[A]Jalan Dalam Kes'lamatan\nRoh [D]Kudus Bersamaku\nTuk [A/C#]Nyatakan JanjiMu [F#m]Tuhan\nEngkau Ku [D]Puja"
+            },
+            {
+                "type": 3,
+                "text": "Tiada Yang Bi[D]sa [Bm]\nKupersembahan[F#m]kan\nSelain Hati[D]ku Tuhan  [E]\nSemua B[F#m]agiMu"
+            },
+            {
+                "type": 3,
+                "text": "Tiada Yang Bi[D]sa [Bm]\nKupersembahan[F#m]kan  [A]\nSelain Hati[Bm]ku Tuhan  [E]\nSemua B[D]agiMu"
+            },
+            {
+                "type": 3,
+                "text": "Musik :\nD  A  E  F#m"
+            },
+            {
+                "type": 4,
+                "text": "[D]  Berdir[A]i\nKu[E]angkat Tang[F#m]an BagiMu\n[D]  Kuka[A]gum\nPa[E]damu Pe[F#m]nebusku\n[D]  Berdi[A]ri\nJi[E]waku S'rah[F#m]kan PadaMu\n[D]Aku [A]Milik[E]Mu [F#m]"
+            }
+        ]
+    },
+    {
+        "remote_id": "berdua-lebih-baik-edward-chen-ft-agnes-prawoto",
+        "language": "indo",
+        "title": "Berdua Lebih Baik",
+        "artist": "Edward Chen Ft. Agnes Prawoto",
+        "key": "G",
+        "lyric": [
+            {
+                "type": 1,
+                "text": "Penuhi Bu[C]mi Deng[D]an\nKasih [Em]Yang Su[Bm]ci\nHapus Semua [C]Iri [D]Dan Ben[G]ci"
+            },
+            {
+                "type": 1,
+                "text": "[Am]Tak Pernah Ber[C]henti [Em]Mengampu[D]ni\nMena[Am]bur Kasih Tan[C]pa Pam[D]rih  [A/C#]      [B/D#]"
+            },
+            {
+                "type": 1,
+                "text": "Key\n[E]Bait :\nTawa Dan A[A]ir Ma[B]ta\nLalui [C#m]Bersa[G#m]ma\nBerbagi Be[A]ban Dan Peng[B]hara[E]pan"
+            },
+            {
+                "type": 1,
+                "text": "[F#m]Menjadi Sa[A]habat [C#m]Yang Seja[B]ti\nMena[F#m]ruh Kasih Di [A]Setiap Wak[B]tu"
+            },
+            {
+                "type": 1,
+                "text": "Key\n[F#]Reff :\nBerdua Lebih [B]Baik Dari [C#/B]Sendiri\nKu[D#m]atkan Yang Le[Bbm]mah\nBangkitkan Se[B]mangat Yang [F#/Bb]Patah\nDa[G#m]lam Kasih Tu[C#]han"
+            },
+            {
+                "type": 1,
+                "text": "Tak Lagi Hi[B]dup Tuk Diri [C#/B]Sendiri\n[D#m]Berbagi Ka[Bbm]sih\nS'perti Kasih [B]Yang Yesus [F#/Bb]Beri\nSa[G#m]habat Yang [C#]Seja[F#]ti"
+            }
+        ]
+    },
+    {
         "remote_id": "bergaul-maria-shandi",
         "language": "indo",
         "title": "Bergaul",
@@ -2019,6 +2256,27 @@
             {
                 "type": 3,
                 "text": "Indahny[G#]a Bergaul Deng[D#/G]anMu\nCinta[A#m]ku Hanyalah Untuk[D#]Mu\nKu Rin[G#]du Memandang Wa[D#/G]jahMu\nSelama[A#m]nya Berada Dekat[D#]Mu\nIni[C#]lah Rinduku\nSela[A#m]lu Berad[D#]a Dekat[G#]Mu"
+            }
+        ]
+    },
+    {
+        "remote_id": "berharaplah-maria-shandi",
+        "language": "indo",
+        "title": "Berharaplah",
+        "artist": "Maria Shandi",
+        "key": "G",
+        "lyric": [
+            {
+                "type": 1,
+                "text": "[G]Terkadang Ku[C]rasakan\n[Am]Beratnya Ke[D]hidupan I[G]ni\nAda [G]Kalanya Tak [A]Sanggup Lagi\n[Am]Hadapi Per[D]soalan Yang T[G]erjadi\n[F#m7b5]Namun    [B]   Ku[Em]tahu [Gmaj7]Tuhanku [A/C#]Sanggup\nMeno[C]long [Am]Hidup[D]ku"
+            },
+            {
+                "type": 3,
+                "text": "Berha[G]raplah\nJang[Dm]an Pernah Ber[G]henti Harap [C]Padanya\nSe[Bsus4]kalipun Hi[B/D#]lang Semua Ha[Em]rapanmu\nTet[C]aplah [Am]Perca[D]ya"
+            },
+            {
+                "type": 3,
+                "text": "Tuhan Meng[G]asihimu\nTak [Dm]Pernah Dia [G]Biar[G/B]kan Kau [C]Sendiri\nPer[Bsus4]cayalah Sa[B/D#]atnya Pasti[Em]kan Ti[G/D]ba\nDia [C]Menolongmu   [D]      Pulihkan[G]mu"
             }
         ]
     },
@@ -2074,6 +2332,27 @@
             {
                 "type": 3,
                 "text": "Betapa [D]Kau Buatku Berar[F#m]ti\nBetapa [Am7]Kau Ka[D11]sihi [D/F#]Di – r[G]iku\nKau Ja[Gm/Bb]dikanku Sem[D/A]purna [Bm]\n[Em]Berharga [A11]Dimata[D]Mu"
+            }
+        ]
+    },
+    {
+        "remote_id": "berjalan-bersamamu-sari-simorangkir",
+        "language": "indo",
+        "title": "Berjalan BersamaMu",
+        "artist": "Sari Simorangkir",
+        "key": "G",
+        "lyric": [
+            {
+                "type": 0,
+                "text": "G  Em  F  Am  C"
+            },
+            {
+                "type": 1,
+                "text": "Ber[G]diri S’bagai Umat [Em]Pilihan\nMe[C]ninggikan [Am]Panji Tu[D]han\nSemu[G]a Musuh Tak Dapat [Em]Bertahan\nKar’[C]na Kuasa-[G/B]Nya B[Am]ekerja Sempur[D]na"
+            },
+            {
+                "type": 3,
+                "text": "Ku[G]nyanyikan Ke[Em]menangan\nYesus [C]Hebat Bagiku, Yesus [Am]Kota Benteng[D]ku\nKesu[G]kaan Yang Ter[Em]besar\nBerja[C]lan Bersama-Mu Tu[Am]han Se[D]umur Hidup[G]ku"
             }
         ]
     },
@@ -2157,6 +2436,27 @@
             {
                 "type": 4,
                 "text": "[F]Kau Menghias Hidupku Le[C/E]bih Dari Cukup\n[F]Kau Menghias Hidupku Leb[Am]ih Dari Cukup\n[F]Kau Menghias Hidupku Leb[C/E]ih Dari Cukup\nKau Se[Dm]lalu Menghias Hidupku Leb[G]ih Dari Cukup"
+            }
+        ]
+    },
+    {
+        "remote_id": "berlari-kehadiratmu-franky-kuncoro",
+        "language": "indo",
+        "title": "Berlari KehadiratMu",
+        "artist": "Franky Kuncoro",
+        "key": "D",
+        "lyric": [
+            {
+                "type": 1,
+                "text": "Tempo : 60\n4/4"
+            },
+            {
+                "type": 1,
+                "text": "Ye[D]sus Pe[G/B]megang Nafas[D]ku\nJi[G]waku [D/F#]Aman Dalam[Em]Mu   [A]    [A/G]\nKau Tu[F#m]han Yang Tak [F#/Bb]Pernah Menye[Bm]rah\nMem[A]bangkitkan[G]ku  [D/F#]\nYe[Em]sus Kau [A]Sangat Berhar[D]ga   [A]"
+            },
+            {
+                "type": 3,
+                "text": "Berla[D]ri Ku [F#m]Ke Ha[G]diratMu\nSumber [F#m]Segala[Bm]nya Hanya [Em]Hadirat[A]Mu\nMenga[D]kui[F#m]Mu Di Segala [G]Jalanku\nDalam [D/A]Hadirat[Bm]Mu Ada [Em]Urap[A]an Bar[D]u"
             }
         ]
     },
@@ -2415,6 +2715,27 @@
             {
                 "type": 3,
                 "text": "[G]Tuhan Yang Mem[D]b’ri Kemenang[Em]an\n[C]Bersama Ki[G]ta, [Em]Di Dalam Ki[F]ta   [D]\n[G]Masuk Dalam [D/F#]Kemuliaan[Em]Nya\n[C]Dia Perlindung[G/B]an,  [D]Dan Penghara[G]pan"
+            }
+        ]
+    },
+    {
+        "remote_id": "bersukacita-sari-simorangkir",
+        "language": "indo",
+        "title": "Bersukacita",
+        "artist": "Sari Simorangkir",
+        "key": "F",
+        "lyric": [
+            {
+                "type": 0,
+                "text": "F  Am  Bb  Gm  C"
+            },
+            {
+                "type": 1,
+                "text": "[F]Bersukacita Di Setiap [Am]Langkahku\n[Bb]Kuat TanganMu [Gm]Yang Menjaga[C]ku\n[F]Kau Melakukan Kebaikan [Am]Bagiku\n[Bb]Menjadikanku [Gm]Kota Berku[C]bu"
+            },
+            {
+                "type": 3,
+                "text": "‘Ku Tak [F]Ragu Mengikut[Bb]Mu\n‘Ku Tak [Gm]Gentar Menghadapi [C]Musuh\nKaulah [F]Tuhan Yang Ber[Bb]firman\nKeme[Gm]nangan Bagian Hi[C]dupku, Bagian Hi[F]dupku"
             }
         ]
     },
@@ -2785,6 +3106,51 @@
         ]
     },
     {
+        "remote_id": "bless-the-lord-matt-redman",
+        "language": "en",
+        "title": "Bless The Lord",
+        "artist": "Matt Redman",
+        "key": "G",
+        "lyric": [
+            {
+                "type": 3,
+                "text": "Bless The [C]Lord, O My [G]Soul\n[D]O My [Em]Soul\n[C]Worship His [G]Holy [D]Name\nSing Like [C]Never Be[G]fore\n[C]O  [D]My [Em]Soul\nI’ll [C]Worship Your [D]Holy [G]Name"
+            },
+            {
+                "type": 1,
+                "text": "The [C]Sun Comes [G]Up, It’s A [D]New Day [Em]Dawning\n[C]  It’s Time To [G]Sing Your [D]Song A[Em]gain\nWhat[C]ever May [G]Pass, And What[D]ever Lies Be[Em]fore Me\n[C]  Let Me Be [G]Singing When The [D]Evening [G]Comes"
+            },
+            {
+                "type": 3,
+                "text": "Bless The Lord, O My Soul\nO My Soul\nWorship His Holy Name\nSing Like Never Before\nO My Soul\nI’ll Worship Your Holy Name"
+            },
+            {
+                "type": 1,
+                "text": "You’re Rich In Love, And You’re Slow To Anger\nYour Name Is Great, And Your Heart Is Kind\nFor All Your Goodness I Will Keep On Singing\nTen Thousand Reasons For My Heart To Find"
+            },
+            {
+                "type": 3,
+                "text": "Bless The Lord, O My Soul\nO My Soul\nWorship His Holy Name\nSing Like Never Before\nO My Soul\nI’ll Worship Your Holy Name"
+            },
+            {
+                "type": 1,
+                "text": "And On That Day When My Strength Is Failing\nThe End Draws Near And My Time Has Come\nStill My Soul Will Sing Your Praise Unending\nTen Thousand Years And Then Forevermore"
+            },
+            {
+                "type": 3,
+                "text": "Bless The Lord, O My Soul\nO My Soul\nWorship His Holy Name\nSing Like Never Before\nO My Soul\nI’ll Worship Your Holy Name"
+            },
+            {
+                "type": 3,
+                "text": "Jesus, I’ll Worship Your Holy Name\nLord, I’ll Worship Your Holy Name"
+            },
+            {
+                "type": 3,
+                "text": "Sing Like Never Before\nO My Soul\nI’ll Worship Your Holy Name\nJesus, I’ll Worship Your Holy Name\nI’ll Worship Your Holy Name"
+            }
+        ]
+    },
+    {
         "remote_id": "boom-ndc-worship",
         "language": "indo",
         "title": "Boom!",
@@ -2818,6 +3184,23 @@
             {
                 "type": 4,
                 "text": "Musik :\n[F#m]F#m  [A]A  [E]E  [D]D\n[E]E  [F#m]F#m  [D]D  [A]"
+            }
+        ]
+    },
+    {
+        "remote_id": "buah-roh-kudus",
+        "language": "indo",
+        "title": "Buah Roh Kudus",
+        "artist": "-",
+        "key": "C",
+        "lyric": [
+            {
+                "type": 1,
+                "text": "Ka[C]sih Sukaci[G/B]ta\nDa[Am]mai Sejahte[Em]ra\nKe[F]sabaran Ke[G]mura[C]han [G]\nKe[C]baikan Ke[G/B]setiaan\nKe[Am]lemahlembu[Em]tan\nPeng[F]uasa[G]an Di[C]ri"
+            },
+            {
+                "type": 3,
+                "text": "[F]Ini[G]lah Bu[Em]ah Roh Ku[Am]dus\n[F]Menga[G]lir Dalam [C]Hid[Dm]up - [C/E]ku\n[F]Ku Mau Hi[G]dup Dipim[Am]pin Roh Ku[D/F#]dus\n[C/G]Seti - [G]ap Ha[C]ri"
             }
         ]
     },
@@ -3060,6 +3443,31 @@
         ]
     },
     {
+        "remote_id": "dahsyat-kau-hebat-true-worshippers-youth",
+        "language": "indo",
+        "title": "Dahsyat Kau Hebat",
+        "artist": "True Worshippers Youth",
+        "key": "C",
+        "lyric": [
+            {
+                "type": 0,
+                "text": "C  Dm  F  Am  G  F"
+            },
+            {
+                "type": 1,
+                "text": "[C]  Saksikan P[Dm]ada Dunia\n[F]  Penebusan Yang Mulia\n[C]  Kuasa Sal[Dm]ib-Mu Sempur[F]na"
+            },
+            {
+                "type": 1,
+                "text": "[C]  Tunjukkan P[Dm]ada Manusia\n[F]  Kedahsyatan-Mu Oh Tuhan\n[Am]  Pakailah [G]Kami Jadi [F]Saksi-Mu"
+            },
+            {
+                "type": 3,
+                "text": "Bagi Ge[C]nera[Dm]si Ini [F]Kami Berdiri\n[C]Hingga [Dm]Nyatalah [F]Dahsyat Engkau\nKini Ka[C]mi Kan [Dm]Memuji [F]Dengan S’genap Hati\n[Am]Hingga [G]Nyatalah [F]Dahsyat Engkau Hebat"
+            }
+        ]
+    },
+    {
         "remote_id": "dalam-nama-yesus-jacqlien-celosse",
         "language": "indo",
         "title": "Dalam Nama Yesus",
@@ -3090,6 +3498,31 @@
             {
                 "type": 3,
                 "text": "Ajaib Kau Tu[E]han Pe[B/D#]nuh Kua[C#m]sa\nSang[B]gup Pulih[A]kan Ke[E/G#]adaank[F#m]u\nDa[B]lam Tangan-[E]Mu S’lur[B/D#]uh Hidup[C#m]ku\nTak [B]Akan Go[A]yah Se[B]lama[E]nya"
+            }
+        ]
+    },
+    {
+        "remote_id": "dalamnya-kasihmu-bapa-true-worshippers",
+        "language": "indo",
+        "title": "Dalamnya KasihMu Bapa",
+        "artist": "True Worshippers",
+        "key": "G",
+        "lyric": [
+            {
+                "type": 1,
+                "text": "[G]Dalamnya Kasih-[Cm6/G]Mu Bapa[G]\n[G]Terlebih Dari [Cm6/G]S’galan[G]ya\n[G/B]Pengorba[C]nan Yang [B/D#]Termuli[Em]a\nS’la[Am]matkan[D]ku"
+            },
+            {
+                "type": 1,
+                "text": "[G]Dengan Darah Yang [Cm6/G]Tercura[G]h\n[G]Ampuniku A[Cm6/G]tas Dos[G]a\n[G/B]Ku Bersu[C]jud Ke[B/D#]pada-M[Em]u\nOh Ye[Am]susk[D]u"
+            },
+            {
+                "type": 3,
+                "text": "Engkau Ku [G]Sembah\nKau Yang Ter[Em]indah\nPulihkan[Am]ku Dengan Darah-[D]Mu  [D/C]"
+            },
+            {
+                "type": 3,
+                "text": "Engkau Ku Sem[G/B]bah    [B/D#]\nBapa Mu[Em]lia\nSeumur [Am]Hidupku Ku [D]Mau Menyembah-[G]Mu"
             }
         ]
     },
@@ -3381,6 +3814,23 @@
         ]
     },
     {
+        "remote_id": "di-altarmu-bobby",
+        "language": "indo",
+        "title": "Di AltarMu",
+        "artist": "Bobby",
+        "key": "G",
+        "lyric": [
+            {
+                "type": 1,
+                "text": "Kubuka Ha[Am]riku Penuh Rasa [D]Rindu\nAkan Hadi[G]ratMu\nIngin Kule[Am]takkan Seluruh Hi[D]dupku\nDi Atas Mezbah[Dm]Mu\n[E]Tandaku Ber[Am]serah [C/G]PadaM[D/F#]u\nBawa A[Am]ku Ke Tempat [G]Yang Kau Mau[D]\nBentuk A[Am]ku Seperti [G]Yang Kau Mau[D]"
+            },
+            {
+                "type": 3,
+                "text": "Di Al[C]tarMu, Kubawa Ha[G/B]tiku\n[Em]Ku Bawa Rin[Am]duku [B]Korban Yang Terba[Em]ik\n[D/F#]Di    [G]   Al[C]tarMu Seluruh Hidup[G/B]ku\n[Em]Kagumi In[Am]dahnya [D]Kemuliaan[G]Mu"
+            }
+        ]
+    },
+    {
         "remote_id": "di-batas-kekuatanku-julita-manik",
         "language": "indo",
         "title": "Di Batas Kekuatanku",
@@ -3531,6 +3981,43 @@
         ]
     },
     {
+        "remote_id": "dia-buka-jalan-jason",
+        "language": "indo",
+        "title": "Dia Buka Jalan",
+        "artist": "Jason",
+        "key": "G",
+        "lyric": [
+            {
+                "type": 1,
+                "text": "[G]Dia Buka Ja[D/F#]lan\nSaat [C/E]Tiada Ja[G/D]lan\nDeng[C]an Cara Yang [G/B]Ajaib\n[Am]DibukaNya [D]Jalanku"
+            },
+            {
+                "type": 1,
+                "text": "[G]Dia Menuntun[D/F#]ku\nDan Me[C/E]meluk Diri[G/B]ku\nDeng[C]an Kasih Dan [G/B]KuasaNya\n[Am]Dia Buka Jalan\n[D]Dia Buka Ja[G]lan"
+            },
+            {
+                "type": 1,
+                "text": "Key :\nA"
+            },
+            {
+                "type": 1,
+                "text": "[A]Dia Buka Ja[E/G#]lan\nSaat [D/F#]Tiada Ja[A/E]lan\nDeng[D]an Cara Yang [A/C#]Ajaib\n[Bm]DibukaNya [E]Jalanku"
+            },
+            {
+                "type": 1,
+                "text": "[A]Dia Menuntun[C#m]ku\nDan Me[D]meluk Diri[A/C#]ku\nDeng[D]an Kasih Dan [A/C#]KuasaNya\n[Bm]Dia Buka Jalan\n[E]Dia Buka Ja[A]lan"
+            },
+            {
+                "type": 3,
+                "text": "Di Be[F]lantara\nDia [G]Tetap Menun[C]tunku\n[F]Sungai Di [G]Gurun Aku Tem[Asus4]ui     [A]\n[D]Langit Bumi Kan Len[E/D]yap\nTapi [C#m]FirmanNya Te[F#m]tap\nSa[D]at Ini [E]Dia Buka Ja[F#]lan   [F11]"
+            },
+            {
+                "type": 3,
+                "text": "Key :\nBb"
+            }
+        ]
+    },
+    {
         "remote_id": "dia-raja-true-worshippers",
         "language": "indo",
         "title": "Dia Raja",
@@ -3664,6 +4151,31 @@
             {
                 "type": 3,
                 "text": "Yehova [D]Rapha Allah Yang [Em]Menyembuhkan\nYehova [A]Jireh Allah Yang [D]Mencukupi\nYehova [D]Nissi [D7] Panji Ke[G]selama[Em]tan\nYehova [Asus4]Shallom [A]Sang Dama[D]i"
+            }
+        ]
+    },
+    {
+        "remote_id": "doa-kami-true-worshippers",
+        "language": "indo",
+        "title": "Doa Kami",
+        "artist": "True Worshippers",
+        "key": "G",
+        "lyric": [
+            {
+                "type": 1,
+                "text": "[G]Syukur Untuk [D/F#]Setiap Ren[Em]cana-Mu [G/B]\n[C]Dan Rancangan-[G/B]Mu Yang Muli[Am]a   [D]\n[G]Dalam Satu [D/F#]Tubuh Kami [Em]Bersatu  [D]\n[C]Menjadi Duta [A/C#]Kerajaan-[D]Mu"
+            },
+            {
+                "type": 1,
+                "text": "Ku[C]ucapkan Ber[D/C]kat A[Bm]tas Indonesi[Em]a\nBi[Am]ar Kemulia[G/B]an Tuhan A[C]kan Nya[D]ta"
+            },
+            {
+                "type": 3,
+                "text": "Bagi [G]Bangsa I[Am]ni   [G/B]    Ka[C]mi Berdi[D]ri\nDan Mem[Em]bawa Do[G/B]a Kami Ke[A/C#]pada-M[D]u\nSesuat[G]u Yang Be[Am]sar   [G/B]   Pas[C]ti Terja[B/F#]di\n[B/D#]Dan Meng[Em]ubahkan  [G/D]  Negeri Ka[A/C#]mi\nHanya Na[Am]ma-Mu Tu[G/B]han Ditinggi[C]kan\nAtas [D]Seluruh Bu[G]mi"
+            },
+            {
+                "type": 4,
+                "text": "[C]  Kami [D/C]Tahu Hati-[G/B]Mu   [Em]\n[Am]  Ada [C/G]Di Bangsa I[F]ni [D/F#]      [E/G#]"
             }
         ]
     },
@@ -3882,6 +4394,27 @@
         ]
     },
     {
+        "remote_id": "engkau-sanggup-menolongku-sari-simorangkir",
+        "language": "indo",
+        "title": "Engkau Sanggup Menolongku",
+        "artist": "Sari Simorangkir",
+        "key": "B",
+        "lyric": [
+            {
+                "type": 1,
+                "text": "Semu[B]a Yang [F#/Bb]Ku Rasa[G#m]kan\nEngkau [E]Juga [C#m]Merasa[F#]kan\nKu Tak [B]Pernah [F#/Bb]Sendiri[G#m]an\nEng[F#]kau Yang Sang[E]gup Me[F#]nolong[B]ku    [F#]"
+            },
+            {
+                "type": 1,
+                "text": "Semu[B]a Yang [F#/B]Ku Hada[G#m]pi     [F#]\nEngkau [E]Juga [C#m]Menghada[F#]pi\nKu Tak [B]Pernah [F#/Bb]Ditinggal[G#m]kan\nEng[F#]kau Yang Sang[E]gup Me[F#]nolong[B]ku    [F#]"
+            },
+            {
+                "type": 3,
+                "text": "Aku Berse[B]rah Pa[F#/Bb]daMu Tu[G#m]han\nDeng[F#]an Janji[E]Mu Ku [C#m]Diteguh[F#]kan\nKu Pertaruh[B]kan Peng[F#/Bb]harapan[G#m]ku\nDa[F#]lam Kuasa[E]Mu Ke[C#m]menangan[F#]ku\nHanya Engkau[E]lah Yang S’lalu [F#]Sanggup Menolong[B]ku"
+            }
+        ]
+    },
+    {
         "remote_id": "engkau-setia-jpcc-worship",
         "language": "indo",
         "title": "Engkau Setia",
@@ -3907,6 +4440,56 @@
             {
                 "type": 4,
                 "text": "[E]  Oh Your Presence\n[F#]  Never Leaves Me\n[G#m]  And You'll Never\n[B/D#]  Forsake Me"
+            }
+        ]
+    },
+    {
+        "remote_id": "engkau-teramat-baik",
+        "language": "indo",
+        "title": "Engkau Teramat Baik",
+        "artist": "-",
+        "key": "E",
+        "lyric": [
+            {
+                "type": 0,
+                "text": "[E/G#]E/G#  [A]A  [B]B  [C#m]\n[E/G#]E/G#  [A]A  [B]B  [C#m]"
+            },
+            {
+                "type": 1,
+                "text": "Di [E]Hadapan Ke[Emaj7]megahan-Mu\n[C#m]Ku Datang Me[A]nyembah-Mu\nMem[F#m]bawa Hati[E/G#]ku\nMem[A]bawa Hidup[B]ku"
+            },
+            {
+                "type": 1,
+                "text": "Ku [E]Teringat Ka[Emaj7]sih Setia-Mu\n[C#m]Di Dalam S’tiap [A]Langkahku\n[F#m]Sungguh Engkau B[E/G#]aik\nDi [A]Dalam Hidup[B]ku"
+            },
+            {
+                "type": 3,
+                "text": "Engkau [E]Bai[B/D#]k Teramat [C#m]Ba – i[A]k\nEngkau [E]Bai[B/D#]k Teramat [A]Baik\nEngkau [E]Bai[B/D#]k Teramat [C#m]Ba – i[A]k\nEngkau [E]Bai[B/D#]k Teramat [A]Baik"
+            }
+        ]
+    },
+    {
+        "remote_id": "engkau-tuhan-yang-setia-new-power-worship",
+        "language": "indo",
+        "title": "Engkau Tuhan Yang Setia",
+        "artist": "New Power Worship",
+        "key": "Bb",
+        "lyric": [
+            {
+                "type": 1,
+                "text": "[Bb]Engkau Tu[Dm]han [Gm]Yang Seti[Dm]a\n[D#]Sumber Ke[Bb/D]kuatan[F]ku\n[Bb]Engkau Ye[Dm]sus [Gm]Juruselamat[Dm]ku\n[D#]Harapan[Bb/D]ku Jawaban[F]ku"
+            },
+            {
+                "type": 3,
+                "text": "Yesus Kau Se[Bb]galanya Ba[F/A]giku\nTu[Gm]han Dan Raja[Bb/F]ku\nKasih [D#]SayangMu [Bb/D]Melimpah\nDi [Cm]Dalam Hidup[F]ku"
+            },
+            {
+                "type": 3,
+                "text": "SalibMu Te[Bb]busku Be[F/A]baskanku\nSem[Gm]buhkan A[Bb/F]ku\nKu Per[D#]caya Mu[Bb/D]jizatMu\nKu [Cm]Alami [F]Sekarang I[Bb]ni"
+            },
+            {
+                "type": 4,
+                "text": "[D#]  AnugerahMu Bagi[F/D#]ku\n[Dm]  Tak Sekalipun Kau [Gm]Tinggalkan[F/A]ku   [Bb/D]\n[D#]  Besar Kasih Setia[F/D#]Mu\n[Cm]  Kuper[Bb/D]caya  [D#]Pada[F]Mu"
             }
         ]
     },
@@ -3953,6 +4536,39 @@
         ]
     },
     {
+        "remote_id": "engkaulah-perisaiku-asmirandah",
+        "language": "indo",
+        "title": "Engkaulah Perisaiku",
+        "artist": "Asmirandah",
+        "key": "D",
+        "lyric": [
+            {
+                "type": 1,
+                "text": "[D]  Engkaulah Pe[A/C#]risaiku\n[Em]  Saat Badai Hidup [G]Menerpa[A]ku\n[D]  JanjiMu Di [A/C#]Dalamku\n[Em]  Pulihkan Jiwa[A]ku"
+            },
+            {
+                "type": 3,
+                "text": "Ku Kan Berdi[D]ri Di Tengah Ba[A/C#]dai\nDengan Kekua[Em]tan Yang Kau Beri[Bm]kan\nSampai Kapan[G]pun Ku Kan Berta[D/F#]han\n[Bm]Karena Ye[Em]sus Selalu Meno[A]pang Hidup[D]ku"
+            },
+            {
+                "type": 1,
+                "text": "[D]  Engkaulah Pe[A]risaiku\n[Em]  Saat Badai Hidup [G]Menerpa[A]ku\n[D]  FirmanMu Di [A/C#]Dalamku\n[Em]  Tenangkan Jiwa[A]ku"
+            },
+            {
+                "type": 3,
+                "text": "Ku Kan Berdi[D]ri Di Tengah Ba[A]dai\nDengan Kekua[Em]tan Yang Kau Beri[Bm]kan\nSampai Kapan [G]Pun Ku Kan Berta[D/F#]han\n[Bm]Karena Ye[Em]sus Selalu Meno[A]pang"
+            },
+            {
+                "type": 3,
+                "text": "Ku Kan Berta[D]han Dalam Teka[A]nan\nDengan Kekua[Em]tan Yang Kau Beri[Bm]kan\nSampai Kapan[G]pun Tak Tergoyah[D/F#]kan\n[Bm]Karena Ye[Em]sus Selalu Meno[A]pang Hidup[D]ku"
+            },
+            {
+                "type": 3,
+                "text": "Disaat Ba[G]dai Ber[A]gelo[D]ra\nKu Akan Ter[G]bang [F#]Bersama[Bm]Mu\nBapa Kau Ra[G]ja A[A]tas Semes[D]ta\n[Bm]Ku Tenang S'[Em]bab Kau [A]Allah[D]ku"
+            }
+        ]
+    },
+    {
         "remote_id": "erat-dengan-hatimu-giving-my-best",
         "language": "indo",
         "title": "Erat Dengan HatiMu",
@@ -3991,6 +4607,35 @@
             {
                 "type": 3,
                 "text": "Dan Saat [A]Kupikir[E/G#]kan   [F#m]Kebaikan-[C#m]Mu\nTak [D]Pernah Ku [Bm]Kekurang[E]an\nDan Saat [A]Kurenung[E/G#]kan   [F#m]Kesetiaan-[C#m]Mu\nE[D]sok Kan Ku [Dm]Jelang Tan[C#m]pa Kera[F#m]guan\nSur[Bm]ya 'Kan Te[F]rus [E]A - [A]da"
+            }
+        ]
+    },
+    {
+        "remote_id": "everything-i-need-true-worshippers",
+        "language": "en",
+        "title": "Everything I Need",
+        "artist": "True Worshippers",
+        "key": "A",
+        "lyric": [
+            {
+                "type": 1,
+                "text": "We Are [D]Called By Your [E]Name\nSet Us [F#m]Free To Walk In Freedom And Your [D]Grace\nIs The [E]Air That I’m [F#m]Breathing In This Life You Gave\n[D]All I Des[E]ire Is To [D/F#]Live For You A[E/G#]lone"
+            },
+            {
+                "type": 1,
+                "text": "We Are [D]Called By Your L[E]ove\nCalled To [F#m]Worship You In Spirit And In [D]Truth\nAnd To [E]Hear Gene[F#m]rations Tell Of Your Great Love\n[D](All I De[E]sire Is To [Bm]Live For You A[A/C#]lone)\n[D]All I De[E]sire Is To [D/F#]Live For You A[E/G#]lone"
+            },
+            {
+                "type": 3,
+                "text": "You Are [A]Everything I Need\nYou’re The [A]Reason Hope’s Alive In Me\nOh I [F#m]Need You [E]More Than Oxy[D]gen"
+            },
+            {
+                "type": 3,
+                "text": "You Are [A]Everything I Need\nYou’re The [A]Reason Hope’s Alive In Me\nOh I [F#m]Need You [E]More Than Oxy[D]gen"
+            },
+            {
+                "type": 3,
+                "text": "You Are [A]Everything I Need\nYou’re My [A]World, I Know You Live In Me\nOh I [F#m]Need You [E]More Than Oxy[D]gen"
             }
         ]
     },
@@ -4529,6 +5174,43 @@
         ]
     },
     {
+        "remote_id": "god-is-so-good",
+        "language": "en",
+        "title": "God Is So Good",
+        "artist": "-",
+        "key": "D",
+        "lyric": [
+            {
+                "type": 1,
+                "text": "[D]God Is So [A]Good\nGod Is So [D]Good\nGod Is So [G]Good\nHe's So [D]Good [A]To [D]Me!"
+            },
+            {
+                "type": 1,
+                "text": "[D]He Took My [A]Sin\nHe Took My [D]Sin\nHe Took My [G]Sin\nHe's So [D]Good [A]To [D]Me!"
+            },
+            {
+                "type": 1,
+                "text": "[D]God Is So [A]Good, Hallelujah\nGod Is So [D]Good, Hallelujah\nGod Is So [G]Good\nHe's So [D]Good [A]To [D]Me!"
+            },
+            {
+                "type": 1,
+                "text": "[D]He Took My [A]Sin, Hallelujah\nHe Took My [D]Sin, Hallelujah\nHe Took My [G]Sin,\nHe's So [D]Good [A]To [D]Me!"
+            },
+            {
+                "type": 1,
+                "text": "[D]God Is So [A]Good, Hallelujah\nHe Took My [D]Sin, Hallelujah\nGod Is So [G]Good\nHe's So [D]Good [A]To [D]Me!"
+            },
+            {
+                "type": 1,
+                "text": "[D]God Is So [G]Good, Hallelujah\nHe Took My [D]Sin, Hallelujah\nGod Is So [G]Good\nHe's So [D]Good [A]To [D]Me!"
+            },
+            {
+                "type": 1,
+                "text": "[D]God Is So [G]Good,\nHe's So [D]Good [A]To [D]Me!\n[D]God Is So [G]Good,\nHe's So [D]Good [A]To [D]Me!"
+            }
+        ]
+    },
+    {
         "remote_id": "god-of-my-forever-city-harvest-church",
         "language": "en",
         "title": "God Of My Forever",
@@ -4619,6 +5301,47 @@
             {
                 "type": 3,
                 "text": "[Gm]  Jesus, You Reign Forever\n[D#]  Jesus, You Reign Forever\n[Bb/D]  There’s None Beside You\n[D#]  Jesus, You [Bb]Reign"
+            }
+        ]
+    },
+    {
+        "remote_id": "hai-dunia-gembiralah",
+        "language": "indo",
+        "title": "Hai Dunia Gembiralah",
+        "artist": "-",
+        "key": "C",
+        "lyric": [
+            {
+                "type": 1,
+                "text": "[C]Hai Dunia Gem[G]bira[C]lah\nDan [F]Sambut [G]Raja[C]mu\nDi [C]Hatimu Terimalah"
+            },
+            {
+                "type": 1,
+                "text": "Ber[C]sama Bersyukur\nBer[G]sama Bersyukur\nBer[C]sama - [F]Sama [G]Bersyu[C]kur"
+            },
+            {
+                "type": 1,
+                "text": "[C]Hai Dunia E[G]lukan[C]lah\nRa[F]jamu [G]Pene[C]bus\nHai [C]Bumi, Laut,\nGu[C]nung, Lembah"
+            },
+            {
+                "type": 1,
+                "text": "Ber[C]soraklah Terus\nBer[G]soraklah Terus\nBer[C]sorak - [F]Sorak[G]lah Te[C]rus"
+            },
+            {
+                "type": 1,
+                "text": "[C]Janganlah Dosa [G]Mene[C]tap\nDi [F]Ladang [G]Duni[C]a\nSe[C]jahtera Penuh Berkat"
+            },
+            {
+                "type": 1,
+                "text": "Ber[C]limpah S'lamanya\nBer[G]limpah S'lamanya\nBer[C]limpah - [F]Limpah [G]S'lama[C]nya"
+            },
+            {
+                "type": 1,
+                "text": "[C]Dialah Raja [G]Semes[C]ta\nBe[F]nar Dan [G]Muli[C]a\nMa[C]syhurkanlah, Hai Dunia"
+            },
+            {
+                "type": 1,
+                "text": "Be[C]sar Anug'rahNya\nBe[G]sar Anug'rahNya\nBe[C]sar - Be[F]sar A[G]nug'rah[C]Nya"
             }
         ]
     },
@@ -4918,6 +5641,27 @@
         ]
     },
     {
+        "remote_id": "hati-ini-rumahmu-angel-pieters",
+        "language": "indo",
+        "title": "Hati Ini RumahMu",
+        "artist": "Angel Pieters",
+        "key": "C",
+        "lyric": [
+            {
+                "type": 1,
+                "text": "Key : C"
+            },
+            {
+                "type": 1,
+                "text": "[C]Kujadi[G/B]kan  [Am]Hati I[C/G]ni\n‘Tuk [F]Ked[Dm]iaman[G]Mu\n[C]Kuserah[G/B]kan  [Am]Hidup I[C/G]ni\nUn[F]tukMu [G]Allah[C]ku"
+            },
+            {
+                "type": 3,
+                "text": "Di Hati I[F]nilah [G]Rumah[C]Mu\nDi Hati I[F]nilah [G]Bait[C]Mu\nDi Manapun [F]Ku ‘Kan [G]Bera[Am]da\nSenantia[Dm]sa Kau [G]Pun A[C]da"
+            }
+        ]
+    },
+    {
         "remote_id": "hati-sebagai-hamba-edward-chen",
         "language": "indo",
         "title": "Hati Sebagai Hamba",
@@ -5106,6 +5850,35 @@
         ]
     },
     {
+        "remote_id": "heart-after-you-city-harvest-church",
+        "language": "en",
+        "title": "Heart After You",
+        "artist": "City Harvest Church",
+        "key": "C",
+        "lyric": [
+            {
+                "type": 1,
+                "text": "Cre[C]ate In Me A [F/A]New Heart\n[C]  One That Fol[F/A]lows You\n[G]Place In [Am]Me A [Dsus4]Deep Des[D]ire\nTo [G]Know You As I’m [C]Known    [F]"
+            },
+            {
+                "type": 1,
+                "text": "[C]Set My Feet [F/A]In Your Ways\n[C]  To Live Worthy [F/A]Of Your Call\n[G]Draw Me [Am]Near To [Dsus4]You Lord[D]\n[G]Every Single Day"
+            },
+            {
+                "type": 3,
+                "text": "[C]I J[C/E]ust  [F]Want To Be [G/F]More Like [Am]You\n[Bb]Walk With You Be[F/A]side [G]Me\n[C/E]Lord, Won’t You [F]Be My Guide\n[G]Place Your Heart In[Am]side My Soul\nA [Dm]Heart That’s Ever True\n[G]One That’s After [C]You"
+            },
+            {
+                "type": 3,
+                "text": "Music :\n[Am]Am  [G/B]G/B  [C]C  [C/E]C/E  [F]F\n[Am]Am  [G/B]G/B  [C]C  [C/E]C/E  [F]F\nD  F  G"
+            },
+            {
+                "type": 5,
+                "text": "[C]  All I De[F]sire\n[Am]  A Heart After Y[F]ou\n[C/E]  All I De[F]sire\n[Am]  A Heart After Y[G]ou"
+            }
+        ]
+    },
+    {
         "remote_id": "hebat-giving-my-best",
         "language": "indo",
         "title": "Hebat",
@@ -5210,6 +5983,23 @@
         ]
     },
     {
+        "remote_id": "hidup-adalah-kesempatan",
+        "language": "indo",
+        "title": "Hidup Adalah Kesempatan",
+        "artist": "-",
+        "key": "E",
+        "lyric": [
+            {
+                "type": 1,
+                "text": "Hidup I[E]ni A[A/E]dalah Kesem[E]patan\nHidup I[C#m]ni Un[F#7/Bb]tuk Melaya[B]ni Tuhan\nJang[E]an Sia-Si[E/G#]akan\nWak[A]tu Yang Tuhan [E]Bri\nHidup I[E/B]ni Ha[B]rus Jadi Ber[E]kat"
+            },
+            {
+                "type": 3,
+                "text": "Oh Tu[E]han Pa[A]kailah Hidup[E]ku\nSela[C#m]gi  A[F#7/Bb]ku Masih [B]Kuat\nBi[A]la Saatnya [B]Nanti\nKu [G#/C]Tak Berdaya [C#m]Lagi\nHidup I[E/B]ni Su[B]dah Jadi [E]Berkat"
+            }
+        ]
+    },
+    {
         "remote_id": "hidup-bagi-kristus-astri-sinaga",
         "language": "indo",
         "title": "Hidup Bagi Kristus",
@@ -5289,6 +6079,27 @@
             {
                 "type": 3,
                 "text": "Hidupku Hanya Un[G]tukMu Tuhan\nSegala Puji Dan Ke[Em]hormatan\nKau Di[C]tempat Pertama\nUntuk S[D]’lama-lamanya\nOh.. Yes[G]us"
+            }
+        ]
+    },
+    {
+        "remote_id": "hidupku-penuh-mujizat-ndc-worship",
+        "language": "indo",
+        "title": "Hidupku Penuh Mujizat",
+        "artist": "NDC Worship",
+        "key": "Bb",
+        "lyric": [
+            {
+                "type": 1,
+                "text": "[Bb]Sebelum Dunia Ini Ada\nKuasa[Gm]Mu Telah Ter[G#]bentang\n[Bb]Sepanjang Sejarah Manusia\nTak A[Gm]da Yang Sanggup\nMe[D#]nyangkali"
+            },
+            {
+                "type": 1,
+                "text": "Kau [Cm]Alfa O[D#]mega\nTu[Bb]hanku Luar Bia[F]sa\nPer[Cm]buatanMu [D#]Heran\nDu[Bb]lu Skarang Selama[F]nya"
+            },
+            {
+                "type": 3,
+                "text": "[Bb]Lakukanlah La[D#/Bb]gi\nKe[Gm]ajaiban Dalam Nama[D#]Mu Tuhan\n[Bb]Nyatakanlah La[D#/Bb]gi\nKemu[Gm]liaanMu Atas [G#]Hidupku\nHidupku Penuh Muji[Bb]zat"
             }
         ]
     },
@@ -5404,6 +6215,39 @@
         ]
     },
     {
+        "remote_id": "his-love-jpcc-choir",
+        "language": "en",
+        "title": "His Love",
+        "artist": "JPCC Choir",
+        "key": "C",
+        "lyric": [
+            {
+                "type": 1,
+                "text": "Tempo : 57\n4/4"
+            },
+            {
+                "type": 1,
+                "text": "[C]  I [Bm7b5]Close  [E]  My [Am]Eyes\nTo The Things [Gm]I Can[C]not Con[F]trol\nI’m [C/E]Letting Go, I [Dm]Lift My [G]Hands"
+            },
+            {
+                "type": 1,
+                "text": "[C]  I [Bm7b5]Hear   [E]  His [Am]Voice\nGuiding Me [Gm]Through\nMy [C]Fears And [F]Doubts\nHe [C/E]Carries Me\nHe [Dm]Lifts Me Hi[G]gh"
+            },
+            {
+                "type": 3,
+                "text": "He [C]Calms The Storm To A [Bm7b5]Whisper\n[E]He [Am]Stills The Waves With His [Gm]Power [C]\nWith [F]His Hands Working [Em]In My [Am]Life\nI’ll [Dm]Walk Through Valleys\nWhom Shall I [G]Fear"
+            },
+            {
+                "type": 3,
+                "text": "He [C]Heals The Broken[Bm7b5]hearted\n[E]He [Am]Binds Up My Wounds And [Gm]Pains  [C]\nI Feel [F]His Love\nGood[Em]ness And [Am]Strength\nFol[Dm]lowing Me Close\nThrough [G]All My [C]Life"
+            },
+            {
+                "type": 4,
+                "text": "[F]  By H[G/F]is Stripes, I Am [E]Healed\nThere’s No More [Am]Pain   [Gm]\n[F]  By H[G/F]is Blood, I’m Made [E]Worthy\nThere’s No More [Am]Shame  [Gm]\n[F]  By His [G/F]Cross, Death Was [E]Conquered\nThere’s No More [Am]Fear\nI [Dm]Worship You\nI [C/E]Praise You Lord\nFor [F]Your Great [G]Love"
+            }
+        ]
+    },
+    {
         "remote_id": "holy-spirit-my-best-friend-gms-worship",
         "language": "en",
         "title": "Holy Spirit, My Best Friend",
@@ -5495,6 +6339,43 @@
             {
                 "type": 4,
                 "text": "[A]Break My Heart From What Breaks [B]Yours\n[E]Everything I Am For Your [C#m]Kingdoms Cause\n[A]As I Go From Nothing [B]To\nEternity[A]"
+            }
+        ]
+    },
+    {
+        "remote_id": "how-i-love-you-lord-niko-njotorahardjo",
+        "language": "en",
+        "title": "How I Love You Lord",
+        "artist": "Niko Njotorahardjo",
+        "key": "E",
+        "lyric": [
+            {
+                "type": 1,
+                "text": "How I [E]Love You [B/D#]Lord\nI [A/C#]Love You [E/B]Lord\nWith [C#m]All Of My [A]Heart\nI [E/B]Love You [B]Lord"
+            },
+            {
+                "type": 1,
+                "text": "How I [E]Love You [B/D#]Lord\nI [A/C#]Love You [E/B]Lord\nFor[F#m]ever I [B]Love You [E]Lord"
+            },
+            {
+                "type": 3,
+                "text": "[B]Jesus [C#m]Jesus\n[A]You Are The [B]One I [C#m]Love\n[B]Jesus [C#m]Jesus\nFor[A]ever I [B]Love You [E]Lord"
+            },
+            {
+                "type": 1,
+                "text": "Lord I [E]Worship [B/E]You\nI [A/E]Worship [E]You\nWith [C#m]All Of My [F#/A#]Heart\nI [E/B]Worship [B]You"
+            },
+            {
+                "type": 1,
+                "text": "Lord I [E]Worship [G#m]You\nI [A]Worship [E/G#]You\nFor[F#m]ever I [B]Worship [E]You"
+            },
+            {
+                "type": 3,
+                "text": "[B/D#]Jesus [C#m]Jesus\n[A]I Live To [B]Worship [E]You\n[B/D#]Jesus [C#m]Jesus\nFor[A]ever I [B]Worship [E]You"
+            },
+            {
+                "type": 3,
+                "text": "[B]Jesus [C#m]Jesus\n[F#m]You Are The [G#m]One I [A]Love\n[B]Jesus [C#m]Jesus\nFor[F#m]ever I [B]Love You [E]Lord"
             }
         ]
     },
@@ -5711,6 +6592,39 @@
             {
                 "type": 1,
                 "text": "[A]I Will Follow [D]You With My [G]Whole Heart\nI Will Follow [Bm]You With My S[A]trength\nI Will Follow [D]You ‘Till My [Bm]Whole Life\nBring [F#m]Fragnance And [Em]Glory T[A]o Your Na[D]me"
+            }
+        ]
+    },
+    {
+        "remote_id": "imanuel-jpcc-worship",
+        "language": "indo",
+        "title": "Imanuel",
+        "artist": "JPCC Worship",
+        "key": "A",
+        "lyric": [
+            {
+                "type": 0,
+                "text": "A  D  A/C#  Bm"
+            },
+            {
+                "type": 1,
+                "text": "Ba[A]pa Kudatang Dan [D]Berserah\nKu[A/C#]nyatak[F#m]an Kau [Bm]Yang Ber[E]kuasa\n[A]Dalam Ge[A/C#]lap Kau [D]Setia\n'Kau [A/C#]Caha - [F#m]ya Hidup[Bm]ku  [E]"
+            },
+            {
+                "type": 3,
+                "text": "Kau Kuat[D]kan Aku Berta[E/D]han\nKau Hara[C#m]pan Dalam Kese[F#m]sakan\nKau Bukti[Bm]kan\nKesetiaan[C#m7]Mu  Tu[F#m]han\nEng[Bm]kau Allah I[E]manu[A]el"
+            },
+            {
+                "type": 1,
+                "text": "Ba[A]pa Kudatang Tuk [D]Menyembah\nKu[A/C#]nyatak[F#m]an Kau [Bm]Yang Ber[E]tahta\n[A]Dalam Le[A/C#]mah Kau [D]Sempurna\nKau [A/C#]Caha - [F#m]ya Bagi[Bm]ku  [E]"
+            },
+            {
+                "type": 3,
+                "text": "Kau Kuat[D]kan Aku Berta[E/D]han\nKau Hara[C#m]pan Dalam Kese[F#m]sakan\nKau Bukti[Bm]kan\nKesetiaan[C#m7]Mu  Tu[F#m]han\nEng[Bm]kau Allah I[E]manu[A]el"
+            },
+            {
+                "type": 4,
+                "text": "I[E]manuel, I[A]manuel\nEng[E]kau Besert[A]aku\nI[E]manu[E/D]el, I[A/C#]manuel\nEng[Bm]kau Allah Be[E]serta[A]ku"
             }
         ]
     },
@@ -6576,6 +7490,63 @@
         ]
     },
     {
+        "remote_id": "kan-kami-angkat-true-worshippers",
+        "language": "indo",
+        "title": "Kan Kami Angkat",
+        "artist": "True Worshippers",
+        "key": "A",
+        "lyric": [
+            {
+                "type": 0,
+                "text": "[F#m]F#m  C#m A  E  C#m  E  F#m  C#m  A\nF#m  C#m A  E  C#m  E  F#m  C#m  A"
+            },
+            {
+                "type": 1,
+                "text": "Saat Ku [D]Melihat Semua Yang Kau Se[E]diakan Bagiku\nSegala Ke[D]kuatiran Hidupku Pun Ter[E]ganti Terang-Mu\n[F#m]Wuo..[C#m] ooo…[A] oo[E]o… [C#m]ooo… [E]   [F#m]     [C#m]     [A]"
+            },
+            {
+                "type": 1,
+                "text": "Selalu Ma[D]ta Ku Kan Memandang Pada [E]Sinar Wajah-Mu\nIjinkan [D]Mulut Ku Bersorak Tentang [E]Kebesaran-Mu   [C#]"
+            },
+            {
+                "type": 3,
+                "text": "Kan Kami [A]Angkat\nSorak Ter[E]hebat\nBahwa Kau [F#m]Raja\nBerkuasa Dan [D]Kuat\nTangan Ter[A]angkat\nDunia Ber[E/G#]gema\nMenyata[F#m]kan Yesus Tuhan S’la[D]manya"
+            },
+            {
+                "type": 3,
+                "text": "– Intro"
+            },
+            {
+                "type": 1,
+                "text": "Selalu Ma[D]ta Ku Kan Memandang Pada [E]Sinar Wajah-Mu\nIjinkan [D]Mulut Ku Bersorak Tentang [E]Kebesaran-Mu   [C#]"
+            },
+            {
+                "type": 1,
+                "text": "– Chorus"
+            },
+            {
+                "type": 1,
+                "text": "Interlude :\n[Bm]A  E[F#m]/G#  [Bm]F#m [F#m] D"
+            },
+            {
+                "type": 1,
+                "text": "[F#m]Wuo.. ooo… ooo… ooo… Wuo.. ooo… ooo… ooo…\n[F#m]Wuo.. ooo… ooo… [A]ooo… [D]Wuo.. ooo… ooo… [Bm]ooo…"
+            },
+            {
+                "type": 3,
+                "text": "Kan Kami [A]Angkat\nSorak Ter[E]hebat\nBahwa Kau [F#m]Raja\nBerkuasa Dan [D]Kuat\nTangan Ter[A]angkat\nDunia Ber[E/G#]gema\nMenyata[F#m]kan Yesus Tuhan S’la[D]manya"
+            },
+            {
+                "type": 3,
+                "text": "Kan Kami [A]Angkat\nSorak Ter[E]hebat\nBahwa Kau [F#m]Raja\nBerkuasa Dan [D]Kuat\nTangan Ter[A]angkat\nDunia Ber[E/G#]gema\nMenyata[F#m]kan Yesus Tuhan S’la[D]manya"
+            },
+            {
+                "type": 3,
+                "text": "[F#m]Wuo..[C#m] ooo…[A] oo[E]o… [C#m]ooo… [E]   [F#m]     [C#m]     [A]"
+            }
+        ]
+    },
+    {
         "remote_id": "karena-kau-setia-one-way",
         "language": "indo",
         "title": "Karena Kau Setia",
@@ -6707,6 +7678,47 @@
             {
                 "type": 5,
                 "text": "[G]Em [A/G] D/F#[F#m]  G  [Bm]A  D"
+            }
+        ]
+    },
+    {
+        "remote_id": "karnamu-ku-ada-ifgf-praise",
+        "language": "indo",
+        "title": "Kar’naMu Ku Ada",
+        "artist": "IFGF Praise",
+        "key": "G",
+        "lyric": [
+            {
+                "type": 0,
+                "text": "[C]C  [G]G  [Em]Em  [D]D"
+            },
+            {
+                "type": 1,
+                "text": "[C]  Kau Yang Terba[G]ik\nDi Dalam Hidup[Em]ku  [D]\n[C]  Mataku S’la[G]lu\nMemandang Wajah[Em]Mu  [D]"
+            },
+            {
+                "type": 1,
+                "text": "Pada[C]Mu Kuperca[G]ya\nPada[Em]Mu Kuberha[D]rap"
+            },
+            {
+                "type": 3,
+                "text": "Kusembah Kau [G]Allahku\nKubernyanyi [Em]BagiMu\nKarnaMu Ku [C]Ada\nKarnaMu Ku [Am]Kuat\nTiada Seperti[D]Mu"
+            },
+            {
+                "type": 1,
+                "text": "[C]  Kau Menuntun[G]ku\nDi Setiap Wak[Em]tu  [D]\n[C]  TanganMu S’la[G]lu\nMenopang Hidup[Em]ku  [D]"
+            },
+            {
+                "type": 1,
+                "text": "Pada[C]Mu Kuperca[G]ya\nPada[Em]Mu Kuberha[D]rap"
+            },
+            {
+                "type": 3,
+                "text": "Kusembah Kau [G]Allahku\nKubernyanyi [Em]BagiMu\nKarnaMu Ku [C]Ada\nKarnaMu Ku [Am]Kuat\nTiada Seperti[D]Mu"
+            },
+            {
+                "type": 3,
+                "text": "Dan Kus’rahkan [G]Hidupku\nKupercaya [Em]PadaMu\nKarnaMu Ku [C]Ada\nKarnaMu Ku [Am]Kuat\nTiada Seperti[D]Mu"
             }
         ]
     },
@@ -6924,6 +7936,27 @@
         ]
     },
     {
+        "remote_id": "kasih-sempurna-gilgal-worship",
+        "language": "indo",
+        "title": "Kasih Sempurna",
+        "artist": "Gilgal Worship",
+        "key": "C",
+        "lyric": [
+            {
+                "type": 1,
+                "text": "[C]Kau Turun Ke [F]Dunia\nMe[Dm]ninggal[C/E]kan Sur[C/G]ga Muli[G]a\nKau [C]Rela Jadi [F]Manusia\nKar'[Dm]na Ka[C/E]sihMu [C/G]Yang Muli[G]a"
+            },
+            {
+                "type": 1,
+                "text": "Tia[F]da Ka[C/E]sih Sep[E]erti [E/G#]Kasih - [Am]Mu\nTak Ter[Dm]bandingkan Dengan Apapun [G]Juga"
+            },
+            {
+                "type": 3,
+                "text": "Kasih[C]Mu Me[F]nembus Sega[Em]la Bat[Am]as\nKasih[Dm]Mu Ka[G]sih Tak Berce[Em]la  [Am]    [Dm]\nKa[G]sih - [C]Mu A[F]gung Kekal Se[Em]la - [E/G#]ma  -  [Am]Nya\nKasih[Dm]Mu Ka[G]sih Yang Sempur[C]na"
+            }
+        ]
+    },
+    {
         "remote_id": "kasih-setiamu-menyertaiku-franky-sihombing",
         "language": "indo",
         "title": "Kasih SetiaMu Menyertaiku",
@@ -7119,6 +8152,73 @@
             {
                 "type": 3,
                 "text": "[A]Kanan, Kiri, [E/G#]Ke Depan\n[F#m]Mari Semua [E]Bergoyang\n[D]Menari Ber[A/C#]gembira\nSuka[Bm]citaku Da[E]lam Kris[A]tus"
+            }
+        ]
+    },
+    {
+        "remote_id": "kau-allah-yang-besar-welyar-kauntu",
+        "language": "indo",
+        "title": "Kau Allah Yang Besar",
+        "artist": "Welyar Kauntu",
+        "key": "E",
+        "lyric": [
+            {
+                "type": 1,
+                "text": "Yesus Tu[A]han Kau [B]Layak Di[E]puji\nDitinggi[A]kan Atas [B]Seluruh Bu[E]mi\n[F#m]Ajaib KuasaMu [B/D#]Ya Allah[E]ku\nKu [F#m]Kagum Hor[A]mat Pada[B]Mu"
+            },
+            {
+                "type": 1,
+                "text": "Yesus Tu[A]han Kau [B]Layak Di[E]puji\nDitinggi[A]kan Atas [B]Seluruh Bu[C#m]mi\n[D]Heran KasihMu [B/D#]Dihidup[E]ku\n[F#m]Yesus Ke[E/G#]ku  -  [A]atan[B]ku"
+            },
+            {
+                "type": 3,
+                "text": "Kau Allah [E]Yang Besar [B/D#]\nAjaib Dan [C#m]Mulia  [B]\nKau Ye[A]sus Yang Sela[F#m]lu\nMembuatku [B]Terpesona"
+            },
+            {
+                "type": 3,
+                "text": "Segala [E]Pujian  [B/D#]\nBagiMu [C#m]Ya Tuhan  [B]\nHanya [F#m]Kau Yang La[B]yak\nDi Agung[E]kan"
+            }
+        ]
+    },
+    {
+        "remote_id": "kau-allah-yang-kudus-true-worshippers",
+        "language": "indo",
+        "title": "Kau Allah Yang Kudus",
+        "artist": "True Worshippers",
+        "key": "F",
+        "lyric": [
+            {
+                "type": 1,
+                "text": "Kau Allah [Bb]Yang Kudus [C/Bb]\nKau Allah [Am]Yang Kudus  [Dm]\nDi Tah[Gm]ta Suci-[C]Mu\nKami [F]Menyembah  [Cm7]     [F]"
+            },
+            {
+                "type": 1,
+                "text": "Nama-Mu [Bb]Disanjung  [C/Bb]\nKuasa-Mu [Edim]Nyata [A/C#]Sempur[Dm]na\nKami Pu[Gm]ja, Engkau Ra[C]ja\nMuli[F]a"
+            }
+        ]
+    },
+    {
+        "remote_id": "kau-bagian-yang-terindah-dewi-guna",
+        "language": "indo",
+        "title": "Kau Bagian Yang Terindah",
+        "artist": "Dewi Guna",
+        "key": "G",
+        "lyric": [
+            {
+                "type": 1,
+                "text": "Pernah Kumera[G]sa [F#m7b5]\nMeng[B]inginkan Semu[Em]a   [Dm]\nSegala [C]Yang Ada [G/B]\nDi Dalam Duni[Am]a   [D]"
+            },
+            {
+                "type": 1,
+                "text": "Namun Masih Sa[G]ja [F#m7b5]\nTak [B]Cukup Bagi[Em]ku  [D#]\nTanpa Kau [G/D]Di Sa[Em]na  [Am]\nPenu[D]hi Ha[G]ti Ini  [D]"
+            },
+            {
+                "type": 3,
+                "text": "Hingga Sa[G]tu Masa\nKutemukan Bagian [Em]Terindah\nKa[D/F#]sih - [G]Mu [Am]Menyapa\nMeng[C/G]isi Kesunyian [F]Hidupku  [D]"
+            },
+            {
+                "type": 3,
+                "text": "G/B       Gaug/B\nKau Yang Menopangku Oh Yesusku\nMem[C]beri Arti Hidup[Cm]ku  [G/D]\nKusada[Em]ri Kau [Am]Bagian [D]Yang Ter[G]indah"
             }
         ]
     },
@@ -7740,6 +8840,27 @@
         ]
     },
     {
+        "remote_id": "kau-yang-layak-true-worshippers",
+        "language": "indo",
+        "title": "Kau Yang Layak",
+        "artist": "True Worshippers",
+        "key": "E",
+        "lyric": [
+            {
+                "type": 1,
+                "text": "Semu[A]a Mahkota Dunia Kan Ku L[E]etak-Kan\nSemu[A]a Pujian Manusia Tak Ku H[E]irau-Kan\nKarna [A]Tak Ada Satupun Yang Dapat G[E]antikan\nHanya [A]Kau Yang Kudus Dan Ha[F#m]nya Kau T[E]erbesar"
+            },
+            {
+                "type": 3,
+                "text": "Kau Yang [A]Layak\nKau Yang [E/G#]Layak\nKau Yang [A]Layak [F#m]Di Sem[E]bah\nKau Yang [A]Layak\nKau Yang [E/G#]Layak\nKau Yang [A]Layak [F#m]Di Sem[E]bah"
+            },
+            {
+                "type": 1,
+                "text": "Kau Dekat Dengan Semua Yang Memanggil-Mu\nBetapa Besar Dan Mulia-Nya Karya-Mu\nSungguh Tak Ada Satu-Pun Yang Dapat Gantikan\nKini Ku Angkat Tangan-Ku Dan Ku Bersorak"
+            }
+        ]
+    },
+    {
         "remote_id": "kau-yang-memilihku-eldhy-victor",
         "language": "indo",
         "title": "Kau Yang Memilihku",
@@ -7765,6 +8886,31 @@
             {
                 "type": 4,
                 "text": "Kau [Am]Paka[E/G#]i Kau Yang [C/G]Memilih[D/F#]ku\nJadi[Dm]lah [Em7]Setur[F]ut Ke[D/F#]hendakM[G]u"
+            }
+        ]
+    },
+    {
+        "remote_id": "kau-yang-terbaik-maria-calista-michael-joe",
+        "language": "indo",
+        "title": "Kau Yang Terbaik",
+        "artist": "Maria Calista & Michael Joe",
+        "key": "F",
+        "lyric": [
+            {
+                "type": 1,
+                "text": "[F]Ku Melupa[C/E]kan Yang [Dm]Dibelakang[F/C]ku\n[Bb]Kuserahkan [F/A]Diriku\nHanya [Gm]PadaMu Ye[C]sus"
+            },
+            {
+                "type": 1,
+                "text": "[F]Dan Kuberla[C/E]ri Kepa[Dm]da Tujuan[F/C]ku\nKau [Bb]B’riku Hari [F/A]Yang Baru\nYang La[Gm]ma T’lah [C]Berla[F]lu   [C]"
+            },
+            {
+                "type": 3,
+                "text": "[F]Renca[C/E]naMu Oh Tu[Dm]han\n[Am]Indah Bagi[Bb]ku\nTak Terba[F/A]tas Oleh [Gm]Pikiran[C]ku"
+            },
+            {
+                "type": 3,
+                "text": "[F]Firman[C/E]Mu Ya Dan A[Dm]min\nSum[Am]ber Kekua[Bb]tan\nKau Pengha[F/A]rapanku\n[Gm]Kau Terbaik [C]Bagi[F]ku"
             }
         ]
     },
@@ -7860,6 +9006,31 @@
             {
                 "type": 3,
                 "text": "[Em]  Kau Ubah [C]Kan Tangisku\n[G]  Menjadi [Am]Pujian Baru\n[Em]Ooo.. [C]Ooo.. [G]\n[Am]Kaulah Kuat[C]ku"
+            }
+        ]
+    },
+    {
+        "remote_id": "kaulah-segalanya-true-worshippers",
+        "language": "indo",
+        "title": "Kaulah Segalanya",
+        "artist": "True Worshippers",
+        "key": "E",
+        "lyric": [
+            {
+                "type": 0,
+                "text": "[C#m]E/G# [A] G#[C#m]/C  C[A]#\nA  B"
+            },
+            {
+                "type": 1,
+                "text": "Kau Ba[E]pa Yang Mengasi[A/E]hiku\nKuasa-[E]Mu Me[B/D#]mulihkan[C#m]ku\nHati [A]Yang Baru Kau Be[E/G#]rikan\nUntuk [A]Ku Dapat Meli[B]hat"
+            },
+            {
+                "type": 1,
+                "text": "Renca[E]na-Mu Indah Ba[A/E]giku\nKau A[E]da Di [B/D#]S’tiap Jalan[C#m]ku\nHati[A]ku Haus Dan La[B]par\nAkan Eng[A]kau  [B]"
+            },
+            {
+                "type": 3,
+                "text": "Kaulah Sega[E]lanya Di Dalam Hi[A/E]dupku\nKera[C#/F]jaan - [F#m]Mu Kebenaran-Mu Itu Bagi[B]anku\nKau[A/C#]lah   [B/D#]Yang Ku [E]Pandang Selama Hi[A/E]dupku\nMenga[C#/F]sihi - [F#m]Mu Memuliakan-[B]Mu\nBapa Dan Ra[Am/E]ja  –  [E]ku"
             }
         ]
     },
@@ -7997,6 +9168,43 @@
         ]
     },
     {
+        "remote_id": "kebesaranmu-jpcc-worship-youth",
+        "language": "indo",
+        "title": "KebesaranMu",
+        "artist": "JPCC Worship Youth",
+        "key": "B",
+        "lyric": [
+            {
+                "type": 1,
+                "text": "[B]  Ajarku Berserah\n[E]  Kuasai Mataku\n[B/D#]  Bahwa 'Kau Be[G#m]sar\nMeng[C#m]genggam Hidup[F#]ku"
+            },
+            {
+                "type": 1,
+                "text": "[B]  Walau Kuberjalan\n[E]  Di Lembah Yang Gelap\n[B/D#]  Tenang Jiwa[G#m]ku\nS'bab '[C#m]Kau Beserta[F#]ku"
+            },
+            {
+                "type": 3,
+                "text": "[B]  Selama Kuhidup\n[G#m]  Apapun Musimku\nKuperca[E]ya Kebesaran[B/D#]Mu\nKeku[C#m]atanku Di [F#]DalamMu"
+            },
+            {
+                "type": 3,
+                "text": "[B]  Kus'rahkan Hidupku\n[G#m]  Akui KuasaMu\nKuseru[E]kan Kebesaran[B/D#]Mu\nMasa [C#m]Depanku\nTer[F#]jaga Di Tangan[B]Mu"
+            },
+            {
+                "type": 3,
+                "text": "Musik :\nG#m  E  B/D#  F#/A#"
+            },
+            {
+                "type": 4,
+                "text": "Kau Yang Berkua[G#m]sa\nSurga Bumi [E]  Kan Menyembah\n[B/D#]Yesus Raja Sega[F#/A#]lanya"
+            },
+            {
+                "type": 4,
+                "text": "Kau Yang Berdau[G#m]lat\nSurga Bumi [E]  Kan Menyembah\n[B/D#]Yesus Raja Sega[F#/A#]lanya"
+            }
+        ]
+    },
+    {
         "remote_id": "kekuatan-hatiku-citra-skolastika-feat-regina",
         "language": "indo",
         "title": "Kekuatan Hatiku",
@@ -8101,6 +9309,47 @@
             {
                 "type": 1,
                 "text": "Kemu[G]liaan Bagi [G/B]Tuhan    [Dm]   [G]\nDi Tem[C]pat Maha Tinggi\nKau Ra[Bm]ja Diagung[Em]kan Dan Dipu[A/C#]ji    [D]\nDatang[G/B]lah Keraja[Dm]an-Mu [G]\nJadi[C]lah Kehendak-Mu\nS’luruh [Am]Bumi Penuh [D]Kemuliaan-[G]Mu  [Em]\nS’luruh [Am]Bumi Penuh [D]Kemuliaan-[G]Mu  [Em]\nS’luruh [Am]Bumi[G/B] Penu[C]h K[C/E]emuli[D]aan-[D#]Mu  [F/D#]      [G]"
+            }
+        ]
+    },
+    {
+        "remote_id": "kemuliaan-besar-ka-worship",
+        "language": "indo",
+        "title": "Kemuliaan Besar",
+        "artist": "KA Worship",
+        "key": "G",
+        "lyric": [
+            {
+                "type": 1,
+                "text": "Kemu[G]liaan Tu[C]han T'lah Nya[G]ta\nBangkit[G]lah Dan [A/G]Jadilah Te[D/F#]rang\nBangsa-Bang[C]sa Kan [D/C]Datang\nMenyem[Gsus4]bah  -  [G]Mu\nKesela[C]matan Besar Terja[D]di"
+            },
+            {
+                "type": 1,
+                "text": "Keka[G]yaan Bang[C/E]sa-Bangsa Da[G/D]tang\nBuatku [G/B]Tercengang\nDan [A/C#]Berbesar Ha[D]ti\nBangsa-Bang[C]sa Kan [D/C]Datang\nMenyem[Gsus4]bah  -  [G]Mu\nB'rita[C]kan Perbuatan Mahsyur[D]Mu"
+            },
+            {
+                "type": 3,
+                "text": "Kemulia[G]an Besar Dinyatakan\nKeselama[Em]tan Besar Dicurahkan\nKau Bangkit[C]kanku\nMenjadi [Am]Terang Bagi Bangs[D]aku"
+            },
+            {
+                "type": 3,
+                "text": "Kemulia[G]an Besar Dinyatakan\nKelimpa[Em]han Besar Dicurahkan\nKau Bangkit[C]kanku\nMenjadi [D]Terang Bagi Segala Bang[G]sa"
+            },
+            {
+                "type": 0,
+                "text": "G  C/E  G/D  C"
+            },
+            {
+                "type": 0,
+                "text": "- Bait\n- Reff"
+            },
+            {
+                "type": 0,
+                "text": "Musik :\nC  D  Em  Bm"
+            },
+            {
+                "type": 4,
+                "text": "Yang [C]Paling Kecil\nTu[D]han Jadikan Ka[G]um Yang Besar\nYang [C]Paling Lemah\nTu[D]han Jadikan Bang[Em]sa Yang Kuat"
             }
         ]
     },
@@ -8335,6 +9584,31 @@
         ]
     },
     {
+        "remote_id": "ku-ada-welyar-kauntu",
+        "language": "en",
+        "title": "Ku Ada",
+        "artist": "Welyar Kauntu",
+        "key": "C",
+        "lyric": [
+            {
+                "type": 1,
+                "text": "I Am [C]Here Because Of [G/B]Your Grace\nI Am [Dm]Here [G]  Because Of [F/C]Your [C]Love\n[G]Lord [C]Jesus [C/E]  I Am So [F]Thankful\n[Dm]For Your [C/G]Grace A[G]bounds To [C]Me"
+            },
+            {
+                "type": 3,
+                "text": "Thank You [F]Jesus, [Em]Jesus  [Am]\n[Dm]Jesus, [G]  Thank You [C]Jesus\nIt’s Only [F]By Your Grace\nThat I Could [Em]Live Today  [A]\nForever [Dm]I Will Praise [G]\nYour [C]Name"
+            },
+            {
+                "type": 1,
+                "text": "Ku A[C]da S'bab Anu[G/B]g'rahMu\nKu A[Dm]da  [G]   Kar’na Ka[F/C]sih - [C]Mu\n[G]Tuhan [C]Yesus [C/E]\nKu Bert'ri[F]ma Ka[Dm]sih\nBuat [C/G]Ka  -[G]  sih Rahmat[C]Mu"
+            },
+            {
+                "type": 3,
+                "text": "T'rima [F]Kasih [Em]Yesus [Am]\n[Dm]Yesus [G]  T'rima [C]Kasih\nKar'na A[F]nug'rahMu\nBuat Hidup[Em]ku S'karang [A]\nKu Kan Me[Dm]mujiMu  [G]\nS'lama[C]nya"
+            }
+        ]
+    },
+    {
         "remote_id": "ku-akan-menang-sound-of-praise",
         "language": "indo",
         "title": "Ku Akan Menang",
@@ -8527,6 +9801,27 @@
         ]
     },
     {
+        "remote_id": "ku-di-tanganmu-vetry-kumaseh",
+        "language": "indo",
+        "title": "Ku Di TanganMu",
+        "artist": "Vetry Kumaseh",
+        "key": "E",
+        "lyric": [
+            {
+                "type": 1,
+                "text": "Tempo : 74\n4/4"
+            },
+            {
+                "type": 1,
+                "text": "[E]Ku Di Tangan-[G#m]Mu\n[C#m]Ku Di Ha[G#m]ti-Mu\nDi [A]Pikiran-Mu\nDi [G#m]Rencana-[C#m]Mu\nTak [F#m]Pernah Ku Sendi[B]ri"
+            },
+            {
+                "type": 1,
+                "text": "[E]Ku Di Tangan-[G#m]Mu\n[C#m]Ku Di Ha[G#m]ti-Mu\nDi [A]Pikiran-Mu\nDi [G#m]Rencana-[C#m]Mu\nTak [F#m]Pernah Di[B]tinggal[E]kan"
+            }
+        ]
+    },
+    {
         "remote_id": "ku-hidup-bagimu-sound-of-praise",
         "language": "indo",
         "title": "Ku Hidup BagiMu",
@@ -8706,6 +10001,27 @@
             {
                 "type": 3,
                 "text": "[A]Kaulah Nafas[D]ku [A/C#]   Tuh[Bm]an\n[A]Kaulah Hidup[G]ku [D/F#]Tuhan[Em]\nKau [A]Lebi[A/G]h Dari [F#m]Se – [Bb/F#]ga – la[Bm]nya\n[D/A]Ku Mau Selalu [Em]Menyembah[A]Mu Tu[D]han"
+            }
+        ]
+    },
+    {
+        "remote_id": "ku-mau-setia",
+        "language": "indo",
+        "title": "Ku Mau Setia",
+        "artist": "-",
+        "key": "G",
+        "lyric": [
+            {
+                "type": 1,
+                "text": "[C]  Firman[D]Mu Meng[Em]uatkanku\n[C]  Kasih[D]Mu Me[G]lingkupiku\n[C]  Darah[D]Mu Se[Em]lamatkan [D]Jiwa[C]ku  [Em]    [G]   [G/B]"
+            },
+            {
+                "type": 1,
+                "text": "[C]  Hati[D]ku Memu[Em]ji NamaMu\n[C]  Kuangkat Tang[D]anku Menyem[G]bahMu\nHanya Pa[C]daMu [Em]  Ye[D]sus\nHanya Na[C]maMu [Em]  Ye[D]sus"
+            },
+            {
+                "type": 3,
+                "text": "Kan Kunyata[G]kan Kemuliaan[D/F#]Mu\nSegenap Hidup[Em]ku Kumengasihi[Bm]Mu\nKan Kuber[C]juang Sampai A[Bm]khir Hidup[Em]ku\nKumau [Am]Setia Hi[D]dup Bersama[G]Mu"
             }
         ]
     },
@@ -8915,6 +10231,23 @@
         ]
     },
     {
+        "remote_id": "kuasa-kasihmu-daniel",
+        "language": "indo",
+        "title": "Kuasa KasihMu",
+        "artist": "Daniel",
+        "key": "A",
+        "lyric": [
+            {
+                "type": 1,
+                "text": "[A]  Kuda[E/G#]tang Tu[F#m]han Ubahkanlah [C#m]Hatik[F#m]u\nRasakan [E]Anug[D]’rah Menga[E]lir Dari[F#m]Mu     [E11]       [E]\n[A]  Kuta[E/G#]hu Tuh[F#m]an Kelemahan [C#m]Hatik[F#m]u\nAkan [E]Terha[D]pus [E]  Oleh Kuasa [D/A]Kasih[A]Mu [E/G#]      [F#m]     [E]"
+            },
+            {
+                "type": 3,
+                "text": "[D]Kas[F#m]ih – [E]Mu Melingkupi [Asus4]Diriku [A]   [E/G#]      [F#m]     [E]\n[D]Baw[F#m]a – k[E]u Dipelu[A]kanMu [Bm]    [A/C#]      [Em]    [A]\nKu ‘[D]Kan[F#m] Terb[E]ang Bagai Raja[Asus4]wa  –  [A]li\nKu Mela[E/G#]yang  [F#m]Tinggi\nRoh Mu Meng[E]angkat[D]ku\nOleh [E11]Kuasa [D/A]KasihM[A]u"
+            }
+        ]
+    },
+    {
         "remote_id": "kuasa-namanya-symphony-worship",
         "language": "indo",
         "title": "Kuasa NamaNya",
@@ -9006,6 +10339,35 @@
             {
                 "type": 3,
                 "text": "Biar Ha[A/E]dirat[E]Mu\nTe[C#m]rus Bersamaku\nKu Ta[A]hu Engkau\nT'lah [B]Menyembuhkan[E]ku"
+            }
+        ]
+    },
+    {
+        "remote_id": "kuasamu-bilurmu-sari-simorangkir",
+        "language": "indo",
+        "title": "KuasaMu BilurMu",
+        "artist": "Sari Simorangkir",
+        "key": "F",
+        "lyric": [
+            {
+                "type": 1,
+                "text": "[F]Yesus Telah Mati Bagi[Bb]ku\nDia[Am]lah Pe[Dm]nebus Yang Am[Gm]puni[C]ku\n[F]Pengorbanan-Nya Yang Sempur[Bb]na\nMemba[Am]wa Mu[Dm]jizat Yang Be[D#]sar  [C]"
+            },
+            {
+                "type": 1,
+                "text": "[F]Yesus Telah Mati Bagi[Bb]ku\nDia[Am]lah Pe[Dm]nebus Yang Am[Gm]puni[C]ku\n[F]Pengorbanan-Nya Yang Sempur[Bb]na\nMemba[Am]wa Mu[Dm]jizat Yang Be[D#]sar  [C]"
+            },
+            {
+                "type": 3,
+                "text": "Kuasa-[F]Mu Me[Am]mulih[Bb]kan  [Gm]\nKuasa-[C]Mu Memulih[F/A]kan  [Gm]\nPercay[F]a Kau [A]Berfir[Bb]man  [F/A]\nKuasa-[Gm]Mu Yang [C]Pulih[Dm]kan [Bb]    [Gm]    [D#]    [Dm]    [Bb]    [Gm]    [D#]    [C]"
+            },
+            {
+                "type": 1,
+                "text": "[F]Yesus Telah Mati Bagi[Bb]ku\nDia[Am]lah Pe[Dm]nebus Yang Am[Gm]puni[C]ku\n[F]Pengorbanan-Nya Yang Sempur[Bb]na\nMemba[Am]wa Mu[Dm]jizat Yang Be[D#]sar  [C]"
+            },
+            {
+                "type": 3,
+                "text": "Bilur-[F]Mu Me[Am]nyembuh[Bb]kan  [Gm]\nBilur-[C]Mu Menyembuh[F/A]kan    [Gm]\nPerca[F]ya Kau [A]Berfir[Bb]man  [F/A]\nBilur-[Gm]Mu Yang [C]Sembuh[F]kan"
             }
         ]
     },
@@ -9105,6 +10467,43 @@
         ]
     },
     {
+        "remote_id": "kubri-yang-terbaik-gms",
+        "language": "indo",
+        "title": "Kubri Yang Terbaik",
+        "artist": "GMS",
+        "key": "E",
+        "lyric": [
+            {
+                "type": 0,
+                "text": "[A]A  [E/G#]E/G#  [A]A  [C#m]C#m  [B]B\n[A]A  [E/G#]E/G#  [A]A  [C#m]C#m  [B]B"
+            },
+            {
+                "type": 1,
+                "text": "[A]  T'lah Kutemukan Ka[E/G#]sih\n[A]  Yang Sejati Tiada [E/G#]Pernah Ber[C#m]ubah [B]\n[A]  Hanya Di Dalam[E/G#]Mu Yesus Tuhan[A]ku [C#m]     [B]"
+            },
+            {
+                "type": 1,
+                "text": "[A]  Kasih Yang T'lah Kau Be[E/G#]ri\n[A]  Lebihi Segala Yang [E/G#]Terbaik Da[C#m]lamku[B]\n[A]  Tak Berkesuda[E/G#]han, Kekal Selama[A]nya [C#m]     [B]"
+            },
+            {
+                "type": 1,
+                "text": "Kini [C#m]Kubawa Kepada[G#/C]Mu\nHidup[E/B]ku S'bagai Persemba[F#/Bb]han\nT'rima[F#m]lah Pujian Dari [E/G#]Hatiku\n[Am]Hanyalah Untuk[B]Mu"
+            },
+            {
+                "type": 3,
+                "text": "Kub'ri Yang Ter[E]baik\nHa[G#m]nyalah Bagi[C#m]Mu\n[Bm]Hanya [E]Untuk[A]Mu\nYang Termuli[E/G#]a\nBerke[F#m]nan Bagi[B]Mu"
+            },
+            {
+                "type": 3,
+                "text": "Biar Hi[E]dupku Ber[G#m]sinar Bagi\n[Bm/D]Kemuliaan [C#]Dan Keagung[F#m]anMu Tuhan\nKe[E/G#]besaranMu, Ku[Am]b'ri Sgala[B]nya\nKu B'ri Yang Ter[A]baik"
+            },
+            {
+                "type": 3,
+                "text": "Musik :\n[A]A  [E]E  [C#m]C#m  [B]B\n[A]A  [E]E  [C#m]C#m  [B]B"
+            }
+        ]
+    },
+    {
         "remote_id": "kucari-wajahmu",
         "language": "indo",
         "title": "Kucari WajahMu",
@@ -9139,6 +10538,23 @@
             {
                 "type": 3,
                 "text": "Engkau Allah Dan Ra[Am]jaku  [D]\nKakasih Dalam Hidup[G]ku  [D/F#]      [Em]\nEngkau S’galanya Bagi[Am]ku   [D]\nKubersyukur Kepa[G]daMu"
+            }
+        ]
+    },
+    {
+        "remote_id": "kuduslah-tuhan",
+        "language": "indo",
+        "title": "Kuduslah Tuhan",
+        "artist": "-",
+        "key": "G",
+        "lyric": [
+            {
+                "type": 1,
+                "text": "Ku Da[Em]tang Tuhan\nDalam Had[Bm]iratMu\n[C]Berhiaskan Kekudu[D]san\nSelur[Em]uh Surga, Sujud Men[Bm]yembahMu\n[C]Ku Tersung[Am]kur Dan Berse[D]ru"
+            },
+            {
+                "type": 3,
+                "text": "Kudus, [G]Kuduslah\nKud[Am]uslah Tuhan\n[D]Allah Semesta [G]Alam\nKudus, [G]Kuduslah\nKud[Am]uslah Tuhan\n[C]Surga Bum[D]i Menyemb[G]ahMu"
             }
         ]
     },
@@ -9618,6 +11034,52 @@
         ]
     },
     {
+        "remote_id": "kupercaya-mujizat-ada-bagiku-melitha-sidabutar",
+        "language": "indo",
+        "title": "Kupercaya Mujizat Ada Bagiku",
+        "artist": "Melitha Sidabutar",
+        "key": "D",
+        "lyric": [
+            {
+                "type": 1,
+                "text": "Sega[D]la Yang Terjadi\nDalam [Bm]Hidupku Ini\nSemu[G]a Ada Dalam Rancanga[D]nMu"
+            },
+            {
+                "type": 1,
+                "text": "Lewa[D]ti Hari Hari\nKuta[Bm]u Tak Sendiri\nAda [G]Kau Tuhan\nYang Selalu Ser[D]taku"
+            },
+            {
+                "type": 3,
+                "text": "Kuperca[G]ya [A/G]  Kuperca[F#m]ya   [Bm]\nMu[Em]jizatMu [A]Masih Ada\n[D]Dalam Hidupku"
+            },
+            {
+                "type": 3,
+                "text": "Kuperca[G]ya [A/G]  Kuperca[F#m]ya   [Bm]\nTi[Em]ada Yang Mus[A]tahil Bagi[D]Mu"
+            }
+        ]
+    },
+    {
+        "remote_id": "kupersembahkan-hidupku-maria-shandi",
+        "language": "indo",
+        "title": "Kupersembahkan Hidupku",
+        "artist": "Maria Shandi",
+        "key": "D",
+        "lyric": [
+            {
+                "type": 1,
+                "text": "[D]Ini Aku [Em/D]S’mua Milik-Mu\n[A/C#]Ku Serah[A]kan Pada-[D]Mu Tuhan   [A/C#]\n[Bm]Penyesalan Dan [G]Kebanggaan [D/F#]\nSu[Em]ka Dan Du[D/F#]ka S’mua [G]Ku Serah[A]kan"
+            },
+            {
+                "type": 1,
+                "text": "[D]Yang T’lah Lalu [Em/D]Yang ‘Kan Datang\n[A/C#]Hasrat Dan [A]Harapan [D]Yang Terbayang  [A/C#]\n[Bm]Masa Depan Dan [G]Rencana[D/F#]ku\nS’mua [Em]Ku Serah[D/F#]kan Da[G]lam Tangan-[A]Mu"
+            },
+            {
+                "type": 3,
+                "text": "[D]Ku Per[A/C#]sembahkan [Bm]Hidupku\n[D/A]Kepada-[G]Mu Tu[D/F#]han  ‘[Em]Tuk kemulia[A]an-Mu\n[D]Ku Be[A/C#]rikan Hi[Bm]dup Ini [D/A]S’bagai Per[G]semba[D/F#]han\n[Em]Yang Berkenan [A]Pada-[D]Mu (Ku Berikan Hidupku)"
+            }
+        ]
+    },
+    {
         "remote_id": "kusembah-engkau-slamanya-true-worshippers",
         "language": "indo",
         "title": "Kusembah Engkau S’lamanya",
@@ -9718,6 +11180,39 @@
             {
                 "type": 3,
                 "text": "Kuangkat [F]Tanganku\nNyatakan Kau He[Bb]bat\nAllah Yang Perka[Dm]sa\nBer[C]kuasa S'lamanya"
+            }
+        ]
+    },
+    {
+        "remote_id": "kuteringat-symphony-worship",
+        "language": "indo",
+        "title": "Kuteringat",
+        "artist": "Symphony Worship",
+        "key": "F",
+        "lyric": [
+            {
+                "type": 0,
+                "text": "[Bb]Bb  [Gm]Gm  [Dm]Dm  [F]C"
+            },
+            {
+                "type": 1,
+                "text": "[Bb]  Kuteringat Kasih [Gm]SetiaMu\n[Dm]  PertolonganMu Yang [F]Tepat Waktu\n[Bb]  Tak Pernahku\nBerja[Gm]lan Sendiri  [Dm]    [C]"
+            },
+            {
+                "type": 1,
+                "text": "[Bb]  Kuteringat Akan [Gm]KebaikanMu\n[Dm]  Kau Sediakan S'gala [F]Yang Kuperlu\n[Bb]  Kau Berikan\nHara[Gm]pan Yang Baru [Dm]    [C]"
+            },
+            {
+                "type": 1,
+                "text": "[Bb]  O o o [C]o, Dengan Apa Kubalas\n[Dm]  O o o o, [C/E]KebaikanMu\n[Bb]  O o o [C]o Hidupku Hanyalah\n[Gm]Ba - [F/A]gi - [Bb]Mu"
+            },
+            {
+                "type": 3,
+                "text": "[Bb]Kupuji [C]  NamaMu\n[Dm]Kusembah [C]  S'lamanya\n[F/A]Nyanyi[Bb]an Kuhanya [Gm]Ba - [F/A]gi - [Bb]Mu"
+            },
+            {
+                "type": 3,
+                "text": "[Bb]Mulialah [C]  NamaMu\n[Dm]Tinggi Dan [C]  Teragung\n[F/A]Hidup[Bb]ku 'Kan Kupersembahkan\n[Gm]Ba - [F/A]gi - [Bb]Mu  [Gm]Ye - [F/A]sus - [Bb]ku"
             }
         ]
     },
@@ -9826,6 +11321,39 @@
             {
                 "type": 3,
                 "text": "[G]  Kutinggikan [Am]  Kuagungkan\n[C]  Hanya Nama Yesus, Yesus\n[G]  Kau Bertahta [Am]  Dan Berkuasa\n[C]  Hanya Engkau Yesus Tuhan"
+            }
+        ]
+    },
+    {
+        "remote_id": "lagu-untuk-mama-papa-kevin-karyn",
+        "language": "indo",
+        "title": "Lagu Untuk Mama & Papa",
+        "artist": "Kevin & Karyn",
+        "key": "A",
+        "lyric": [
+            {
+                "type": 1,
+                "text": "[A]Kunyanyikan [E/G#]Lagu Ini\n[F#m]Untuk Mama[C#m]ku\n[D]Yang Menjaga A[A/C#]ku\nSam[B]pai Saat I[E]ni"
+            },
+            {
+                "type": 1,
+                "text": "[A]Kasih Sayang[E/G#]nya Padaku [F#m]\nSepanjang [C#m]Masa\nNa[D]sehatnya Se[A]lalu\nTering[E]at Di Hati[A]ku"
+            },
+            {
+                "type": 1,
+                "text": "[A]Kupersembahkan [E/G#]Lagu Ini\n[F#m]Untuk Papa[C#m]ku\nYang [D]Membimbing A[A/C#]ku\nS'la[B]ma Hidup I[E]ni"
+            },
+            {
+                "type": 1,
+                "text": "[A]Kasih Sayang[E/G#]nya Padaku [F#m]\nTak Terlupa[C#m]kan\n[D]S'lalu Dukung [A]Aku\nMengga[E]pai Cita-Ci[A]ta  [E]"
+            },
+            {
+                "type": 3,
+                "text": "T'rima Ka[A]sih, Oh Tu[E/G#]han\nKau Beri[F#m]kan Kapada[A/E]ku\n[D]Mama Dan Pa[A/C#]pa\nYang Sang[B]at Kusayang[E]i"
+            },
+            {
+                "type": 3,
+                "text": "T'rima Ka[A]sih Mama Pa[E/G#]pa\nCinta Ka[F#m]mi Kepada[A/E]mu\n[D]Tak Akan Ber[A]ubah\nUntuk [E]S'lama-Lama[A]nya"
             }
         ]
     },
@@ -10778,6 +12306,52 @@
         ]
     },
     {
+        "remote_id": "mengalirlah-ifgf-praise",
+        "language": "indo",
+        "title": "Mengalirlah",
+        "artist": "IFGF Praise",
+        "key": "D",
+        "lyric": [
+            {
+                "type": 0,
+                "text": "[G]G   [A]A   [Bm]Bm  [D]D/F#"
+            },
+            {
+                "type": 1,
+                "text": "[G]Di Tempat In[A]i Kunanti Eng[Bm]kau\nYa Roh kudu[Dmaj7]s\nCu[G]rahkan KuasaM[A]u Untuk Neg'ri Kami[Bm]\nYa Roh Kud[A]us"
+            },
+            {
+                "type": 3,
+                "text": "Mengalir[D]lah Allah Roh Kud[Em]us\nMembasa[Bm]hi Tanah Airku[G]\nMenyegar[D]kan Jiwa Yang Han[Em]cur\nMemulih[Bm]kan Indonesia[G]ku"
+            },
+            {
+                "type": 4,
+                "text": "Meng[D]alir[Em]lah\nMeng[Bm]alir[G]lah\nMeng[D]alir[Em]lah\nMeng[Bm]alir[G]lah"
+            },
+            {
+                "type": 5,
+                "text": "[D]Satu Nusa [Em]Satu Bangsa\n[Bm]Satu Baha[G]sa Kita\n[D]Tanah Air [Em]Pasti Jaya\n[Bm]Untuk S'lama - [G]Lamanya"
+            }
+        ]
+    },
+    {
+        "remote_id": "mengalirlah-kuasa-roh-kudus-nikita",
+        "language": "indo",
+        "title": "Mengalirlah Kuasa Roh Kudus",
+        "artist": "Nikita",
+        "key": "F",
+        "lyric": [
+            {
+                "type": 1,
+                "text": "[F]  Bagaikan [C/E]Tanah Ke[Dm]ring  [Gm]Yang Merin[Bb]dukan A[C]ir\n[F]  Demi[C/E]kianlah Ji[Dm]wa Ku [Gm]Haus Akan Eng[C]kau\n[F]  Ku Rindu [C/E]Selal[Dm]u   [Gm]Hadir Mu [Bb]Di Hidup [C]Ku\n[F]  Memu[C/E]lihkan Ji[Dm]wa Ku, [Bb]Hapuskan Air Mata [C]Ku"
+            },
+            {
+                "type": 3,
+                "text": "Meng[F]alirlah Kuasa [Gm]Roh Kudus\nMeng[C]alirlah Di Tem[Bbm/F]pat Ini[F]\nMeng[D7]alirlah Oh [Gm]Roh Kudus\n[Bb]Puli[C]hkan [F]Ku (Di Hidup Ku)"
+            }
+        ]
+    },
+    {
         "remote_id": "mengampuni-dan-melupakan-bobby",
         "language": "indo",
         "title": "Mengampuni Dan Melupakan",
@@ -10841,6 +12415,31 @@
             {
                 "type": 3,
                 "text": "Dan [A]Kuingin Mengenal[D]Mu Tuhan\nLebih [Bm]Dalam Dari [E]S'mua Yang Kuke[A]nal [D/F#]      [E/G#]\nTia[A]da Kasih Yang Mele[D]bihiMu\nKu [Bm]Ada Untuk Men[E]jadi Penyem[A]bahMu"
+            }
+        ]
+    },
+    {
+        "remote_id": "mengikut-yesus-gms",
+        "language": "indo",
+        "title": "Mengikut Yesus",
+        "artist": "GMS Worship",
+        "key": "G",
+        "lyric": [
+            {
+                "type": 1,
+                "text": "[G]Semua Karna A[C]nugrahMu\nHa[Em]ri Ini Ad[D]a\n[G]Bukan Karna [C]Kuatku\nNa[Em]mun Karna Roh[D]Mu"
+            },
+            {
+                "type": 1,
+                "text": "Kubawa Ha[C]tiku, Penyemba[G/B]hanku\nKu [Am]Semakin Berkurang\nYesus Se[D]makin Bertambah"
+            },
+            {
+                "type": 3,
+                "text": "Mengikut [G]Yesus\nI[B]tulah Kesukaan Ha[Em]tiku\nKu[D]lepas Semua Hak Ku Un[C]tuk\nMenge[G/B]nal Kehendak[Am]Nya Di Hidup[D]ku"
+            },
+            {
+                "type": 3,
+                "text": "Mengiring [G]Yesus\nI[B]tulah Kekuatan Hi[Em]dupku\nKu[D]yakin AnugerahNya Mam[C]pu\nJadikan[G/B]ku Hamba Yang [Am]Berke[D]nan Sela[G]lu"
             }
         ]
     },
@@ -10957,6 +12556,51 @@
             {
                 "type": 1,
                 "text": "[C]  KasihNya Men[G/C]celik[F/C]kan\n[C]  Buat Ku [C7]Menger[F]ti\n[Ddim]  M'reka Perlu [C/E]Mendeng[Am]ar\n[Dm]  Tentang Kasih[G]Nya"
+            }
+        ]
+    },
+    {
+        "remote_id": "mighty-to-save-hillsong",
+        "language": "en",
+        "title": "Mighty To Save",
+        "artist": "Hillsong",
+        "key": "A",
+        "lyric": [
+            {
+                "type": 0,
+                "text": "D  A  F#m  E"
+            },
+            {
+                "type": 1,
+                "text": "[D]  Everyone Needs Com[A]passion\nLove That’s Never [F#m]Failing\nLet [E]Mercy Fall On Me"
+            },
+            {
+                "type": 1,
+                "text": "[D]    Everyone Needs For[A]giveness\nThe Kindness Of A [F#m]Saviour\nThe [E]Hope Of Nations [D]   [E]   [D/F#]      [E/G#]"
+            },
+            {
+                "type": 3,
+                "text": "[A]Saviour\nHe Can Move The [E]Mountains\nMy God Is [D]Mighty To [A]Save\nHe Is [F#m]Mighty To [E]Save"
+            },
+            {
+                "type": 3,
+                "text": "For[A]ever\nAuthor Of Sal[E]vation\nHe Rose And [D]Conquered The [A]Grave\nJesus [F#m]Conquered The [E]Grave"
+            },
+            {
+                "type": 1,
+                "text": "[D]  So Take Me As You [A]Find Me\nAll My Fears And [F#m]Failures\n[E]Fill My Life Again"
+            },
+            {
+                "type": 1,
+                "text": "[D]  I Give My Life To [A]Follow\nEverything I Be[F#m]lieve In\nNow I Sur[E]render [D]   [E]   [D/F#]      [E/G#]"
+            },
+            {
+                "type": 1,
+                "text": "Instrumental:\n[D]D  [A]A  [E]E  [F#m]F#m"
+            },
+            {
+                "type": 1,
+                "text": "[D]  Shine Your Light [A]And\nLet The Whole [E]World See\nWe’re S[F#m]inging [D]  For The Glory\n[A]  Of The Ri[E]sen King\n[F#m]Jesus [D]  Shine Your Light [A]And\nLet The Whole [E]World See\nWe’re [F#m]Singing [D]  For The Glory\n[A]  Of The Ri[E]sen King"
             }
         ]
     },
@@ -11557,6 +13201,55 @@
         ]
     },
     {
+        "remote_id": "nyanyi-dan-bersoraklah-gms-worship",
+        "language": "indo",
+        "title": "Nyanyi Dan Bersoraklah",
+        "artist": "GMS Worship",
+        "key": "A",
+        "lyric": [
+            {
+                "type": 1,
+                "text": "Versi Biasa"
+            },
+            {
+                "type": 1,
+                "text": "[A]  Yesusku  [E/G#]  Penyelamatku\n[F#m]Tiada Yang Se[E]perti Eng[D]kau\nSetiap Ha[A/C#]ri    [D]Kumemu[A/E]ji\nKe[F#m]ajaiban [G]Ka [D/F#]- sih - [E]Mu"
+            },
+            {
+                "type": 1,
+                "text": "[A]  Penghibur [E/G#]  Pelindung\n[F#m]Menara [E]Kekua[D]tan\nBiarlah Semu[A/C#]a\n[D]Yang Berna[A/E]fas\nTak [F#m]Berhenti Me[G]nyem[D/F#]bah - [E]Mu"
+            },
+            {
+                "type": 3,
+                "text": "[A]Nyanyi Dan [F#m]Bersorak[D]lah Bagi [E]Dia\nPu[A]ji Dan Hor[F#m]mat Kuasa [D]Bagi Ra[E]ja\n[F#m]Gunung Tunduk Laut [D]Bergelora\nMendeng[E]ar [D/F#]Nama - [E/G#]Mu"
+            },
+            {
+                "type": 3,
+                "text": "[A]Ku Bersu[F#m]ka Atas [D]Perbuatan[E]Mu\nS'la[A]manya Ku[F#m]kasihi [D]Engkau Tu[E]han\n[F#m]Tiada Janji\nS'perti [D]Yang Ada [E]Pada[A]Mu"
+            },
+            {
+                "type": 3,
+                "text": "Versi GMS Worship"
+            },
+            {
+                "type": 1,
+                "text": "[A]  Yesusku  [E]  Penyelamatku\n[F#m]Tiada Yang Se[E]perti Eng[D]kau\nSetiap Ha[A/C#]ri, Kumemu[D]ji\nKeajaiban [Bm]Kasih[E]Mu"
+            },
+            {
+                "type": 1,
+                "text": "[A]  Penghibur [E]  Pelindung\n[F#m]Menara [E]Kekua[D]tan\nBiarlah Semu[A/C#]a\nYang Berna[D]fas\nTak Berhenti Me[Bm]nyembah[E]Mu"
+            },
+            {
+                "type": 3,
+                "text": "[A]Nyanyi Dan [A/C#]Bersorak[D]lah Bagi Dia\nPu[A]ji Dan Hor[A/C#]mat Kuasa [D]Bagi Ra[E]ja\n[F#m]Gunung Tun[A/E]duk Laut [D]Bergelora\nMendeng[Bm]ar Nama[E]Mu"
+            },
+            {
+                "type": 3,
+                "text": "[A]Ku Bersu[A/C#]ka Atas [D]PerbuatanMu\nS'la[A]manya Ku[A/C#]kasihi [D]Engkau Tu[E]han\n[F#m]Tiada Jan[A/E]ji\nS'perti [D]Yang Ada [E]Pada[A]Mu"
+            }
+        ]
+    },
+    {
         "remote_id": "nyanyian-baru-sari-simorangkir",
         "language": "indo",
         "title": "Nyanyian Baru",
@@ -11652,6 +13345,23 @@
             {
                 "type": 4,
                 "text": "[A]  KuasaMu Tu[Bm]han Na[D/F#]ungi - [G]ku\n[G]  Tak Kan Kuragu\n[A/C#]  Saat Ku Lemah [Bm]Maka [D/F#]Ku  Ku[G]at"
+            }
+        ]
+    },
+    {
+        "remote_id": "nyatakan-keajaibanmu-life-tree",
+        "language": "indo",
+        "title": "Nyatakan KeajaibanMu",
+        "artist": "Life Tree",
+        "key": "A",
+        "lyric": [
+            {
+                "type": 1,
+                "text": "[A]  Kau Tuhan,[Amaj7] Kau Ra[Asus4]ja\nKau Yang Kusem[Amaj7]bah\n[A]  Yang Hidup,[Amaj7] Yang Bang[Asus4]kit\nDemi Kemenang[Amaj7]an\nKau [F#m]Lah Anak Dom[C#m]ba\nYang Berkua[D]sa, Tuk S’lama[E]nya"
+            },
+            {
+                "type": 3,
+                "text": "Nyata[A]kan Keajaiban[Em]Mu\nNyata[D]kan Dalam Hidup[E]ku\nNyata[C#m]kan, Nyata[F#]kan\nNyata Di Si[Bm]ni\nSaatku Me[E]nyembahMu\n[A]Tuhan"
             }
         ]
     },
@@ -12066,6 +13776,71 @@
         ]
     },
     {
+        "remote_id": "pemenang-ndc-worship",
+        "language": "indo",
+        "title": "Pemenang",
+        "artist": "NDC Worship",
+        "key": "C",
+        "lyric": [
+            {
+                "type": 0,
+                "text": "[C]C  [C/E]C/E  [F]F"
+            },
+            {
+                "type": 1,
+                "text": "[C]Hai S'gala [C/E]Bangsa [F]Dengarkan[C]lah\n[C]Angkat Tang[C/E]anmu [F]Puji Tu[G]han\n[Am]Dalam Ge[Em7]lap Te[F]tap Berha[C/E]rap\n[Dm]S'bab KuasaNya [G]Tak Terba[C]tas"
+            },
+            {
+                "type": 2,
+                "text": "Tanggal[C/E]kan S'gala [F]Beban\nSorak[C/E]kan Halelu[G]ya"
+            },
+            {
+                "type": 3,
+                "text": "[C]Dia Allah [C/E]Sumber Ke[F]ajai[G]ban\n[C]Dimasyur[C/E]kan Di Se[F]gala Bang[G]sa\n[Am]Perbuatan[C/E]Nya Besar, [F]Tak Terdu[C/E]ga\nDengan [Dm]Iman, Ku [G]Peme[C]nang"
+            },
+            {
+                "type": 3,
+                "text": "Music :\nC  Bb  F"
+            },
+            {
+                "type": 1,
+                "text": "[C]Hai S'gala [C/E]Bangsa [F]Dengarkan[C]lah\n[C]Angkat Tang[C/E]anmu [F]Puji Tu[G]han\n[Am]Dalam Ge[Em7]lap Te[F]tap Berha[C/E]rap\n[Dm]S'bab KuasaNya [G]Tak Terba[C]tas"
+            },
+            {
+                "type": 2,
+                "text": "Tanggal[C/E]kan S'gala [F]Beban\nSorak[C/G]kan Halelu[Bb]ya"
+            },
+            {
+                "type": 3,
+                "text": "[C]Dia Allah [C/E]Sumber Ke[F]ajai[G]ban\n[C]Dimasyur[C/E]kan Di Se[F]gala Bang[G]sa\n[Am]Perbuatan[C/E]Nya Besar, [F]Tak Terdu[C/E]ga\nDengan [Dm]Iman, Ku [G]Peme[C]nang [Bb]    [G/B]"
+            },
+            {
+                "type": 3,
+                "text": "[C]Dia Allah [C/E]Sumber Ke[F]ajai[G]ban\n[C]Dimasyur[C/E]kan Di Se[F]gala Bang[G]sa\n[Am]Perbuatan[C/E]Nya Besar, [F]Tak Terdu[C/E]ga\nDengan [Dm]Iman, Ku [G]Peme[Am]nang"
+            },
+            {
+                "type": 3,
+                "text": "Interlude :\n[Am]Am  [F]F  [C]C  [G]G\n[Am]Am  [F]F  [C]C  [G]G\n[Am]Am  [F]F  [C]F#m[G]7b5  F  Bb"
+            },
+            {
+                "type": 3,
+                "text": "[Dm]    [C/E]     [F]  Dia Allah Sumber Keajai[Am]ban\n[C/E]     [G]      Dimasyurkan Di Segala Bang[Dm]sa\n[C/E]           Perbuatan[F]Nya Tak Terduga\nDengan [Dm]Iman, Ku [G]Peme[Bb]nang"
+            },
+            {
+                "type": 3,
+                "text": "[C]Dia Allah Sumber Keajaiban\nDimasyurkan Di Segala Bang[Am]sa  [G]\n[C/E]Perbuatan[F]Nya Besar, [G]Tak Terdu[Am]ga\nDengan [Dm]Iman, Ku [G]Peme[C/G]nang"
+            },
+            {
+                "type": 3,
+                "text": "[C]Dia Allah [C/E]Sumber Ke[F]ajai[G]ban\n[Am]Dimasyur[C/E]kan Di Se[F]gala Bang[G]sa\n[C/E]Perbuatan[F]Nya Besar, [E/G#]Tak Terdu[Am]ga\nDengan [Dm]Iman, Ku [C/E]Peme - [F]nang [Am]\nDengan [Dm]Iman, Ku [G]Pemenang"
+            },
+            {
+                "type": 5,
+                "text": "[Am]Am  [F]F  [C]   [G]\nDengan [Dm]Iman, Ku [G]Peme[C]nang"
+            }
+        ]
+    },
+    {
         "remote_id": "pemilik-hidupku-nikita",
         "language": "indo",
         "title": "Pemilik Hidupku",
@@ -12096,6 +13871,31 @@
             {
                 "type": 3,
                 "text": "[B]K’luarga[C#/B]ku    [Bbm]Milik-[D#m]Mu\n[G#m]S’lalu Berhar[C#]ga Di Mata-[F#]Mu\n[B]Kau Sa[C#/B]tukan,  [Bbm]Kau Ber[D#m]kati\n[G#m]Untuk Kemu[C#]liaan-[F#]Mu"
+            }
+        ]
+    },
+    {
+        "remote_id": "penciptaku-marsel-tumbelaka",
+        "language": "indo",
+        "title": "Penciptaku",
+        "artist": "Marsel Tumbelaka",
+        "key": "B",
+        "lyric": [
+            {
+                "type": 1,
+                "text": "[B]  Engkau Menggambarku\n[D#m]  Serupa DenganMu\n[G#m]  Engkau Menghembuskan\n[F#]Nafas Didalamku\n[E]  Kuberoleh Hi[B/D#]dup\nHidup Dari[C#m]Mu   [F#]"
+            },
+            {
+                "type": 1,
+                "text": "[B]  Karena KasihMu\n[D#m]  Engkau Memilihku\n[G#m]  Sebelum Duni[F#]apun Dijadikan\n[E]  Sungguh Besar Ka[B/D#]sih\nKasih Setia[C#m]Mu   [F#]"
+            },
+            {
+                "type": 3,
+                "text": "[B]Kaulah Pen[C#m]ciptaku\n[F#/A#]Tempat Ke[B]diamanku\n[E]Didalam [B/D#]TanganMu\nKu Men[C#/F]jadi Berhar[F#]ga"
+            },
+            {
+                "type": 3,
+                "text": "[B]Kaulah Pe[C#m]ciptaku\n[F#/A#]Tempat Ke[B]diamanku\n[E]Didalam [B/D#]TanganMu\nKu Men[C#m]jadi [F#]Sempur[B]na"
             }
         ]
     },
@@ -12172,6 +13972,27 @@
             {
                 "type": 3,
                 "text": "Peno[C]longku Hanyalah Di[F]ri-Mu\nPenghi[Dm]burku [G]Hanya Engkau [C]Bapaku\nSela[F]lu Menyertai Hi[Em]dupk[Am]u\nKau Ba[Dm]pa Ku [G]Yang Seti[C]a"
+            }
+        ]
+    },
+    {
+        "remote_id": "penuhkanlah-bejanaku-nikita",
+        "language": "indo",
+        "title": "Penuhkanlah Bejanaku",
+        "artist": "Nikita",
+        "key": "G#",
+        "lyric": [
+            {
+                "type": 1,
+                "text": "Aku Da[G#]tang Dan Kubersujud\nDi [C#]Hadapan[G#]Mu\nKurasa[G#]kan Indah [A#m]Hadirat[D#]Mu\nTelah Kubu[G#]ka Mata Ha[G#/C]tiku\nDan [C#]Seluruh Jiwa[G#]ku\nUntuk[G#/D#]ku Nikma[D#]ti Firman[G#]Mu"
+            },
+            {
+                "type": 3,
+                "text": "Firman[D#]Mu Yg Kuasa\nTuk Mengu[C#]bah Sikap Ha[G#]ti\nFirman[D#]Mu Yang Tegakkan\nDisa[A#]at Kuterja[D#]tuh"
+            },
+            {
+                "type": 3,
+                "text": "Penuhkan[G#]lah Bejanaku\nDengan A[C#]ir Sungai[C#m/E]Mu\n[G#/D#]Ku Haus A[D#]kan Firman[G#]Mu"
             }
         ]
     },
@@ -12434,6 +14255,64 @@
             {
                 "type": 3,
                 "text": "Wa[C/E]lau Sa[F]at Ini[G/F] Duni[Em]a Tak Menger[A]ti\n[Dm]Mengapa Ha[G]tiku [Gm]Mengasihi-[C]Mu\nSuatu Sa[F]at Nanti [G/F]  Past[Em]i ‘Kan Terbuk[A]ti\n[Dm]Kau Pilihan Ter[G]baik[C]ku"
+            }
+        ]
+    },
+    {
+        "remote_id": "pilihanku-gms-worship",
+        "language": "indo",
+        "title": "Pilihanku",
+        "artist": "GMS Worship",
+        "key": "G",
+        "lyric": [
+            {
+                "type": 0,
+                "text": "[G]C  [B]G/B[Em]  Am[F]  D\n[G]C  [B]G/B[Em]  Bb[F]  D"
+            },
+            {
+                "type": 1,
+                "text": "[G]  Kau Tuhan Yang Muli[D]a\nTu[D#dim7]run Ke Duni[Em]a\nTuk [D]Tebus [C]Segala Dosa"
+            },
+            {
+                "type": 1,
+                "text": "[G]  Kau Beri Kes'lama[Bm]tan\nBe[D#dim7]ri Kesempa[Em]tan\nKa[D]sihMu [C]Mengubahkan"
+            },
+            {
+                "type": 1,
+                "text": "Ji[Am]ka Kuakui Se[G/B]mua Dosaku\nMa[C]ka Kau Adalah Se[Em]tia Dan Adil\nKau [Am]Kan Mengampuni Dan [G/B]Sucikan\nDa[C]ri Segala Yang Ja[F]hat  [D]"
+            },
+            {
+                "type": 3,
+                "text": "Tak Ma[G]u Kuhidup\nBagi Duni[B]a Ini La[Em]gi\nTak [F]Ingin [G]Kompro[C]mi\nTak Ingin Laku[Bm]kan Hal [Em]Yang\nDa[Am]pat Dukakan Hati[D]Mu"
+            },
+            {
+                "type": 3,
+                "text": "Tak Ma[G]u Kuhidup\nDi Luar [B]Tutur Kata [Em]FirmanMu\nYang Te[F]lah Be[G]baskan[C]ku\nYesus, Kebe[Bm]naran[Em]Mu\nAda[F]lah, Ada[D]lah Pilihan[G]ku"
+            }
+        ]
+    },
+    {
+        "remote_id": "pribadi-yang-mengenal-hatiku",
+        "language": "indo",
+        "title": "Pribadi Yang Mengenal Hatiku",
+        "artist": "-",
+        "key": "D",
+        "lyric": [
+            {
+                "type": 1,
+                "text": "S’perti [D]Rusa Yang Haus\nRindu Aliran [G/D]Sungai-Mu\n[Em]Hatiku Tak Ta[A]han\nMenunggu-[D]Mu"
+            },
+            {
+                "type": 1,
+                "text": "Ba[D]gai Tanah Gersang\nMenanti Datang[G/D]nya Hujan\n[Em]Begitupun Ji[A]waku\nTu[D]han[D7]"
+            },
+            {
+                "type": 3,
+                "text": "Hanya Eng[G]kau [A/G]\nPribadi Yang Menge[F#m]nal Hati[Bm]ku\nTiada Yang [Em]Tersembunyi Bagi-[A]Mu\nS’luruh Isi [D]Hati[Em]ku Kau Ta[D/F#]hu"
+            },
+            {
+                "type": 3,
+                "text": "[D7]Dan Bawa[G]ku  [A/G]\nTuk Lebih Dekat [F#m]Lagi\nPada-[Bm]Mu\nTinggal Da[Em]lam Indahnya Deka[A]pan\nKasih-[D]Mu"
             }
         ]
     },
@@ -12898,6 +14777,27 @@
         ]
     },
     {
+        "remote_id": "rindu-bersamamu-true-worshippers",
+        "language": "indo",
+        "title": "Rindu BersamaMu",
+        "artist": "True Worshippers",
+        "key": "E",
+        "lyric": [
+            {
+                "type": 1,
+                "text": "Rin[E]du Selalu Ber[A]samaMu\nTing[E]gal Didalam [A]KediamanMu [G#m]O  Tu[C#m]han\nS’bab Kusu[D]kai Ha[B]diratMu"
+            },
+            {
+                "type": 1,
+                "text": "Tak [E]Inginku Ter[A]pisahkan\nDe[E]kat DenganMu [A]Itu Yang Ku[G#m]rindu[C#m]kan\nS’bab Kuda[D]pati Ke[B]damaian"
+            },
+            {
+                "type": 3,
+                "text": "Kunikma[A]ti Keinda[G#m]han  [C#m]           Dan\nKeagung[F#m]anMu [B]Oh Tu[E]han\nKunikma[A]ti Kemulia[G#m]anMu\n[C#m]Menyem[F#m]bahMu Dengan Se[B]genap Hati[E]ku"
+            }
+        ]
+    },
+    {
         "remote_id": "roh-allah-yang-hidup-marlon-bolung",
         "language": "indo",
         "title": "Roh Allah Yang Hidup",
@@ -12978,6 +14878,27 @@
         ]
     },
     {
+        "remote_id": "roh-kudus-penghiburku-noortje-ml",
+        "language": "indo",
+        "title": "Roh Kudus Penghiburku",
+        "artist": "Noortje ML",
+        "key": "C",
+        "lyric": [
+            {
+                "type": 1,
+                "text": "[C]Roh Kudus Penghiburku\nPenolong Yang S'lalu Seti[F]a\n[F]Dia Sahabatku Tak Pernah Tinggalkan\nSelalu [C]Ada\nSa[G]at Hatiku Susah\nSa[G]at Hatiku Senang\nDia [C]Ada"
+            },
+            {
+                "type": 3,
+                "text": "Di[F]a Bersamaku S'lalu\nDi[C]a Di Sisiku S'lalu\nDi[G]a Membimbingku\nDan Me[C]nuntun Langkahku"
+            },
+            {
+                "type": 3,
+                "text": "Di[F]a Bersamaku S'lalu\nDi[C]a Di Sisiku S'lalu\nDi[G]a Membimbingku\nDan Menuntun Langkah[C]ku"
+            }
+        ]
+    },
+    {
         "remote_id": "roh-kudus-yang-manis",
         "language": "indo",
         "title": "Roh Kudus Yang Manis",
@@ -13024,6 +14945,60 @@
             {
                 "type": 3,
                 "text": "Ku Buka [A]Hati ‘Tuk Jama[E]hanMu\nBerserah [B]Penuh Di Hadi[C#m]ratMu\nKau Ambil [A]Alih S’luruh Hi[E]dupku\nDi Altar[B]Mu Menyem[E]bahMu"
+            }
+        ]
+    },
+    {
+        "remote_id": "saat-kupulang-menghadap-bapa-veren",
+        "language": "indo",
+        "title": "Saat Kupulang Menghadap Bapa",
+        "artist": "Veren",
+        "key": "B",
+        "lyric": [
+            {
+                "type": 1,
+                "text": "[B]Tuhan Aku [D#m]Rela\nMengo[C#m]songkan Bejana Jiwaku [F#]Ini\nDa[D#]ri Segala Keingi[G#m]nanku\nDan [C#m]Semua Hasrat Pribadi[F#]ku"
+            },
+            {
+                "type": 1,
+                "text": "[B]Tuhan P’nuhi [D#m]Aku\nDengan [C#m]Gairah Surgawi [F#]Yang Suci\nA[D#]gar Apapun Tak Kuingi[G#m]ni   [B/F#]La  -  [E]gi\nHa[B/F#]nya Engkau Har[F#]taku A[B]badi   [F#]"
+            },
+            {
+                "type": 3,
+                "text": "[B]Saat Kupu[D#m]lang [E]Menghadap Ba[B]pa\n[C#m]Hanya Engkau [F#]Yang Ku[B]miliki\n[G#m]Kerinduan [D#m]Hatiku [E]Kehausan [B/D#]Jiwaku\n[C#m]Dapat Kume[F#]mandang [B]WajahMu"
+            },
+            {
+                "type": 4,
+                "text": "[C#m]  Memandang Wajah[B/D#]Mu\n[G#m]  Bertemu Muka Dengan[D#m]Mu\n[C#m]  Memandang Wajah[B/D#]Mu\n[C#/F]  Menatap Keagungan[F#]Mu"
+            }
+        ]
+    },
+    {
+        "remote_id": "saat-kusembahmu-true-worshippers",
+        "language": "indo",
+        "title": "Saat KusembahMu",
+        "artist": "True Worshippers",
+        "key": "G",
+        "lyric": [
+            {
+                "type": 1,
+                "text": "[G]Tuhan Pe[D/C]lita Hidup[Bm]ku\n[D/C]Terang Jalan[Bm]ku\nEng[Am]kau Pe[D]nolong[G]ku [Bb]    [F/A]"
+            },
+            {
+                "type": 1,
+                "text": "G      Bbaug/C  Bm\nKini Jiwaku Memuji\n  Bbaug/C  Bm\nTiada Terbagi\nEng[Am]kau Yang [D]Di Ha[G]ti   [Dm]"
+            },
+            {
+                "type": 3,
+                "text": "Kutinggi[C]kan Kau Allah[D/C]ku\nDi Atas [Bm]Mezbah Syukur[Em]ku\nTing[Am]gallah Dala[G/B]mku\nPe[C]nuhi Hati[D]ku\nKuagung[A/C#]kan Kau Yesus[Cm]ku\n             G/B       Gaug/Bb\nDi S’panjang Umur Hidupku\nNya[Am]takan [G/B]Kemuliaan[Am]-Mu\nSa[D]at Ku Sembah-[G]Mu"
+            },
+            {
+                "type": 1,
+                "text": "G     Bbaug/C    Bm\nHanya Dekat Pada-Mu\nBbaug/C    Bm\nTenang Hatiku\nEng[Am]kau Pe[D]lindung[G]ku    [Bb]    [F/A]"
+            },
+            {
+                "type": 1,
+                "text": "G      Bbaug/C  Bm\nKini Jiwaku Memuji\n  Bbaug/C  Bm\nTiada Terbagi\nEng[Am]kau Yang [D]Di Ha[G]ti  [Dm]"
             }
         ]
     },
@@ -13162,6 +15137,39 @@
         ]
     },
     {
+        "remote_id": "satu-satunya-anggi-marito",
+        "language": "indo",
+        "title": "Satu Satunya",
+        "artist": "Anggi Marito",
+        "key": "D",
+        "lyric": [
+            {
+                "type": 1,
+                "text": "[D]Takkan [A/C#]Pernah A[Bm]da\nSa[A]tu Priba[G]di S’per[A]ti Diri[D]Mu\n[D]Kau Yang [A/C#]Rela Ma[Bm]ti\nTe[A]bus Hidup[G]ku Dan S’[A]lamatkan[D]ku"
+            },
+            {
+                "type": 3,
+                "text": "Karna[D]Mu Aku Hi[A/C#]dup\nKarna[Bm]Mu Aku A[F#m7]da\nTak Per[G]nah Kuragukan Ku[D/F#]at CintaMu\nYang Da[Em]tang Dan Bebaskan[A]ku"
+            },
+            {
+                "type": 3,
+                "text": "Yesus[D]ku Kau Terin[A/C#]dah\nYesus[Bm]ku Kau Kucin[F#m7]ta\nTak A[G]kan Berhenti Me[D/F#]ninggikanMu\nKau Sa[Em]tu Satunya Ala[A]san Kuhi[D]dup"
+            },
+            {
+                "type": 3,
+                "text": "Musik :\n[G]G  [A]A  [Bm]Bm  [D/F#]D/F#"
+            },
+            {
+                "type": 4,
+                "text": "Kau [G]S'makin Bertambah\nKu [D]S'makin Berkurang\nSen[Em]tuhanMu Ubahkanku Ja[Bm]di Baru  [A]"
+            },
+            {
+                "type": 4,
+                "text": "Kau [G]S'makin Bertambah\nKu [D/F#]S'makin Berkurang\nYesus [Em]Penuhi Ruang Ha[A]tiku"
+            }
+        ]
+    },
+    {
         "remote_id": "satu-satunya-harapan-grezia",
         "language": "indo",
         "title": "Satu-Satunya Harapan",
@@ -13179,6 +15187,59 @@
             {
                 "type": 3,
                 "text": "[C]Kau Satu-Sa[Dm]tunya Hara[G/B]pan\nSatu-Sa[E]tunya Jawa[Am]ban\n[C/G]Kepada[Fmaj7]Mu Tuhan Ha[G]tiku Bersan[C]dar"
+            }
+        ]
+    },
+    {
+        "remote_id": "sebab-dia-telah-lahir-bagi-kita-bobby",
+        "language": "indo",
+        "title": "Sebab Dia Telah Lahir Bagi Kita",
+        "artist": "Bobby",
+        "key": "G",
+        "lyric": [
+            {
+                "type": 1,
+                "text": "[G]Sungguh Bah[C/G]agia  [D/F#]   Kita Bersa[G]ma\n[G]Hari [C/G]Yang Terindah   [Am]  Kita Raya[D]kan Bersama\nHa[G]ri [D/F#]Na – t[Em]al Yang [C]Penuh [G/B]Karuni[Am]a    [D]\nS’bab [C]Dia Te[G/B]lah La[Am]hir Bagi Ki[D]ta"
+            },
+            {
+                "type": 1,
+                "text": "[G]Sungguh Bah[C/G]agia  [D/F#]   Kita Bersa[G]ma\n[G]Hari [C/G]Yang Terindah   [Am]  Kita Raya[D]kan Bersama\nHa[G]ri [D/F#]Na – t[Em]al Yang [C]Penuh [G/B]Karuni[Am]a    [D]\nS’bab [C]Dia Te[G/B]lah La[Am]hir Bagi Ki[F]ta    [D]"
+            },
+            {
+                "type": 3,
+                "text": "[E]  Mari[F#m]lah Bersa[E/G#]ma    [A]\n[E]  Nyanyi[F#m]kan Pujian [G#]S’bab Di[C#m]a    [Bm]Lahir Ba[E]gi Ki[A]ta\n[G#m]Bukti [C#m]Janji-[F#m]Nya Yang Kekal Pa[B]da Kita"
+            },
+            {
+                "type": 3,
+                "text": "[E]  Ini[F#m]lah Waktu[E/G#]nya   [A]\n[E]  Di Har[F#m]i Yang Pe[G#]nuh Mak[C#m]na\n[Bm]Beri Hi[E]dup Ki[A]ta [G#m]Hanya [C#m]Pada-[F#m]Nya S’l[B]ama[C]nya"
+            },
+            {
+                "type": 3,
+                "text": "Dia Lahir Ke Duni[G/B]a Untuk Kita Semu[Bb]a\n[Am]Yang Perca[G/B]ya   [C]Kepada-[D]Nya"
+            },
+            {
+                "type": 3,
+                "text": "Musik :\n[G]G  [C/G]C/G  [D/F#]Am  D [G]"
+            },
+            {
+                "type": 3,
+                "text": "Ha[G]ri [D/F#]Na – t[Em]al Pe[C]nuh Deng[G/B]an Mak[Am]na    [D]\nS’bab [C]Dia Te[G/B]lah La[Am]hir Bagi Ki[F]ta   [D]"
+            },
+            {
+                "type": 3,
+                "text": "[E]  Mari[F#m]lah Bersa[E/G#]ma    [A]\n[E]  Nyanyi[F#m]kan Pujian [G#]S’bab Di[C#m]a    [Bm]Lahir Ba[E]gi Ki[A]ta\n[G#m]Bukti [C#m]Janji-[F#m]Nya Yang Kekal Pa[B]da Kita"
+            },
+            {
+                "type": 3,
+                "text": "[E]  Ini[F#m]lah Waktu[E/G#]nya   [A]\n[E]  Di Har[F#m]i Yang Pe[G#]nuh Mak[C#m]na\n[Bm]Beri Hi[E]dup Ki[A]ta [G#m]Hanya [C#m]Pada-[F#m]Nya S’l[B]amanya"
+            },
+            {
+                "type": 3,
+                "text": "[E]  Mari[F#m]lah Bersa[E/G#]ma    [A]\n[E]  Nyanyi[F#m]kan Pujian [G#]S’bab Di[C#m]a    [Bm]Lahir Ba[E]gi Ki[A]ta\n[G#m]Bukti [C#m]Janji-[F#m]Nya Yang Kekal Pa[B]da Kita"
+            },
+            {
+                "type": 3,
+                "text": "[E]  Ini[F#m]lah Waktu[E/G#]nya   [A]\n[E]  Di Har[F#m]i Yang Pe[G#]nuh Mak[C#m]na\n[Bm]Beri Hi[E]dup Ki[A]ta [G#m]Hanya [C#m]Pada-[F#m]Nya S’l[B]ama[E]nya"
             }
         ]
     },
@@ -13424,6 +15485,51 @@
         ]
     },
     {
+        "remote_id": "sekarang-ifgf-praise",
+        "language": "indo",
+        "title": "Sekarang",
+        "artist": "IFGF Praise",
+        "key": "G",
+        "lyric": [
+            {
+                "type": 0,
+                "text": "C  D  C  D"
+            },
+            {
+                "type": 1,
+                "text": "Se[C]karang Waktu[D]nya\nTuk [C]Bangkit Dan Berja[D]lan\n[C]  Menuju Panggilan\nMenghadap Ke De[D]pan\n[C]  Ku Tak Dapat Diam\nJiwaku Bersu[D]ka"
+            },
+            {
+                "type": 3,
+                "text": "S'bab [C]Tak Ada Yang Dapat\n[D]Memadamkan Semangat\n[Em]Api Yang Menyala\nTuk [D]C'ritakan KebesaranMu"
+            },
+            {
+                "type": 3,
+                "text": "Musik :\nC  D  C  D"
+            },
+            {
+                "type": 1,
+                "text": "Ma[C]rilah Bersa[D]tu\nB'ri[C]takan Firman[D]Nya\n[C]Bersama Berlari\nSampai Ke Tujua[D]n\n[C]Menari Memuji\nJiwa Di S'lamatk[D]an"
+            },
+            {
+                "type": 3,
+                "text": "S'bab [C]Tak Ada Yang Dapat\n[D]Memadamkan Semangat\n[Em]Api Yang Menyala\nTuk [D]C'ritakan KebesaranMu"
+            },
+            {
+                "type": 3,
+                "text": "Musik :\nC  D  C  D"
+            },
+            {
+                "type": 4,
+                "text": "[C]  Sampai S'luruh Bumi Mendengar\n[D]  Yesuslah Tuhan\n[D]  Yang Bangkit Dan Hidup\n[C]  Bangsa Bangsa Menga[D]ku"
+            },
+            {
+                "type": 4,
+                "text": "[C]  Sampai S'luruh Bumi Mendengar\n[D]  Yesuslah Tuhan\n[D]  Yang Bangkit Dan Hidup\n[C]  Bangsa Bangsa Menga[D]ku\n[D]  Kan KebesaranMu"
+            }
+        ]
+    },
+    {
         "remote_id": "sekarang-waktunya-giving-my-best",
         "language": "indo",
         "title": "Sekarang Waktunya",
@@ -13583,6 +15689,39 @@
             {
                 "type": 1,
                 "text": "Kau Al[Am]lah Yang Sang[F]gup\nLaku[C]kan Yang [G]Tak Kupikirkan\nBiar[Am]lah Ku Ber[F]serah\nJadi[C]lah Kan Jalanku\nBawa[G]ku Di DalamMu"
+            }
+        ]
+    },
+    {
+        "remote_id": "selamanya-kau-true-worshippers-youth",
+        "language": "indo",
+        "title": "Selamanya Kau",
+        "artist": "True Worshippers Youth",
+        "key": "C",
+        "lyric": [
+            {
+                "type": 0,
+                "text": "[C]C  Dm  C/E  Dm\nC  Dm  D#  Dm"
+            },
+            {
+                "type": 1,
+                "text": "[C]Engkaulah Tuhan Peri[G/B]sai Pelindungku\n[Am]Pertolonganku Hanya [F]Engkau Yesus"
+            },
+            {
+                "type": 1,
+                "text": "[C]Besar Kuasa-Mu Nyata [G/B]Dalam Hidupku\n[Am]Pengharapanku Hanya [F]Engkau Yesus"
+            },
+            {
+                "type": 1,
+                "text": "[Dm]Ku  [C/E]–  sem[F]bah-Mu [Dm]Ku  [C/E] –  ber[F]seru"
+            },
+            {
+                "type": 3,
+                "text": "Sel[C]amanya Berkuasa\nSel[Am]amanya Bertakhta\nDi Bu[F]mi Dan Di Surga\nMulia[Dm]lah Kau Tu[G]han"
+            },
+            {
+                "type": 3,
+                "text": "Sela[C]manya Berkuasa\nSela[Am]manya Bertakhta\nDi A[F]tas Segalanya\nHanya [Dm]Kau Yesus,[G]  Tuh[C]an"
             }
         ]
     },
@@ -13875,6 +16014,67 @@
             {
                 "type": 3,
                 "text": "Tuhan Sela[G#]lu Pasti\nDalam Hidupku [C#]Slama-lamanya\nSepas[Bbm]ti Hujan Tu[D#]run\nMember[G#]kati"
+            }
+        ]
+    },
+    {
+        "remote_id": "seperti-bintang-life-tree",
+        "language": "indo",
+        "title": "Seperti Bintang",
+        "artist": "Life Tree",
+        "key": "E",
+        "lyric": [
+            {
+                "type": 0,
+                "text": "E/G#  A  C#m  B"
+            },
+            {
+                "type": 1,
+                "text": "[E/G#]  Kemu[A]rahanMu Pa[C#m]daku\n[B]  Tak Ber[E/G#]ubah  [A] Tak Ter[B]hingga\n[E/G#]  Keba[A]ikanMu Pa[C#m]daku\n[B]  Selalu [E/G#]Nyata [A]  Di Lang[B]kahku"
+            },
+            {
+                "type": 1,
+                "text": "Bah[F#m]kan Duniapun [E/G#]Melihat\nDah[A]syatMu Dalamku\nKau [F#m]Hidupkan S’tiap [E/G#]Jalanku\nDan [D]Jadikan[C]ku"
+            },
+            {
+                "type": 3,
+                "text": "[E]  Seperti Bin[F#m]tang Ditengah Malam\n[C#m]  Seperti Te[A]rang Dalam Keg’lapan\n[E]  Kumau Brita[F#m]kan Kumau Nyatakan\n[C#m]  Yesuslah Tu[A]han Atas S’galanya"
+            },
+            {
+                "type": 3,
+                "text": "Musik :\nE/G#  A  C#m  B"
+            },
+            {
+                "type": 1,
+                "text": "[E/G#]  Kemu[A]rahanMu Pa[C#m]daku\n[B]  Tak Ber[E/G#]ubah  [A] Tak Ter[B]hingga\n[E/G#]  Keba[A]ikanMu Pa[C#m]daku\n[B]  Selalu [E/G#]Nyata [A]  Di Lang[B]kahku"
+            },
+            {
+                "type": 1,
+                "text": "Bah[F#m]kan Duniapun [E/G#]Melihat\nDah[A]syatMu Dalamku\nKau [E/G#]Hidupkan S’tiap [C#m]Jalanku\nDan [F#m]Jadikan[F#m7b5]ku"
+            },
+            {
+                "type": 3,
+                "text": "[E]  Seperti Bin[F#m]tang Ditengah Malam\n[E/G#]    Seperti Te[A]rang Dalam Keg’lapan\n[C#m]    Kumau Brita[B]kan Kumau Nyatakan\n[F#m]    Yesus[E/G#]lah Tu[A]han Atas S’galanya"
+            },
+            {
+                "type": 3,
+                "text": "[E]  Seperti Bin[F#m]tang Ditengah Malam\n[E/G#]    Seperti Te[A]rang Dalam Keg’lapan\n[C#m]    Kumau Brita[B]kan Kumau Nyatakan\n[F#m]    Yesus[E/G#]lah Tu[A]han Atas S’galanya"
+            },
+            {
+                "type": 3,
+                "text": "Musik :\n[E]E  [B/D#]B/D#  [C#m]C#m  [A]A  [E/G#]E/G#  [A]A [E/G#]E/G#  [E]E  [B/D#]B/D#  [C#m]C#m  [E/G#]E/G#  [A]A  [E/G#]E/G#  [A]A\n[E]E  [B/D#]B/D#  [C#m]C#m  [A]E/G[E/G#]#  A  [A]E/[E/G#]G#  A [E] E [B/D#] B/D# [C#m] C#m [E/G#] A E/G[A]#  [E/G#]A  E/G[A]#  A"
+            },
+            {
+                "type": 3,
+                "text": "Bah[F#m]kan Duniapun[A] Melihat\nDah[B]syatMu Dalamku\nKau [E/G#]Hidupkan S’tiap [C#m]Jalanku\nDan [D]Jadikan[C]ku"
+            },
+            {
+                "type": 3,
+                "text": "[E]  Seperti Bin[F#m]tang Ditengah Malam\n[E/G#]    Seperti Te[A]rang Dalam Keg’lapan\n[C#m]    Kumau Brita[B]kan Kumau Nyatakan\n[F#m]    Yesus[E/G#]lah Tu[A]han Atas S’galanya"
+            },
+            {
+                "type": 3,
+                "text": "[E]  Seperti Bin[F#m]tang Ditengah Malam\n[E/G#]    Seperti Te[A]rang Dalam Keg’lapan\n[C#m]    Kumau Brita[B]kan Kumau Nyatakan\n[F#m]    Yesus[E/G#]lah Tu[A]han Atas S’galanya"
             }
         ]
     },
@@ -14267,6 +16467,31 @@
         ]
     },
     {
+        "remote_id": "sukacita-surga-true-worshippers",
+        "language": "indo",
+        "title": "Sukacita Surga",
+        "artist": "True Worshippers",
+        "key": "D",
+        "lyric": [
+            {
+                "type": 0,
+                "text": "[D]D  [Bm]Bm  [G]G  [A]A  [G]G\n[D]D  [Bm]Bm  [G]G  [A]A  [G]G"
+            },
+            {
+                "type": 1,
+                "text": "[D]T'rima [Bm]Sukacita Sur[A/C#]ga    [A]   [G]\nItu[D/F#]lah Kekuatan Bagi [G]Jiwa [Bm]    [A]\nKu [D/F#]Dapat Rasakan Kasih[A/C#]Nya   [A]   [Bm]\nDi Teng[Em]ah Badai Yang Berge[A]lora"
+            },
+            {
+                "type": 1,
+                "text": "[D]T'rima [Bm]Sukacita Sur[C]ga [G/B]     [A/C#]\nItu[D/F#]lah Kekuatan Bagi [G]Jiwa [Bm]    [A]\nKu [D/F#]Dapat Saksikan Kuasa[A]Nya [Bm]    [D/F#]\nTakluk[Em]kan Badai Yang Berge[A]lora"
+            },
+            {
+                "type": 3,
+                "text": "Ha[D]lelu[A/C#]ya Kau [Bm]Ada Dalam Hati[G]ku\nTak [Em]Kan Patah Semangat[A]ku\nTak [Em]Kan Hilang Kekuatan[A]ku\nHa[D]lelu[A/C#]ya Ku [Bm]Mau Bersorak Bagi[G]Mu\nSu[Em]kacita Surga Nya[A]ta Penuhi[D]ku"
+            }
+        ]
+    },
+    {
         "remote_id": "sumber-kuatku-bethel-worship",
         "language": "indo",
         "title": "Sumber Kuatku",
@@ -14504,6 +16729,23 @@
         ]
     },
     {
+        "remote_id": "sbab-hanya-dekatmu-true-worshippers",
+        "language": "indo",
+        "title": "S’bab Hanya DekatMu",
+        "artist": "True Worshippers",
+        "key": "A",
+        "lyric": [
+            {
+                "type": 1,
+                "text": "Di [A]Saat Kudam[E/G#]bakan, Kete[A]nangan Di Ha[E]ti\n[D]Kurindu Da[A/C#]mai Yang Seja[E]ti\nKau [A]Datang Dengan [E/G#]Kasih, Pu[G#]askan Jiwa[C#m]ku\n[F#m]Ingin [E/G#]Kubersama[B]Mu"
+            },
+            {
+                "type": 3,
+                "text": "S’bab Hanya De[A]katMu All[E/G#]ahku\nKu[F#m]rasa Te[B]nang\nS’bab Hanya De[A]katMu Al[E/G#]lahku\nKeda[F#m]maian Abadi  [B]S’lalu Dihidup[E]ku"
+            }
+        ]
+    },
+    {
         "remote_id": "sbab-kasih-setiamu-sound-of-praise",
         "language": "en",
         "title": "S’bab Kasih SetiaMu",
@@ -14629,6 +16871,27 @@
         ]
     },
     {
+        "remote_id": "slamat-slamat-datang",
+        "language": "indo",
+        "title": "S’lamat S’lamat Datang",
+        "artist": "-",
+        "key": "E",
+        "lyric": [
+            {
+                "type": 1,
+                "text": "[E]Slamat-Slamat Datang [E]Yesus Tuhanku\nYang [E]Turun Dari Surga Ya [B]Rumah[E]Mu\n[E]Slamat-Slamat [A]Datang Mu Di [B]Dalam Dunia\n[F#m]Tuhan Jadi Sama Deng[A]an Manusi[B]a\n[B]Sa[E]lam-Salam"
+            },
+            {
+                "type": 1,
+                "text": "[E]Bangunlah Gembala [E]Lihat Trang Besar\nDe[E]ngar Berita Surga Dan [B]Berge[E]mar\n[E]Sungguh Malam [A]Ini Tuhan [B]Yesus Datanglah\n[F#m]Jadi Kanak-Kanak Da[A]lam Palungan[B]Nya\n[B]Sa[E]lam-Salam"
+            },
+            {
+                "type": 1,
+                "text": "[E]Orang Majus Datang [E]Turut Bintangnya\nHen[E]dak Mencari Tuhan Dan [B]Menyem[E]bah\n[E]Mas Dan Keme[A]nyan Dan Mur D[B]i PersembahkanNya\n[F#m]Akan Hormat Raja Dan [A]Juru Slamat[B]Nya\n[B]Salam-Sa[E]lam"
+            }
+        ]
+    },
+    {
         "remote_id": "sperti-bapa-sayang-anaknya-jeffry-s-tjandra",
         "language": "indo",
         "title": "S’perti Bapa Sayang AnakNya",
@@ -14650,6 +16913,27 @@
             {
                 "type": 3,
                 "text": "S’perti [E]Bapa Sa[E/G#]yang Anak-[A]Nya\n[B]Demikian[E]lah Kau Menun[E/G#]tun Langkah[A]ku\n[Ab]Hari [Cdim]De  -  [C#m]pan In[B]dah Kau Be[A]ri\n[E/G#]Rancangan-[F#m]Mu Yang Ter[B]baik Bagi[E]ku"
+            }
+        ]
+    },
+    {
+        "remote_id": "sperti-rusa-robert-lea",
+        "language": "indo",
+        "title": "S’perti Rusa",
+        "artist": "Robert & Lea",
+        "key": "D",
+        "lyric": [
+            {
+                "type": 1,
+                "text": "[D]S'perti Ru[F#m]sa\n[Em]  Merin[A]dukan [D]Air\n[Em]  Begi[A]tulah Ji[F#m]wa - [Bm]ku\n[Em]  Merin[A]dukan Eng[D]kau"
+            },
+            {
+                "type": 1,
+                "text": "[D]Ku Berha[F#m]rap\n[Em]  Hanya [A]Kepada[D]Mu\n[Em]  Ku Sem[A]bah Kau [F#m]Allah[Bm]ku\n[Em]  Tuhan [A]Dan Raja[D]ku"
+            },
+            {
+                "type": 3,
+                "text": "Kaulah [G]Sungai [A/G]  Kehidu[F#m]panku [Bm]\nYang Meng[Em]alir Se[A]garkan Jiwa[D]ku\nEngkau [G]Yesus [A/G]  Penghara[F#m]panku [Bm]\nKu Sem[Em]bah Kau\nDengan [A]Seg'nap Hati[D]ku"
             }
         ]
     },
@@ -15171,6 +17455,47 @@
         ]
     },
     {
+        "remote_id": "temukanku-ifgf-praise",
+        "language": "indo",
+        "title": "Temukanku",
+        "artist": "IFGF Praise",
+        "key": "F",
+        "lyric": [
+            {
+                "type": 0,
+                "text": "[Bb]Bb  [Dm]Dm  [F]C  [C]"
+            },
+            {
+                "type": 1,
+                "text": "S'[Bb]mua Terjadi Dalam Hidupku\n[F]Tak Kan Luput Dari KasihMu\n[Am]Kau, Beserta[Bb]ku"
+            },
+            {
+                "type": 1,
+                "text": "[Bb]Tak S'kalipun Kau Tinggalkanku\n[F]Menolongku Dalam Sesakku\n[Am]Kau, Bersama[Bb]ku"
+            },
+            {
+                "type": 1,
+                "text": "Sa[Bb]at Kuterja[F]tuh Kau Angkatk[C]u\nSa[Bb]at Kau Hampi[Dm]ri Ku Terkagum[C]"
+            },
+            {
+                "type": 3,
+                "text": "Ki[F]ni Kurasakan Kau Hadir\nKi[Am]ni Kurasakan Kau Nyata\nKa[Dm]sihMu Besar Temukan Aku\nBe[Bb]ri Harapan Untuk Ku Hidup"
+            },
+            {
+                "type": 3,
+                "text": "Ki[F]ni Kurasakan Kau Hadir\nKi[Am]ni Kurasakan Kau Nyata\nKa[Dm]sihMu Besar Temukan Aku\nBe[Bb]ri Harapan Untuk Ku Hidup"
+            },
+            {
+                "type": 3,
+                "text": "Musik :\nBb  F/A  Bb  Dm  C"
+            },
+            {
+                "type": 4,
+                "text": "[Bb]  Kau Temukanku,[F/A] Kau Ubahkanku\n[Bb]  Kau Jadikanku [Dm]Baru S'[C]pertiMu"
+            }
+        ]
+    },
+    {
         "remote_id": "tenang-gms-worship",
         "language": "indo",
         "title": "Tenang",
@@ -15192,6 +17517,23 @@
             {
                 "type": 3,
                 "text": "Memu[C]lihkan Ha[G/B]ti\nMenyembuh[Am]kan Yang Terlu[C/G]ka\nKu Kan Te[F]nang\nBersama[G]Mu Ba[C]pa"
+            }
+        ]
+    },
+    {
+        "remote_id": "terbaik-di-hidupku-song-of-hope",
+        "language": "indo",
+        "title": "Terbaik Di Hidupku",
+        "artist": "Song Of Hope",
+        "key": "E",
+        "lyric": [
+            {
+                "type": 1,
+                "text": "[E]SetiaMu Tuh[B/D#]an\n[F#m]Tak Pernah Berub[B]ah\n[G#m]Tak Terukur Kebai[C#m]kanMu\nKau [F#m]Yang P'liharak[B]u\nKu [F#m]Lihat Hidupk[B]u\nDipenu[F#m]hi KemurahanM[B]u"
+            },
+            {
+                "type": 3,
+                "text": "[E]Ku Bersyukur Kep[G#m]adaMu[C#m]\nBap[A]a Kau Baik Sel[F#m]alu Bai[B]k\n[E]Ku Kagum Akan K[G#m]asihM[C#m]u\nKau [A]Mengerjakan\nYang Ter[F#m]baik Dih[B]idupk[E]u"
             }
         ]
     },
@@ -15313,6 +17655,27 @@
             {
                 "type": 3,
                 "text": "[E]T’ri[B/D#]ma Kas[C#m]ih   [E/B]Buat Kasih [A]SetiaMu\nPenyer[F#m]taanMu Sempurna\nJanji[B]Mu Tak Pernah Terlambat Me[E]nolongku    [B]\n[E]T’ri[B/D#]ma Kas[C#m]ih   [E/B]Kubert’ri[A]ma Kasih [Am/C]\nBuat Kasih [E/B]SetiaMu Di [F#m]Dalam [B]Hidup[E]ku"
+            }
+        ]
+    },
+    {
+        "remote_id": "terima-kasih-ezra-lewina",
+        "language": "indo",
+        "title": "Terima Kasih",
+        "artist": "Ezra Lewina",
+        "key": "E",
+        "lyric": [
+            {
+                "type": 1,
+                "text": "[A]Saat Tak Ada Harapan\n[E/G#]Kau Datang Bri Ku Harapan\n[F#m]Yesus Kau Ja[B]waban Hidup[E]ku"
+            },
+            {
+                "type": 1,
+                "text": "[A]Saat Tak Ada Tujuan\n[E/G#]Kau Datang Tunjukkanku Ja[F#m]lan\nTunjukkanku Ja[B]lan"
+            },
+            {
+                "type": 3,
+                "text": "Terima Ka[E]sih Buat Cin[B/D#]taMu Yang [C#m]Tanpa Batas\n       F#m      Aaug/F#  F#m         B\nKau Brikan HidupMu   Jadikanku Berharga\nTrima Ka[E]sih Buat Cin[B/D#]taMu Yang [C#m]Tanpa Ba[E/B]tas\nKau Be[A]rikan Hidup[E/G#]Mu, Jadi[F#m]kan Aku In[B]dah, Terima Ka[E]sih"
             }
         ]
     },
@@ -15646,6 +18009,27 @@
         ]
     },
     {
+        "remote_id": "this-is-my-life-true-worshippers",
+        "language": "en",
+        "title": "This Is My Life",
+        "artist": "True Worshippers",
+        "key": "G",
+        "lyric": [
+            {
+                "type": 0,
+                "text": "[G]C  [D/F#]G/B  A[Em]m  D[G/D]/F#  B/D#\nEm  G/D  A/C#"
+            },
+            {
+                "type": 1,
+                "text": "[Am]  You’ve Opened [G/B]Up My [C]Eyes\nTo [Em]See You Lord\n[Am]  You’ve Turned My [G/B]Life Ar[C]ound\nIn [Em]Righteousness\n[Am]  There Is [G/B]Nothing More [C]Precious\nThan To [Em]Be In [D]Your [C]Presence  [G/B]\nAnd To [Am]See You By My [D]Side"
+            },
+            {
+                "type": 3,
+                "text": "[G]  This [D/F#]Is My [Em]Life I Sur[D]render\n[C]  Be[G/B]fore Your [Am]Throne [D]\n[G]  I [D/F#]Bend My [Em]Knees I Sur[D]render\n[C]  To [G/B]Worship [Am]You [D]\n[G]  I [D/F#]Lift My [Em]Voice To Sing Your [D]Praises\n[C]  Be [G/B]Magnified And Be [Am]Glorified [D]  To[G]day"
+            }
+        ]
+    },
+    {
         "remote_id": "this-is-our-god-hillsong",
         "language": "en",
         "title": "This Is Our God",
@@ -15691,6 +18075,35 @@
             {
                 "type": 0,
                 "text": "Lifted On [E]High From Death To Life\nForever Our [B]God Is Glorified\nSovereign [F#m]King\nRescued The [C#m]World\nThis [A]Is Our [E]God"
+            }
+        ]
+    },
+    {
+        "remote_id": "through-it-all-hillsong",
+        "language": "en",
+        "title": "Through It All",
+        "artist": "Hillsong",
+        "key": "G",
+        "lyric": [
+            {
+                "type": 1,
+                "text": "[G]You Are Fore[D/F#]ver In M[Em]y Life   [G/B]\nYou S[C]ee Me Through The S[D]easons\n[G]Cover M[D/F#]e With Y[Em]our Hand   [G/B]\nAnd L[C]ead Me In Your R[D]ighteousness"
+            },
+            {
+                "type": 1,
+                "text": "And [Bm]I Look To [C]You\nAnd [Bm]I Wait On [C]You  [D]"
+            },
+            {
+                "type": 3,
+                "text": "I'll [G]Sing To You, Lord, A [C]Hymn Of Love\nFor Your [D]Faithful[Em]ness To [C]Me  [D]\nAnd I'm [G]Carried In Ever[C]lasting Arms\nYou'll [D/F#]Never [G]Let Me [C]Go [D]Through It [G]All"
+            },
+            {
+                "type": 3,
+                "text": "Music :\n[G]G  [Em]Em  [C]C  [D]D"
+            },
+            {
+                "type": 4,
+                "text": "[G]Halle[Em]lujah, [C]Halle[D]lujah\n[G]Halle[Em]lujah, [C]Halle[D]lujah\n[G]Halle[Em]lujah, [C]Halle[D]lujah\n[G]Halle[Em]lujah, [C]Halle[D]lujah"
             }
         ]
     },
@@ -15992,6 +18405,35 @@
             {
                 "type": 3,
                 "text": "Tinggi[G]kan Diri[D/F#]Mu\nMeng[Em]atasi Lang[C]it\nKemu[Am]liaanMu Tu[G/B]han\nMeng[C]ata[D]si Bu[G]mi"
+            }
+        ]
+    },
+    {
+        "remote_id": "to-god-be-the-glory-hillsong",
+        "language": "en",
+        "title": "To God Be The Glory",
+        "artist": "Hillsong",
+        "key": "C",
+        "lyric": [
+            {
+                "type": 1,
+                "text": "[C]  How Can I Say Thanks\n[Em/B]  For [Gm/A#]All The Things\nYou Have [Asus4]Done For [A]Me\n[Dm]  Things So Unde[C#dim]served\nYet You [F/C]Give To Prove Your [Fm/G#]Love For Me\nThe [C/G]Voices Of A Mil[Am]lion Angels\nCould Not Ex[D/F#]press My Grati[Fm]tude\n[C/E]  All That I [Dm]Am And Ever [C#dim]Hope To [Dm]Be  [C/E]\n[F]  I [G]Owe It A[C]ll To Thee   [G]"
+            },
+            {
+                "type": 3,
+                "text": "To [C]God Be The [Em]Glor[A]y\nTo [Dm]God [C#dim]  Be The [Fm]Glor[G]y\nTo [E]God[E/G#]   Be The [Am]Glory\nFor The [D7]Things He Has [G]Done"
+            },
+            {
+                "type": 3,
+                "text": "With His [C]Blood He Has [Em]Save[A]d Me\nWith His [Dm]Powe[C#dim]r He Has [Fm]Raised [G]Me\nTo [E]God[E/G#]   Be The [Am]Glor[D7]y\nFor The [C/G]Things [G]He Has [C]Done"
+            },
+            {
+                "type": 3,
+                "text": "Music :\n[Gm]Gm  [C]C"
+            },
+            {
+                "type": 4,
+                "text": "Just Let [Bm7b5]Me Live My [E]Life\nLet It Be [Am]Pleasing [E/G#]Lord  [C/G]To Thee [D/F#]\nAnd Should [F]I Gain A[Am]ny Praise\nLet It Go [D]To Calva[G]ry"
             }
         ]
     },
@@ -16756,6 +19198,23 @@
         ]
     },
     {
+        "remote_id": "tuhan-yesus-setia-maria-shandi",
+        "language": "indo",
+        "title": "Tuhan Yesus Setia",
+        "artist": "Maria Shandi",
+        "key": "E",
+        "lyric": [
+            {
+                "type": 1,
+                "text": "Tuhan Yesus [E]Setia  [C#m]\nDia Sahabat [B]Kita\nDalam S’gala [F#m]Susahku [B11]\nSelalu Menghi[E]burku   [B]"
+            },
+            {
+                "type": 1,
+                "text": "Dia Mengerti [E]Bahasa [D/E]\nTetesan A[A]ir Mata [C#]    [F#m]\nWaktu [B]Badai Mengam[G#m]uk\nDan Ge[C#m]lombang Menye[F#m]rang\nTuhan [B11]Yesus [E]Setia"
+            }
+        ]
+    },
+    {
         "remote_id": "tuhan-yesus-sungguh-baik-sound-of-praise",
         "language": "indo",
         "title": "Tuhan Yesus Sungguh Baik",
@@ -16777,6 +19236,27 @@
             {
                 "type": 3,
                 "text": "Tuhan [F]Yesus Sungguh [C]Baik\nSangat [Dm]Baik Ter[Bb]amat Ba[C]ik\nTuhan [F]Yesus Sungguh [C]Dahsyat\nSangat [Dm]Dahsyat Ter[Bb]a - [C]mat Dah[F]syat"
+            }
+        ]
+    },
+    {
+        "remote_id": "tuhanku-berkuasa-sari-simorangkir",
+        "language": "indo",
+        "title": "Tuhanku Berkuasa",
+        "artist": "Sari Simorangkir",
+        "key": "C",
+        "lyric": [
+            {
+                "type": 1,
+                "text": "Tu[C]han Hanya Kepada[Dm]Mu\nKu [Bm7b5]Dapat  [E]S’lalu Berha[Am]rap\nKau [F]Takkan Pernah Membi[C/E]arkan\nKu [Dm]Bergumul Sendi[G]rian"
+            },
+            {
+                "type": 1,
+                "text": "Di [C]Dalam Kelemahan[Dm]ku\nKua[Bm7b5]saMu   [E]Jadi Sempur[Am]na\nKau [F]Takkan Pernah Tinggal [C/E]Diam\nUn[Dm]tuk Memb’ri Perto[G]longan"
+            },
+            {
+                "type": 3,
+                "text": "Tuhanku [C]Berkuasa [G/B]\nUntuk Me[Am]lakukan [G]  Perkara [F]Yang Besar [Dm]\nDia Ajaib [G]Bagiku\nTuhanku [C]Berkuasa [G/B]\nUntuk Mem[Am]berikan [G]  Kemenang[F]an Besar Di [G]Dalam\nHi[C]dupku"
             }
         ]
     },
@@ -16901,6 +19381,52 @@
         ]
     },
     {
+        "remote_id": "uncomparable-god-true-worshippers",
+        "language": "en",
+        "title": "Uncomparable God",
+        "artist": "True Worshippers",
+        "key": "G",
+        "lyric": [
+            {
+                "type": 0,
+                "text": "G  C  G  C  D  C"
+            },
+            {
+                "type": 1,
+                "text": "[G]  How [D]Can We [C]Shine For You\n[G]  How [D]Can We [C]Live For You\n[Am]Draw Us Close To [G/B]Be In Your [C]Presence\nTo [D]Show The World How [Em]Awesome Your Na[F]me"
+            },
+            {
+                "type": 3,
+                "text": "[G]No One Can Compare To You\n[C]No One Can Deny [G/B]\nThe [Am]Glory Of Your Majesty\nThe [C]Power In Your Hands"
+            },
+            {
+                "type": 3,
+                "text": "[G]Now We Sing Your Melodies\nAnd [C]Shine In Harmony [G/B]\nThe [Am]Praises Of The Heavenlies\nIn [C]Your Love We Will Stand\nFor [D]You Alone Are [Em]Worthy [D]Of [C]Praise\nFor [Em]You Alone We [D]Greatly De[C]clare\nUn[F]comparable [G]God"
+            }
+        ]
+    },
+    {
+        "remote_id": "united-in-worship-satu-dalam-penyembahan",
+        "language": "indo",
+        "title": "United In Worship",
+        "artist": "Satu Dalam Penyembahan",
+        "key": "A",
+        "lyric": [
+            {
+                "type": 1,
+                "text": "[A]Ada Sa[E/G#]tu    [D/F#]Yang Tuhan [A/E]Rindukan\n[D]Agar Semua [E]Umat-Nya Di[A]satukan\n[A]Ada Sa[E/G#]tu    [D/F#]Yang Tuhan [A/E]Doakan\n[D]Kita Penuh [E]Dengan Kasih [A]Tuhan"
+            },
+            {
+                "type": 1,
+                "text": "[A]Sama S’per[E/G#]ti    [D/F#]Tuhan Dan Ba[A/E]pa Satu\n[D]Demikian Di[E]a Mau Kita [A]Pun Satu\n[A]Kemulia[E/G#]an    [D/F#]Tuhan ‘Kan [A/E]Berikan\nBi[D]ar Kita Bi[E]sa Menjadi [A]Satu"
+            },
+            {
+                "type": 3,
+                "text": "Satu Da[D]lam[E] Kasih Tuh[A]an [E/G#]      [F#m]\nBergandeng[Bm]an Tangan\nMe[E]layani Tu[A]han\nSatu Da[D]lam[E] Penyemba[A]han[E/G#]      [F#m]\n[Bm]  Nama Tu[E]han Dimulia[A]kan"
+            }
+        ]
+    },
+    {
         "remote_id": "unto-the-lord-symphony-worship",
         "language": "en",
         "title": "Unto The Lord",
@@ -16967,6 +19493,23 @@
             {
                 "type": 4,
                 "text": "[C]  Forever [D]  Forever\n[Bm]  Forever [Em]  In Your Love\n[C]  Forever [D]  Forever\n[Bm]  Forever [Em]  We Know That"
+            }
+        ]
+    },
+    {
+        "remote_id": "waktu-tuhan-maria-shandi",
+        "language": "indo",
+        "title": "Waktu Tuhan",
+        "artist": "Maria Shandi",
+        "key": "C#",
+        "lyric": [
+            {
+                "type": 1,
+                "text": "Wak[C#]tu Tuhan Bu[G#/C]kan Waktu Ki[Bbm]ta     [C#/G#]\nJangan [F#]Sesali Keadaan[G#]nya\nUn[C#]tuk Semua A[G#/C]da Waktu Tu[Bbm]han\nTetap [F#]Setia [G#]Mengandalkan[C#]nya   [G#]"
+            },
+            {
+                "type": 3,
+                "text": "[C#]Sega[Fm]la Yang Terjadi [F#]Dihidup[C#]ku\n[C#]Janji [Fm]Tuhan Menghi[F#]dupiku S’la[C#]lu\nKuya[F#]kin Perca[G#/F#]ya Ada [Fm]Waktunya Tu[Bbm]han\nSemu[D#m]a    [C#/F]Kan   [F#]Indah [G#]Pada Waktu[C#]nya"
             }
         ]
     },
@@ -17452,6 +19995,27 @@
         ]
     },
     {
+        "remote_id": "ya-roh-kudus-symphony-worship",
+        "language": "indo",
+        "title": "Ya Roh Kudus",
+        "artist": "Symphony Worship",
+        "key": "G",
+        "lyric": [
+            {
+                "type": 1,
+                "text": "Ya Roh [G]Kudus Ber[Em]hembus S’ka[Am]rang\nBerhem[D]buslah Di Tempat I[G]ni  [D]\n     G         Gaug/B\nMengalirkan RohMu\nMemba[C]wa Kuasa[Am]Mu\nYa Roh [D]Kudus Hadir Di Si[G]ni"
+            },
+            {
+                "type": 1,
+                "text": "U[G]rapi[G/B]lah, U[C]rapi[Am]lah\nDengan [D]KuasaMu Ya Tuhan\nPenu[C]hi - [G/B]lah  [A]Ka - [G]mi"
+            },
+            {
+                "type": 1,
+                "text": "[G]Urapi[G/B]lah, U[C]rapi[Am]lah\nBerhem[D]buslah\nMengalirlah Seka[G]rang"
+            }
+        ]
+    },
+    {
         "remote_id": "yang-kupercaya-edward-chen",
         "language": "indo",
         "title": "Yang Kupercaya",
@@ -17486,6 +20050,27 @@
             {
                 "type": 1,
                 "text": "Ho[E]sana, Ho[F#m]sana\nYesus [D]Mati [E]Bagi[A]ku\nHo[E]sana, Ho[F#m]sa - [D]na\nDia [A/E]Bangkit [E]Bagi[A]ku"
+            }
+        ]
+    },
+    {
+        "remote_id": "yang-slalu-kuandalkan-edward-chen",
+        "language": "indo",
+        "title": "Yang S’lalu Kuandalkan",
+        "artist": "Edward Chen",
+        "key": "F#",
+        "lyric": [
+            {
+                "type": 1,
+                "text": "[F#]Di Setiap Per[C#/F]soalan Kau [D#m]Turut Beker[F#/C#]ja\nMen[B]datangkan Ke[F#/Bb]baikan [G#m]Bagi Hidup[C#]ku\n[F#]Di Setiap Per[F#/Bb]gumulan Kau [B]T’lah Merancang[F#/Bb]kan\nH[G#m]ari Depan Yang [F#/Bb]Sejaht’ra Dan [B]Penuh Hara[C#]pan"
+            },
+            {
+                "type": 3,
+                "text": "[F#]Kau Yang S’la[C#/F]lu Kuandal[D#m]kan\nYang S’la[Bbm]lu Kunanti[B]kan\nPerto[F#/Bb]longan-Mu ‘Kan [G#m]Nyata Bagi[C#]ku"
+            },
+            {
+                "type": 3,
+                "text": "Hanya [F#]Kau Yang S’la[C#/F]lu Kuandal[D#m]kan\nYang S’la[Bbm]lu Kunanti[B]kan\nSela[F#/Bb]ma Kumenyem[G#m]bah\nMujizat [B]Pasti Terja[F#]di"
             }
         ]
     },
@@ -17573,6 +20158,23 @@
         ]
     },
     {
+        "remote_id": "yesus-aku-cinta-asmirandah-feat-jonas-rivanno",
+        "language": "indo",
+        "title": "Yesus Aku Cinta",
+        "artist": "Asmirandah Feat Jonas Rivanno",
+        "key": "F",
+        "lyric": [
+            {
+                "type": 1,
+                "text": "[F]  Firman[C/E]Mu Ya [Dm]Dan Amin\n[Bb]  Janji[Gm]Mu Me[C]nopangku\n[F]  Berja[C/E]lan Ber[Dm]samaMu [F/C]\nDi[Bb]setiap Mu[G/B]sim Hidup[C]ku"
+            },
+            {
+                "type": 3,
+                "text": "Ye[F]sus [F/A]   Aku Cin[Bb]ta PadaMu\nYe[Gm]sus [C]  Tetaplah [Fsus4]Bersama[F]ku\nTia[Bb]da Yang Da[C/Bb]pat Meng[Am]gantikan[Dm]Mu\nEngkau[Gm]lah Jami[C]nan Hidup[F]ku"
+            }
+        ]
+    },
+    {
         "remote_id": "yesus-aku-cinta-kepadamu",
         "language": "indo",
         "title": "Yesus Aku Cinta KepadaMu",
@@ -17582,6 +20184,52 @@
             {
                 "type": 1,
                 "text": "[G]Yesus Aku Cin[Am]ta KepadaMu\n[D]Yesus Aku Cin[C]ta Kep[G]adaMu\n[G]Yesus Aku Cin[C]ta KepadaMu\nYe[G]susku Aku [D]Cinta [G]Kau\nDengan [D]S’genap Hatiku\nDengan [G]S’genap Jiwaku\nHanya [A]Engkau Yang Patut Disem[D]bah\nYe[Bm]sus Tak Terukur Ka[Em]sihM[C]u\nYe[G]sus Sung[D]guh Ku Cinta [G]Kau"
+            }
+        ]
+    },
+    {
+        "remote_id": "yesus-besertaku-sekolah-minggu",
+        "language": "indo",
+        "title": "Yesus Besertaku",
+        "artist": "Sekolah Minggu",
+        "key": "E",
+        "lyric": [
+            {
+                "type": 1,
+                "text": "Ku [E]Daki Daki Daki Daki Gunung Yang Tinggi\nKu [B]Turun Turun Turun Turun Lembah Yang Dalam\nKu [E]Melintasi Padang Rumput [C#m]Hijau Terbentang\n[F#m]Yesus Be[B]serta[E]ku"
+            },
+            {
+                "type": 1,
+                "text": "Ku [E]Terbang Terbang Terbang Terbang Luar Angkasa\nKu [B]Selam Selam Selam Selam Dalam Samudera\nKu [E]Dayung Dayung Dayung Dayung [C#m]Perahu Di Sungai\n[F#m]Yesus Be[B]serta[E]ku"
+            },
+            {
+                "type": 3,
+                "text": "Di Kanan [A]Kau Ada   [B]\nDi Kiri [G#m]Kau Ada [C#m]\nDi Atas [F#m]Dan Di Baw[B]ah Kau A[E]da"
+            },
+            {
+                "type": 3,
+                "text": "Di Suka [A]Kau Ada   [B]\nDi Duka[G#m]ku Kau A[C#m]da\nKare[F#m]na Engkau [B]Yesus[E]ku"
+            }
+        ]
+    },
+    {
+        "remote_id": "yesus-engkau-baik-ir-niko",
+        "language": "indo",
+        "title": "Yesus Engkau Baik",
+        "artist": "Ir. Niko",
+        "key": "E",
+        "lyric": [
+            {
+                "type": 1,
+                "text": "Ye[E]sus Engkau Ba[B/D#]ik, Sungguh Ba[A/C#]ik,   [B/D#]Sangat Ba[E]ik\nYe[E]sus Engkau Ba[B/D#]ik, Sungguh Ba[A/C#]ik,   [B/D#]Sangat Ba[E]ik\nKasih-[A]Mu Tak [B]Berkesuda[E]han    [B/D#]        [C#m]\nKasih-[F#m]Mu Ke[B]kal Selama[E]nya"
+            },
+            {
+                "type": 1,
+                "text": "A[E]ku T’lah Menge[G#m]nal Ka[A]sih Ka[B]runia-[E]Mu\nA[E]ku T’lah Mengen[G#m]al Ka[A]sih Ka[B]runia-[E]Mu\nKau Ka[A]ya Re[B]la Jadi Misk[E]in   [B/D#]        [C#m]\nSupa[F#m]ya Ak[B]u Jadi Ka[E]ya   [B]"
+            },
+            {
+                "type": 3,
+                "text": "Ho[E]sa [E/G#]  –   n[A]a, Ho[E]sa [G#m]  –   [C#m]na Ba[E]gi Ye[F#]sus Allah[B]ku\nHo[E]sa [E/G#]  –  n[A]a, Ho[E]sa [G#m]  –   [C#m]na Ba[E]gi   Ye[B]sus Tuhan[E]ku"
             }
         ]
     },
@@ -17681,6 +20329,27 @@
         ]
     },
     {
+        "remote_id": "yesus-kekasih-jiwaku",
+        "language": "indo",
+        "title": "Yesus Kekasih Jiwaku",
+        "artist": "-",
+        "key": "E",
+        "lyric": [
+            {
+                "type": 1,
+                "text": "Yesus Kekasih [E]Jiwaku\nSungguh Kuperca[A]ya PadaMu\nKarena Kasih[B]Mu Padaku\nKau Tebus Do[E]saku [B]"
+            },
+            {
+                "type": 1,
+                "text": "Dari Terbitnya [E]Matahari\nDan Sampai [A]Terbenamnya\nKuangkat La[B]gu Pujian\nTinggikan Na[E]maMu"
+            },
+            {
+                "type": 3,
+                "text": "Dengan Gen[B]dang Kupuji-Kupuji\nDengan Keca[E]pi Oh Oh Oh Oh Oh\nKubernya[B]nyi Haleluya Yesus Keka[E]sihku"
+            }
+        ]
+    },
+    {
         "remote_id": "yesus-kekuatan-true-worshippers",
         "language": "indo",
         "title": "Yesus Kekuatan",
@@ -17740,6 +20409,23 @@
             {
                 "type": 3,
                 "text": "Ye[C]sus Kuper[F]caya\nYe[Dm]sus Sungguh Kuperca[G]ya\nRencana[Am]Mu Yang Aja[E/G#]ib Terja[C/G]di Di Dalam[D/F#]ku\nYe[Dm]sus Sung[G]guh Kuperca[C]ya"
+            }
+        ]
+    },
+    {
+        "remote_id": "yesus-lahir-memberi-terang-baru",
+        "language": "indo",
+        "title": "Yesus Lahir Memberi Terang Baru",
+        "artist": "-",
+        "key": "G",
+        "lyric": [
+            {
+                "type": 1,
+                "text": "Ye[G]sus Lahir Mem[D/F#]b'ri Terang Ba[Em]ru  [D]\nYe[C]sus Lahir Mem[D]b'ri Kes'lama[G]tan\nTia[C]da Dapat Kube[D]rikan\nS'lain [Bm]Semua Hi[Em]dupku\nEngkau [Am]Yesus Tuhan Dan Raja[D]ku"
+            },
+            {
+                "type": 3,
+                "text": "[G]Yesus, [Bm]Yesus\nKau [C]Terbesar Di [Am]Dalam Hidup[D]ku\n[G]Yesus, [Bm]Yesus\nKu [C]Tinggikan Na[G/B]maMu\nRa[Am]ja Segala [D]Raja Di Bu[Em]mi\nRa[Am]ja Segala [D]Raja Di Bu[G]mi"
             }
         ]
     },
@@ -18280,6 +20966,64 @@
             {
                 "type": 5,
                 "text": "D  Em  Bm  G"
+            }
+        ]
+    },
+    {
+        "remote_id": "you-are-my-all-in-all-point-of-grace-feat-nichole-nordeman",
+        "language": "en",
+        "title": "You Are My All In All",
+        "artist": "Point Of Grace Feat. Nichole Nordeman",
+        "key": "D",
+        "lyric": [
+            {
+                "type": 1,
+                "text": "[D]  You Are My [A/C#]Strength When I Am [Bm]Weak\nYou Are The [A]Treasure That I [Em]Seek\nYou Are My [A]All In [D]All  [A]\n[Bm]  Seeking You [F#m]As A Precious [G]Jewel\nLord, To Give [D]Up I’d Be A [Em]Fool\nYou Are My [A]All In [D]All"
+            },
+            {
+                "type": 1,
+                "text": "[D]  Taking My [A/C#]Sin, My Cross, My [Bm]Shame\nRising Up A[A]gain I Bless Your [Em]Name\nYou Are My [A]All In [D]All  [A]\n[Bm]  When I Fall [F#m]Down You Pick Me [G]Up\nWhen I Am [D]Dry You Fill [Em]My Cup\nYou Are My [A]All In [D]All"
+            },
+            {
+                "type": 3,
+                "text": "[D]Jes[A]us, [G]Lamb Of [D]God\n[Em]Worthy [A]Is Your [F#m]Name [A]\n[D]Jes[A]us, [G]Lamb Of [D]God\n[Em]Worthy [A]Is Your [D]Name"
+            }
+        ]
+    },
+    {
+        "remote_id": "you-are-my-father-true-worshippers",
+        "language": "en",
+        "title": "You Are My Father",
+        "artist": "True Worshippers",
+        "key": "A",
+        "lyric": [
+            {
+                "type": 1,
+                "text": "It Doesn’t [Dmaj7]Matter Where I [A/C#]Run, You’re There For [Esus4]Me     [E]\nIt Doesn’t [Dmaj7]Matter What I’ve [A/C#]Done Your Love’s For [Esus4]Me     [E]\nYou Wipe A[F#m7]way The Tears, You [E]Lift Me When I [D]Fall  [A/C#]\nMy [Bm7]Life Is Safe By The Mercy Of Your [Esus4]Grace  [E]"
+            },
+            {
+                "type": 1,
+                "text": "It Doesn’t [Dmaj7]Matter Where I [A/C#]Go, You Walk With [Esus4]Me     [E]\nIt Doesn’t [Dmaj7]Matter When I [A/C#]Fall, You Cover [Esus4]Me     [E]\nYou Wipe [F#m7]Away The Tears, You [E]Lift Me When I [D]Fall  [A/C#]\nMy Life Is [Bm7]Safe By The Mercy Of Your [Esus4]Grace  [E]"
+            },
+            {
+                "type": 3,
+                "text": "You Are My [Aadd9]Father, Pro[E/G#]vider\nYou’re [D]My Delive[E]rer\nYour Mercies Em[F#m7]brace Me, Sur[C#m]round Me\nThrough Your [D]Everlasting [E]Love\nFather I [F#m]Worship You [D]\nFather I [A]Worship You [D/A]     [A]"
+            },
+            {
+                "type": 3,
+                "text": "– Verse"
+            },
+            {
+                "type": 3,
+                "text": "You Are My [Aadd9]Father, Pro[E/G#]vider\nYou’re [D]My Delive[E]rer\nYour Mercies Em[F#m7]brace Me, Sur[C#m]round Me\nThrough Your [D]Everlasting [E]Love\nFather I [F#m]Worship You [D]\nFather I [F#m]Worship You"
+            },
+            {
+                "type": 3,
+                "text": "Interlude :\n[F#m]F#m  [D]D  [A/C#]A/C#  [E]E"
+            },
+            {
+                "type": 4,
+                "text": "[F#m]  And Your Love Is For [D]Me\nAnd Your Love Is For [A/C#]Me\nAnd Your Love Is For[E]ever"
             }
         ]
     },
