@@ -1860,6 +1860,39 @@
         ]
     },
     {
+            "remote_id": "as-the-deer-martin-j-nystrom",
+            "language": "en",
+            "title": "As the Deer",
+            "artist": "Martin J. Nystrom",
+            "key": "B",
+            "lyric": [
+                {
+                    "type": 1,
+                    "text": "[C]As the [G/B]deer panteth [Am]for the w[C/G]ater\nSo my s[F]oul longeth a[G]fter T[C]hee [G/C]\n[C]You a[G/B]lone are my he[Am]art's d[C/G]esire\nAnd I l[F]ong[Dm7] to w[G7]orship T[C]hee. [G/B]"
+                },
+                {
+                    "type": 3,
+                    "text": "[Am]You [Am/G]alone are my st[F]rength[G/F] my s[C/E]hield\nTo [Dm]You a[Dm/C]lone may my s[Dm/B]pirit y[E]ieldC    G/B           Am     C/G\nYou alone are my heart's desire\nAnd I l[F]ong[Dm7] to w[G7]orship T[C]hee  [G/B]"
+                },
+                {
+                    "type": 1,
+                    "text": "I[C] love y[G/B]ou more than g[Am]old or s[C/G]ilver\nOnly [F]You can [G]satisf[C]yC  [G/C]  G/B          Am       C/G\nYou alone are the real joy giver\nAnd the [F]app[Dm7]le o[G7]f my [C]eye  [G/B]"
+                },
+                {
+                    "type": 3,
+                    "text": "Y[Am]ou a[Am/G]lone are my str[F]ength [G/F]my sh[C/E]ield\nTo [Dm]You a[Dm/C]lone may my s[Dm/B]pirit y[E]ieldC    G/B           Am     C/G\nYou alone are my heart's desire\nAnd I l[F]ong[Dm7] to w[G7]orship T[C]hee  [G/B]"
+                },
+                {
+                    "type": 1,
+                    "text": "Y[C]ou're my f[G/B]riend and you a[Am]re my b[C/G]rother\nEven [F]though you [G]are a [C]king[G/C]C     [F/C] G/B           Am       C/G\nI love you more than any other\nSo much [F]more [Dm7]than [G7]any[C]thing[G/B]"
+                },
+                {
+                    "type": 3,
+                    "text": "Y[Am]ou a[Am/G]lone are my str[F]ength [G/F]my sh[C/E]ield\nTo [Dm]You a[Dm/C]lone may my s[Dm/B]pirit y[E]ieldC    G/B           Am     C/G\nYou alone are my heart's desire\nAnd I l[F]ong[Dm7] to w[G7]orship T[C]hee"
+                }
+            ]
+        },
+    {
         "remote_id": "as-we-come-together-symphony-worship",
         "language": "en",
         "title": "As We Come Together",
